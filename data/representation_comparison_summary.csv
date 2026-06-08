@@ -1,4 +1,0 @@
-representation,feature_type,main_information_captured,n_compounds,n_total_columns
-Morgan fingerprints,Binary fingerprint,Circular/local atom neighborhoods,6754,2060
-MACCS keys,Binary fingerprint,Predefined structural keys/substructures,6754,179
-Molecular descriptors,Continuous/count descriptors,Interpretable physicochemical properties,6754,21
