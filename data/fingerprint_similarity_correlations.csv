@@ -1,0 +1,4 @@
+,morgan_tanimoto,maccs_tanimoto,cactvs_pubchem_tanimoto
+morgan_tanimoto,1.0,0.5261626057920467,0.6016298617947016
+maccs_tanimoto,0.5261626057920467,1.0,0.5818663607286473
+cactvs_pubchem_tanimoto,0.6016298617947016,0.5818663607286473,1.0
