@@ -1,0 +1,5 @@
+representation,num_compounds,num_columns,file_name
+Morgan fingerprints,6754,2060,perturbseqr_morgan_fingerprints.csv
+MACCS keys,6754,179,perturbseqr_maccs_keys.csv
+Molecular descriptors,6754,21,perturbseqr_molecular_descriptors.csv
+CACTVS/PubChem fingerprints,6409,893,perturbseqr_cactvs_pubchem_fingerprints.csv
