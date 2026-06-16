@@ -1,0 +1,13 @@
+item,value
+shared_compounds_before_filtering,6373.0
+valid_compounds_used,6373.0
+morgan_features,2048.0
+maccs_features,167.0
+cactvs_features,881.0
+descriptor_features,9.0
+total_combined_features,3105.0
+pca_components,50.0
+pca_variance_retained,0.6363685727119446
+umap_n_neighbors,15.0
+umap_min_dist,0.1
+random_state,42.0
