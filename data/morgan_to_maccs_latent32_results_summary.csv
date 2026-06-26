@@ -1,0 +1,4 @@
+model,latent_dim,dropout_rate,best_val_epoch,best_val_bce,test_bce,test_bitwise_accuracy,mean_pr_auc,median_pr_auc,mean_tanimoto,median_tanimoto
+Morgan → MACCS baseline,32,0.0,16,0.053086974776714584,0.05174683263655278,0.9826588949462866,0.9875931133462316,1.0,0.9454876780509949,1.0
+Morgan → MACCS dropout (p=0.1),32,0.1,50,0.04360659535047722,0.04151744173124088,0.984114346534363,0.9891944687990135,1.0,0.9488030076026917,1.0
+Morgan → MACCS input masking noise (5%),32,0.0,20,0.049183334920571,,,,,,
