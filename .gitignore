@@ -2,3 +2,9 @@ data/drug_master.json
 notebooks/.ipynb_checkpoints/
 .ipynb_checkpoints/
 data/part4_matched_consensus_signatures.csv.gz
+.DS_Store
+data/.DS_Store
+notebooks/.DS_Store
+data/cp_mean_coeff_mat.tsv.gz
+data/nibr-drug-seq-de.parquet
+data/lincs_morgan_fingerprints_2048.npy
