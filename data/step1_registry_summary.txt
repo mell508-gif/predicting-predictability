@@ -1,0 +1,31 @@
+
+Step 1 Compound Registry Expansion
+
+Goal:
+Build compound registry for compound → compound autoencoder.
+
+Sources used:
+- PerturbSeqr drug metadata
+- LINCS small molecules
+- Drug Repurposing Hub
+- CREEDS chemical perturbations
+- Novartis DRUG-seq metadata
+- Tahoe 100M metadata
+- L1000-CP drug metadata
+- CMAP/microarray drug metadata
+- SciPlex drug metadata
+- DeepCoverMOA drug metadata
+- RummaGEO chemical drug metadata
+- ChEMBL 37 chemreps
+- PubChem CID-SMILES subset
+
+Key outputs:
+- step1_compound_registry_clean.csv
+- step1_compound_registry_expanded_clean_fast.csv
+
+Current expanded clean registry:
+- 3,765,890 unique valid canonical SMILES
+
+Important note:
+Only 1,000,000 rows from PubChem CID-SMILES were used for computational feasibility.
+Full PubChem CID-SMILES file contained 123,994,425 rows.

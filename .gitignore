@@ -8,3 +8,23 @@ notebooks/.DS_Store
 data/cp_mean_coeff_mat.tsv.gz
 data/nibr-drug-seq-de.parquet
 data/lincs_morgan_fingerprints_2048.npy
+
+# Raw and processed data
+data/Step 1 Files/
+data/*.csv
+data/*.tsv
+data/*.parquet
+data/*.npy
+data/*.gz
+data/*.json
+
+# Python/Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Models/checkpoints
+models/*.pt
+models/*.pth
+models/*.ckpt
+
