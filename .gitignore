@@ -29,3 +29,4 @@ models/*.pth
 models/*.ckpt
 
 data/step1_fingerprints/
+data/step1_fingerprints/
