@@ -1,0 +1,9 @@
+Latent dim: 128
+Epochs: 50
+Batch size: 512
+Train rows: 3012712
+Val rows: 376589
+Test rows: 376589
+Best val BCE: 0.023495125674009323
+Final test BCE: 0.02905202537059784
+Final test bitwise accuracy: 0.9900360017587572
