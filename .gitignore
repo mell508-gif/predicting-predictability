@@ -30,3 +30,7 @@ models/*.ckpt
 
 data/step1_fingerprints/
 data/step1_fingerprints/
+
+# Step 1 learned embeddings / large metadata
+data/step1_embeddings/*.npy
+data/step1_embeddings/step1_compound_embeddings_metadata.csv

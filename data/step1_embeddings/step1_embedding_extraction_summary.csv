@@ -1,0 +1,2 @@
+n_compounds,latent_dim,checkpoint_epoch,best_val_bce,best_checkpoint_test_bce,best_checkpoint_test_bitwise_accuracy,mean_reconstruction_bce,median_reconstruction_bce,mean_bitwise_accuracy,median_bitwise_accuracy
+3765890,128,9,0.023495125674009323,0.02343893751382828,0.9921464106697934,0.02314833365380764,0.01942124031484127,0.9922233819961548,0.9935511946678162
