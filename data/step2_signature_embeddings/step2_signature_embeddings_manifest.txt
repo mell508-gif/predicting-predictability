@@ -1,0 +1,8 @@
+Step 2 signature embeddings extracted from best 128D signature autoencoder
+Checkpoint: step2_signature_autoencoder_latent128_best.pt
+Checkpoint epoch: 18
+Checkpoint best val loss: 0.2861289122770355
+Input matrix: step2_signature_gene_matrix_signed_sparse.npz
+Embeddings shape: (155722, 128)
+Embedding file: step2_signature_embeddings_latent128_best.npy
+Compact errors file: step2_signature_errors_latent128_best_compact.csv

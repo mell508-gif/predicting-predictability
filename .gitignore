@@ -44,3 +44,17 @@ data/step2_signatures/*.npz
 data/Step\ 1\ Files/*.gz
 data/Step\ 2\ Files/*.gz
 *.parquet
+
+# model checkpoints / large embeddings
+models/*.pt
+data/step1_embeddings/*.npy
+data/step2_signature_embeddings/*.npy
+
+# large generated/raw data
+data/step1_fingerprints/
+data/step2_signatures/*.npz
+data/Step\ 1\ Files/
+data/Step\ 2\ Files/
+*.parquet
+*.tsv.gz
+*.gmt.gz

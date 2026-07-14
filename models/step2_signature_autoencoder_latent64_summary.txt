@@ -1,0 +1,12 @@
+Step 2 Signature Autoencoder - 64D no dropout full 50 epochs
+Input dim genes: 20919
+Latent dim: 64
+Batch size: 128
+LR: 0.0003
+Epochs: 50
+Best epoch: 8
+Best validation loss: 0.315726534990489
+Test loss: 0.319529815228973
+Test nonzero_mse: 0.3038895898707233
+Test zero_mse: 0.1625880201844174
+Test nonzero_sign_accuracy: 0.9241791860435639

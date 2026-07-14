@@ -1,0 +1,14 @@
+Step 2 Signature Autoencoder Model Selection
+===========================================
+
+Models compared:
+- 64D no dropout, trained for 50 epochs
+- 128D no dropout, trained for 50 epochs
+
+Conclusion:
+The 128D signature autoencoder achieved the stronger validation performance. Although validation loss increased after its best epoch, the best-validation checkpoint at epoch 18 had lower validation loss and higher nonzero sign accuracy than the 64D model. Therefore, the 128D best-validation checkpoint will be used for downstream signature embeddings.
+
+Comparison table:
+          model  best_epoch  best_val_loss  best_val_nonzero_mse  best_val_zero_mse  best_val_nonzero_sign_accuracy  final_epoch  final_val_loss  final_val_nonzero_sign_accuracy
+ 64D no dropout           8       0.315727              0.299894           0.161889                        0.926169           50        0.362194                         0.912341
+128D no dropout          18       0.286129              0.270627           0.159084                        0.939338           50        0.307802                         0.934418
