@@ -1,0 +1,12 @@
+Step 3 signature-to-compound matching summary
+============================================
+
+Total signatures: 155722
+Matched signatures: 110387
+Match rate: 0.7089
+
+Corrected matching method:
+- Parsed compound query from Step 2 signature_id
+- If signature_id began with source name, used second field as compound
+- Built aliases from Step 1 compound_name split by ';' and pert_id
+- Matched normalized Step 2 compound query to Step 1 aliases

@@ -1,0 +1,28 @@
+Step 3 multimodal model table summary
+=====================================
+
+Input matched table: step3_signature_to_compound_matched_table_improved.csv
+Total rows in improved matched table: 155722
+Usable matched rows: 112974
+Unique compound embedding rows: 6605
+Unique signature rows: 112974
+
+This table links Step 1 compound embeddings/errors to Step 2 signature embeddings/errors.
+It is the base table for the third multimodal predictability model.
+
+Summary by source:
+      source     n  unique_compounds  mean_signature_reconstruction_loss  mean_compound_reconstruction_bce  mean_signature_sign_accuracy  mean_compound_bitwise_accuracy
+       L1000 60964              4718                            0.189851                          0.019998                      0.977776                        0.993412
+  tahoe-100m 39606               273                            0.169700                          0.022237                      0.976341                        0.992561
+    novartis  4554              1601                            0.103411                          0.019543                      0.992149                        0.993447
+cmap-build02  3945               841                            0.183077                          0.017983                      0.970254                        0.994161
+    rummageo  1832               164                            0.260525                          0.015418                      0.955219                        0.995073
+     sciplex  1274               105                            0.438773                          0.019263                      0.877074                        0.993698
+      creeds   460               153                            0.348138                          0.020338                      0.914584                        0.993434
+deepcovermoa   339               339                            0.359454                          0.021365                      0.914521                        0.992809
+
+Summary by match method:
+   match_method      n  unique_compounds
+     exact_name 102027              4960
+         brd_id   7050              1586
+aggressive_name   3897               200
