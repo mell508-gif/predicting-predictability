@@ -1,0 +1,9 @@
+file,rows,min_fields,max_fields,total_gene_entries,mean_genes_per_row,example_term,elapsed_sec
+L1000-gmatrix.gmt.gz,156926,240,252,38786679,247.16540917375067,bortezomib::HT29::::24H::20uM::REP.B007::C23::BRD-K50691590 up,2.1968607902526855
+cmap-build02-gmatrix.gmt.gz,11994,86,102,1143521,95.34108721027181,"1,4-chrysenequinone::HL60::::6h::15.4uM::batch641 up",0.07392215728759766
+creeds-gmatrix.gmt.gz,1542,3,5914,438873,284.61284046692606,Fluorouracil::::::::::mus musculus::GSE1559.3639 up,0.027453184127807617
+deepcovermoa-gmatrix.gmt.gz,1748,94,102,172420,98.63844393592677,(4-Chlorobenzyl)pyridine::HCT116::::24h::10uM up,0.012788057327270508
+novartis-gmatrix.gmt.gz,18810,5,7884,2361911,125.56677299308878,"2-amino-7-(thiophen-3-ylmethyl)-1,5-dihydropyrrolo[3,2-d]pyrimidin-4-one::U2OS::::24h::0.01uM::NSN:AA-01-JO26 up",0.13858294486999512
+rummageo-gmatrix.gmt.gz,5345,6,1919,3997947,747.978858746492,ethanol::::::::::mouse::GSE100217::1::0 up,0.2089862823486328
+sciplex-gmatrix.gmt.gz,4604,495,502,2295151,498.51238053866206,2-Methoxyestradiol::A549::::24h::100nM up,0.12198185920715332
+tahoe-100m-gmatrix.gmt.gz,105404,6,102,9732516,92.33535729194338,(R)-Verapamil (hydrochloride)::A-172::CNS/Brain::24h::0.05uM up,0.6221318244934082

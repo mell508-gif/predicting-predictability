@@ -1,0 +1,9 @@
+Step 2 Signature Autoencoder
+Latent dim: 128
+Input dim genes: 20919
+Best checkpoint epoch: 18
+Best validation loss: 0.2861289122770355
+Test loss: 0.28964391823817115
+Test nonzero_mse: 0.27435902722247224
+Test zero_mse: 0.15972867097097865
+Test nonzero_sign_accuracy: 0.9374453954741557
