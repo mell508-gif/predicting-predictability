@@ -1,0 +1,2 @@
+n_compounds,embedding_dim,mean_reconstruction_bce,median_reconstruction_bce,std_reconstruction_bce,min_reconstruction_bce,max_reconstruction_bce,mean_bitwise_accuracy,median_bitwise_accuracy,std_bitwise_accuracy,min_bitwise_accuracy,max_bitwise_accuracy
+3765890,128,0.02314833365380764,0.01942124031484127,0.017270896583795547,0.00013194166240282357,0.2669306993484497,0.9922233819961548,0.9935511946678162,0.0059862202033400536,0.9107430577278137,1.0

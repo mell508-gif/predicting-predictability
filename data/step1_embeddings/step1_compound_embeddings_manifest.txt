@@ -1,0 +1,16 @@
+Step 1 compound embeddings and reconstruction errors
+===================================================
+
+Existing extracted files:
+- Embeddings: step1_drug_embeddings_128.npy, shape (3765890, 128)
+- Reconstruction BCE: step1_reconstruction_bce_per_compound.npy, shape (3765890,)
+- Bitwise accuracy: step1_bitwise_accuracy_per_compound.npy, shape (3765890,)
+- Metadata: step1_compound_embeddings_metadata.csv
+
+Model:
+- Compound autoencoder, latent dimension 128
+- Best checkpoint: step1_compound_autoencoder_latent128_best.pt
+
+Summary:
+ n_compounds  embedding_dim  mean_reconstruction_bce  median_reconstruction_bce  std_reconstruction_bce  min_reconstruction_bce  max_reconstruction_bce  mean_bitwise_accuracy  median_bitwise_accuracy  std_bitwise_accuracy  min_bitwise_accuracy  max_bitwise_accuracy
+     3765890            128                 0.023148                   0.019421                0.017271                0.000132                0.266931               0.992223                 0.993551              0.005986              0.910743                   1.0
