@@ -68,3 +68,7 @@ data/step2_signatures/*.npz
 data/step3_multimodal/*.npz
 data/step3_multimodal/*row_errors*.csv
 data/step3_multimodal/*with_source_normalized.csv
+
+# old first-pass Step 3 local artifacts
+data/step3_multimodal/step3_bowtie_row_metadata_first_pass.csv
+data/step3_multimodal/step3_compound_predictability_first_pass.csv
