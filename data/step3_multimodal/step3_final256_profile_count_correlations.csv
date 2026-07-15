@@ -1,0 +1,4 @@
+comparison,pearson,spearman
+n_profiles vs mean_total_error,-0.23264246758556184,-0.38082080207159935
+n_profiles vs source_normalized_error,-0.1753788849654447,-0.33704926301846755
+n_profiles vs variance_total_error,0.04764183355071813,0.6211240010899765

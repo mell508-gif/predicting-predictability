@@ -1,0 +1,16 @@
+Step 3 Bowtie Autoencoder Bottleneck Sweep
+==========================================
+
+Latent dimensions tested: [32, 64, 128, 256]
+Epochs per latent dim: 50
+Input dim: 682
+Train rows: 79081
+Val rows: 16946
+Test rows: 16947
+
+Best validation row per latent dimension:
+ latent_dim  epoch  train_loss  val_loss  train_compound_mse  train_signature_mse  train_numeric_mse  train_categorical_bce  val_compound_mse  val_signature_mse  val_numeric_mse  val_categorical_bce  elapsed_min  best_val_loss_so_far  best_epoch_so_far  batch_size     lr
+        256     50    0.171863  0.171766            0.058749             0.106333           0.003002               0.012362          0.058287           0.106580         0.001146             0.013340     0.061991              0.171766                 50         256 0.0003
+        128     50    0.337012  0.342202            0.146578             0.183527           0.003225               0.012524          0.148740           0.185631         0.005492             0.013466     0.061008              0.342202                 50         256 0.0003
+         64     50    0.647095  0.665704            0.275003             0.364224           0.006963               0.012952          0.284101           0.373263         0.006677             0.014007     0.060534              0.665704                 50         256 0.0003
+         32     50    0.839738  0.875382            0.319455             0.510690           0.014787               0.013271          0.333381           0.531652         0.015653             0.014438     0.059923              0.875382                 50         256 0.0003

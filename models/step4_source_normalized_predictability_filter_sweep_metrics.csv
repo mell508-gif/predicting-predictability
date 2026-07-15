@@ -1,0 +1,13 @@
+target,target_label,model,min_profiles,n_total,n_train,n_test,n_features,r2,mae,rmse,spearman
+source_normalized_inverted_score,Source-normalized predictability score,extra_trees,100,349,279,70,130,0.3054558919403263,0.054045240955019364,0.07048713662588012,0.598705275129035
+source_normalized_inverted_score,Source-normalized predictability score,random_forest,100,349,279,70,130,0.2770514113808197,0.05535507473632886,0.07191403549441516,0.536593473886799
+source_normalized_inverted_score,Source-normalized predictability score,hist_gradient_boosting,100,349,279,70,130,0.2736633142239966,0.0583451994124091,0.07208235101618621,0.5227714110751465
+source_normalized_inverted_score,Source-normalized predictability score,ridge,100,349,279,70,130,-0.15615475177764893,0.07026433199644089,0.09094272075820703,0.41072522089056074
+source_normalized_inverted_score,Source-normalized predictability score,random_forest,5,2624,2099,525,130,0.152283603274866,0.1093158899723427,0.14263138245032803,0.4093883377272287
+source_normalized_inverted_score,Source-normalized predictability score,extra_trees,5,2624,2099,525,130,0.1535233640966387,0.1087355956535609,0.14252704714451314,0.4061863346996246
+source_normalized_inverted_score,Source-normalized predictability score,hist_gradient_boosting,5,2624,2099,525,130,0.1545242685553896,0.10795642195449602,0.14244275766370376,0.40498212647244264
+source_normalized_inverted_score,Source-normalized predictability score,random_forest,20,801,640,161,130,0.141117529134547,0.06292050400158526,0.08315304213281975,0.39712617690815477
+source_normalized_inverted_score,Source-normalized predictability score,extra_trees,20,801,640,161,130,0.15367558004818038,0.0630370153587304,0.08254289732579968,0.3931119113124372
+source_normalized_inverted_score,Source-normalized predictability score,hist_gradient_boosting,20,801,640,161,130,0.12726073281783323,0.06312667061778769,0.08382113382305026,0.37206577241912964
+source_normalized_inverted_score,Source-normalized predictability score,ridge,20,801,640,161,130,0.0324329137802124,0.06996791809797287,0.08825753503208623,0.34890610543638634
+source_normalized_inverted_score,Source-normalized predictability score,ridge,5,2624,2099,525,130,0.024511218070983887,0.11657898128032684,0.1530033467653688,0.2839654607604872

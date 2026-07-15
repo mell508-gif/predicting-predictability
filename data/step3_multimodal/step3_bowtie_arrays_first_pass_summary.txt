@@ -1,0 +1,21 @@
+Step 3 Bowtie Autoencoder Arrays - First Pass
+============================================
+
+Model table: step3_multimodal_model_table_matched_improved.csv
+Compound embeddings: step1_drug_embeddings_128.npy
+Signature embeddings: step2_signature_embeddings_latent128_best.npy
+
+Rows: 112974
+Total input dim: 682
+Compound embedding dim: 128
+Signature embedding dim: 128
+Numeric context dim: 2
+Categorical context dim: 424
+
+Train rows: 79081
+Val rows: 16946
+Test rows: 16947
+
+Bowtie setup:
+Input and target both contain compound embedding, signature embedding, and context metadata.
+The autoencoder compresses this multimodal row into a joint embedding and reconstructs the full row.

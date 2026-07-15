@@ -1,0 +1,15 @@
+Step 3 Bowtie Autoencoder - Latent 256 Continued Training
+========================================================
+
+Input dim: 682
+Latent dim: 256
+Total epochs: 100
+Best epoch: 100
+Best val loss: 0.09108272939304893
+
+Test metrics:
+loss: 0.09249519214017374
+compound_mse: 0.025773476055060657
+signature_mse: 0.060250256193199785
+numeric_mse: 0.0005257492760486106
+categorical_bce: 0.01273262186722528

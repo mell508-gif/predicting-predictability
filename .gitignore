@@ -58,3 +58,13 @@ data/Step\ 2\ Files/
 *.parquet
 *.tsv.gz
 *.gmt.gz
+
+# large model/data artifacts
+models/*.pt
+models/*.joblib
+data/step1_embeddings/*.npy
+data/step2_signature_embeddings/*.npy
+data/step2_signatures/*.npz
+data/step3_multimodal/*.npz
+data/step3_multimodal/*row_errors*.csv
+data/step3_multimodal/*with_source_normalized.csv

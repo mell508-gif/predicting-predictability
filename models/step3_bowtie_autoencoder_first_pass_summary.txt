@@ -1,0 +1,18 @@
+Step 3 Bowtie Autoencoder - First Pass
+=====================================
+
+Input dim: 682
+Latent dim: 128
+Rows: 112974
+Train rows: 79081
+Val rows: 16946
+Test rows: 16947
+Best epoch: 50
+Best val loss: 0.3604666906546691
+
+Test metrics:
+loss: 0.3645626516523506
+compound_mse: 0.15630015179461249
+signature_mse: 0.20022395125158263
+numeric_mse: 0.0056492600600102335
+categorical_bce: 0.01381739666658534
