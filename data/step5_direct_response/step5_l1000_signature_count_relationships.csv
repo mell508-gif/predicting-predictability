@@ -1,0 +1,4 @@
+comparison,spearman
+n_test_signatures vs mean_response_mse,-0.22773434034330534
+n_test_signatures vs mean_response_cosine,0.1510509940687533
+n_test_signatures vs Step 3 score,0.3926632101957664

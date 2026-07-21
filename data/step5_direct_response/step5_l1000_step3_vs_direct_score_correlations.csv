@@ -1,0 +1,5 @@
+step5_direct_metric,spearman_with_step3_score,n_compounds
+mean_response_mse,-0.22330033158603166,472
+mean_response_mae,-0.2117930087856801,472
+mean_response_cosine,0.14018641141785324,472
+mean_response_pearson,0.1385485727805546,472

@@ -1,0 +1,2 @@
+model,mse,mae,mean_cosine_similarity,median_cosine_similarity,mean_pearson,median_pearson,best_epoch
+MLP,0.7391857504844666,0.6843974590301514,0.6184057891618139,0.6186497807502747,0.6188755198994451,0.6189440488815308,3
