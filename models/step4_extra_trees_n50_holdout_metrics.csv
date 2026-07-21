@@ -1,0 +1,2 @@
+model,minimum_profiles,target,n_total,n_train,n_test,n_features,r2,spearman,mae,rmse,test_size,random_state
+ExtraTreesRegressor,50,source_normalized_inverted_score,478,382,96,128,0.23161715650782688,0.47817417254476396,0.052731194181936954,0.06698203336616108,0.2,42
