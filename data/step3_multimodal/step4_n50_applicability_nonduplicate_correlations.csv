@@ -1,0 +1,4 @@
+domain_metric,spearman_with_absolute_error,n_compounds
+nearest_tanimoto,-0.015211933804207491,93
+mean_top5_tanimoto,0.036495479096416095,93
+sdc,-0.005550416281221091,93
