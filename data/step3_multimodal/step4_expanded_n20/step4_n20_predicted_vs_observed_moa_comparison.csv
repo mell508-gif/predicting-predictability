@@ -1,0 +1,15 @@
+moa,predicted_log2_odds_ratio,predicted_adjusted_p_value,predicted_direction,observed_log2_odds_ratio,observed_adjusted_p_value,observed_direction,significant_in_predicted_analysis,significant_in_observed_analysis,same_effect_direction
+Topoisomerase inhibitor,3.4033148049088253,0.00212353569577719,More common in most predictable,3.40171612078101,0.005670647796822048,More common in highest observed,True,True,True
+mTOR inhibitor,3.645785643271022,0.04327281132234424,More common in most predictable,4.124832382471639,0.020736857175010146,More common in highest observed,True,True,True
+HDAC inhibitor,-1.7375402585995716,0.24691860442573496,More common in least predictable,2.8253888448878657,0.022780891669416405,More common in highest observed,False,True,False
+Tubulin polymerization inhibitor,1.4978299089951819,0.41381051831264054,More common in most predictable,3.545519141313748,0.08028946648948772,More common in highest observed,False,False,True
+Glucocorticoid receptor agonist,4.6550399282674,0.00212353569577719,More common in most predictable,1.9488273480104847,0.25498900450128514,More common in highest observed,True,False,True
+ATPase inhibitor,3.8630029516075184,0.04057017328468092,More common in most predictable,1.6973648908695234,0.3690806610438915,More common in highest observed,True,False,True
+protein synthesis inhibitor,,,,1.397479127894539,0.5391571485055069,More common in highest observed,False,False,False
+HSP inhibitor,,,,0.7026863239014278,0.639646344252402,More common in highest observed,False,False,False
+PI3K inhibitor,,,,0.6486880983315433,0.7659257984543272,More common in highest observed,False,False,False
+CDK inhibitor,,,,0.2758130105550966,1.0,More common in highest observed,False,False,False
+AKT inhibitor,0.37649245561707767,1.0,More common in most predictable,,,,False,False,False
+Adrenergic receptor agonist,-3.6338560067901424,0.04057017328468092,More common in least predictable,,,,True,False,False
+Aurora kinase inhibitor,-3.6338560067901424,0.04057017328468092,More common in least predictable,,,,True,False,False
+Retinoid receptor agonist,-3.6338560067901424,0.04057017328468092,More common in least predictable,,,,True,False,False

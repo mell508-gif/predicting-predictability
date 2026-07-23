@@ -1,0 +1,486 @@
+compound_embedding_row_index,compound_name,model_prediction_group,moa,moa_annotation
+5185,Doxorubicin (hydrochloride); Doxorubicin Hydrochloride; Epirubicin (hydrochloride); Epirubicin Hydrochloride,Most predictable,dna polymerase inhibitor | topoisomerase inhibitor; inhibitor/antagonist; topoisomerase inhibitor,dna polymerase inhibitor | topoisomerase inhibitor
+5185,Doxorubicin (hydrochloride); Doxorubicin Hydrochloride; Epirubicin (hydrochloride); Epirubicin Hydrochloride,Most predictable,dna polymerase inhibitor | topoisomerase inhibitor; inhibitor/antagonist; topoisomerase inhibitor,inhibitor/antagonist
+5185,Doxorubicin (hydrochloride); Doxorubicin Hydrochloride; Epirubicin (hydrochloride); Epirubicin Hydrochloride,Most predictable,dna polymerase inhibitor | topoisomerase inhibitor; inhibitor/antagonist; topoisomerase inhibitor,topoisomerase inhibitor
+5134,Idarubicin (hydrochloride); Idarubicin Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,inhibitor/antagonist
+5134,Idarubicin (hydrochloride); Idarubicin Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,topoisomerase inhibitor
+5137,Docetaxel (Trihydrate); Docetaxel Trihydrate,Most predictable,tubulin polymerization inhibitor; unclear,tubulin polymerization inhibitor
+5137,Docetaxel (Trihydrate); Docetaxel Trihydrate,Most predictable,tubulin polymerization inhibitor; unclear,unclear
+2020,Erdafitinib,Least predictable,FGFR inhibitor; inhibitor/antagonist,FGFR inhibitor
+2020,Erdafitinib,Least predictable,FGFR inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5198,Mitoxantrone (dihydrochloride); Mitoxantrone Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,inhibitor/antagonist
+5198,Mitoxantrone (dihydrochloride); Mitoxantrone Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,topoisomerase inhibitor
+5152,Topotecan (hydrochloride); Topotecan Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,inhibitor/antagonist
+5152,Topotecan (hydrochloride); Topotecan Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,topoisomerase inhibitor
+5197,Pyridoxine (hydrochloride); Pyridoxine Hydrochloride,Least predictable,unclear; vitamin B,unclear
+5197,Pyridoxine (hydrochloride); Pyridoxine Hydrochloride,Least predictable,unclear; vitamin B,vitamin B
+1770,"1-O-[(2S,3S,6R)-4-methoxy-16,18-dioxa-10-azapentacyclo[11.7.0.02,6.06,10.015,19]icosa-1(20),4,13,15(19)-tetraen-3-yl] 4-O-methyl (2R)-2-hydroxy-2-(3-hydroxy-3-methylbutyl)butanedioate; Harringtonine",Most predictable,Translation Inititiation Inhibitor; protein synthesis inhibitor,Translation Inititiation Inhibitor
+1770,"1-O-[(2S,3S,6R)-4-methoxy-16,18-dioxa-10-azapentacyclo[11.7.0.02,6.06,10.015,19]icosa-1(20),4,13,15(19)-tetraen-3-yl] 4-O-methyl (2R)-2-hydroxy-2-(3-hydroxy-3-methylbutyl)butanedioate; Harringtonine",Most predictable,Translation Inititiation Inhibitor; protein synthesis inhibitor,protein synthesis inhibitor
+2136,Hesperidin,Most predictable,flavanone glycoside; unclear,flavanone glycoside
+2136,Hesperidin,Most predictable,flavanone glycoside; unclear,unclear
+1831,Rifaximin,Most predictable,RNA synthesis inhibitor; unclear,RNA synthesis inhibitor
+1831,Rifaximin,Most predictable,RNA synthesis inhibitor; unclear,unclear
+5239,Fusidic Acid; Fusidic acid,Most predictable,bacterial 30S ribosomal subunit inhibitor; inhibitor/antagonist,bacterial 30S ribosomal subunit inhibitor
+5239,Fusidic Acid; Fusidic acid,Most predictable,bacterial 30S ribosomal subunit inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5154,Azithromycin (hydrate); Azithromycin Dihydrate,Most predictable,bacterial 50S ribosomal subunit inhibitor; unclear,bacterial 50S ribosomal subunit inhibitor
+5154,Azithromycin (hydrate); Azithromycin Dihydrate,Most predictable,bacterial 50S ribosomal subunit inhibitor; unclear,unclear
+643,Glycyrrhizic acid; Glycyrrhizin,Least predictable,inhibitor/antagonist; thrombin inhibitor,inhibitor/antagonist
+643,Glycyrrhizic acid; Glycyrrhizin,Least predictable,inhibitor/antagonist; thrombin inhibitor,thrombin inhibitor
+5158,Procainamide (hydrochloride); Procainamide Hydrochloride,Least predictable,inhibitor/antagonist; sodium channel blocker,inhibitor/antagonist
+5158,Procainamide (hydrochloride); Procainamide Hydrochloride,Least predictable,inhibitor/antagonist; sodium channel blocker,sodium channel blocker
+5164,Daraxonrasib; RMC-6236,Most predictable,inhibitor/antagonist,inhibitor/antagonist
+5328,Demeclocycline,Most predictable,bacterial 30S ribosomal subunit inhibitor; inhibitor/antagonist,bacterial 30S ribosomal subunit inhibitor
+5328,Demeclocycline,Most predictable,bacterial 30S ribosomal subunit inhibitor; inhibitor/antagonist,inhibitor/antagonist
+483,Ipatasertib,Most predictable,AKT inhibitor; inhibitor/antagonist,AKT inhibitor
+483,Ipatasertib,Most predictable,AKT inhibitor; inhibitor/antagonist,inhibitor/antagonist
+791,Erythromycin,Most predictable,NFkB pathway inhibitor; inhibitor/antagonist,NFkB pathway inhibitor
+791,Erythromycin,Most predictable,NFkB pathway inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5524,Gamma-Oryzanol; γ-Oryzanol,Most predictable,inhibitor/antagonist,inhibitor/antagonist
+5217,Pitavastatin (Calcium); Pitavastatin Calcium,Most predictable,HMGCR inhibitor; inhibitor/antagonist,HMGCR inhibitor
+5217,Pitavastatin (Calcium); Pitavastatin Calcium,Most predictable,HMGCR inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5539,Talc,Least predictable,unclear,unclear
+2709,Tucatinib,Least predictable,EGFR inhibitor; inhibitor/antagonist,EGFR inhibitor
+2709,Tucatinib,Least predictable,EGFR inhibitor; inhibitor/antagonist,inhibitor/antagonist
+430,Ixazomib citrate,Most predictable,inhibitor/antagonist; proteasome inhibitor,inhibitor/antagonist
+430,Ixazomib citrate,Most predictable,inhibitor/antagonist; proteasome inhibitor,proteasome inhibitor
+754,Clobetasol Propionate; Clobetasol propionate,Most predictable,glucocorticoid receptor agonist; inhibitor/antagonist,glucocorticoid receptor agonist
+754,Clobetasol Propionate; Clobetasol propionate,Most predictable,glucocorticoid receptor agonist; inhibitor/antagonist,inhibitor/antagonist
+2240,"Naproxen, (-)-; naproxen",Least predictable,Cyclooxygenase inhibitor; cyclooxygenase inhibitor,Cyclooxygenase inhibitor
+2240,"Naproxen, (-)-; naproxen",Least predictable,Cyclooxygenase inhibitor; cyclooxygenase inhibitor,cyclooxygenase inhibitor
+428,Bestatin; Ubenimex,Least predictable,inhibitor/antagonist; leukotriene synthesis inhibitor,inhibitor/antagonist
+428,Bestatin; Ubenimex,Least predictable,inhibitor/antagonist; leukotriene synthesis inhibitor,leukotriene synthesis inhibitor
+1666,Capmatinib,Least predictable,c-Met inhibitor; inhibitor/antagonist,c-Met inhibitor
+1666,Capmatinib,Least predictable,c-Met inhibitor; inhibitor/antagonist,inhibitor/antagonist
+1784,Eplerenone; eplerenone,Most predictable,Cytochrome P450 inhibitor; cytochrome P450 inhibitor,Cytochrome P450 inhibitor
+1784,Eplerenone; eplerenone,Most predictable,Cytochrome P450 inhibitor; cytochrome P450 inhibitor,cytochrome P450 inhibitor
+5204,Cytarabine (hydrochloride); Cytarabine Hydrochloride,Most predictable,inhibitor/antagonist; ribonucleotide reductase inhibitor,inhibitor/antagonist
+5204,Cytarabine (hydrochloride); Cytarabine Hydrochloride,Most predictable,inhibitor/antagonist; ribonucleotide reductase inhibitor,ribonucleotide reductase inhibitor
+155,Tirabrutinib,Least predictable,Bruton's tyrosine kinase (BTK) inhibitor; inhibitor/antagonist,Bruton's tyrosine kinase (BTK) inhibitor
+155,Tirabrutinib,Least predictable,Bruton's tyrosine kinase (BTK) inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5192,"5-((6-([1,1'-biphenyl]-4-yl)-5-chloro-1H-benzo[d]imidazol-2-yl)oxy)-2-methylbenzoic acid; MK-3903",Least predictable,activator/agonist,activator/agonist
+5210,Niclosamide (olamine); Niclosamide ethanolamine salt,Most predictable,inhibitor/antagonist,inhibitor/antagonist
+5518,Ouabain (Octahydrate); Ouabain Octahydrate,Most predictable,unclear,unclear
+5199,Clonidine (hydrochloride); Clonidine Hydrochloride,Least predictable,activator/agonist; adrenergic receptor agonist,activator/agonist
+5199,Clonidine (hydrochloride); Clonidine Hydrochloride,Least predictable,activator/agonist; adrenergic receptor agonist,adrenergic receptor agonist
+5157,Lidocaine (hydrochloride); Lidocaine Hydrochloride,Least predictable,histamine receptor agonist; unclear,histamine receptor agonist
+5157,Lidocaine (hydrochloride); Lidocaine Hydrochloride,Least predictable,histamine receptor agonist; unclear,unclear
+4096,Daidzin,Most predictable,antioxidant; inhibitor/antagonist,antioxidant
+4096,Daidzin,Most predictable,antioxidant; inhibitor/antagonist,inhibitor/antagonist
+4076,"5-Fluorouracil; 5-fluoro-1H-pyrimidine-2,4-dione",Least predictable,thymidylate synthase; thymidylate synthase inhibitor,thymidylate synthase
+4076,"5-Fluorouracil; 5-fluoro-1H-pyrimidine-2,4-dione",Least predictable,thymidylate synthase; thymidylate synthase inhibitor,thymidylate synthase inhibitor
+5146,"2-Pyridinamine, 3-((1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy)-5-(1-(4-piperidinyl)-1H-pyrazol-4-yl)-, hydrochloride (1:1); Crizotinib (hydrochloride)",Most predictable,ALK tyrosine kinase receptor inhibitor; inhibitor/antagonist,ALK tyrosine kinase receptor inhibitor
+5146,"2-Pyridinamine, 3-((1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy)-5-(1-(4-piperidinyl)-1H-pyrazol-4-yl)-, hydrochloride (1:1); Crizotinib (hydrochloride)",Most predictable,ALK tyrosine kinase receptor inhibitor; inhibitor/antagonist,inhibitor/antagonist
+4,Quinestrol,Most predictable,estrogen receptor agonist; unclear,estrogen receptor agonist
+4,Quinestrol,Most predictable,estrogen receptor agonist; unclear,unclear
+1834,Artemether,Most predictable,antimalarial agent; unclear,antimalarial agent
+1834,Artemether,Most predictable,antimalarial agent; unclear,unclear
+5151,Pravastatin (sodium); Pravastatin Sodium,Most predictable,HMGCR inhibitor; inhibitor/antagonist,HMGCR inhibitor
+5151,Pravastatin (sodium); Pravastatin Sodium,Most predictable,HMGCR inhibitor; inhibitor/antagonist,inhibitor/antagonist
+721,Methylprednisolone Succinate; Methylprednisolone succinate,Most predictable,glucocorticoid receptor agonist; unclear,glucocorticoid receptor agonist
+721,Methylprednisolone Succinate; Methylprednisolone succinate,Most predictable,glucocorticoid receptor agonist; unclear,unclear
+2900,Radotinib,Least predictable,Bcr-Abl kinase inhibitor; inhibitor/antagonist,Bcr-Abl kinase inhibitor
+2900,Radotinib,Least predictable,Bcr-Abl kinase inhibitor; inhibitor/antagonist,inhibitor/antagonist
+322,Finasteride,Most predictable,5 alpha reductase inhibitor; inhibitor/antagonist,5 alpha reductase inhibitor
+322,Finasteride,Most predictable,5 alpha reductase inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5155,Fingolimod (hydrochloride); Fingolimod Hydrochloride,Least predictable,immunosuppressant | sphingosine 1-phosphate receptor agonist; unclear,immunosuppressant | sphingosine 1-phosphate receptor agonist
+5155,Fingolimod (hydrochloride); Fingolimod Hydrochloride,Least predictable,immunosuppressant | sphingosine 1-phosphate receptor agonist; unclear,unclear
+3558,Adenine,Least predictable,protein synthesis stimulant; unclear,protein synthesis stimulant
+3558,Adenine,Least predictable,protein synthesis stimulant; unclear,unclear
+5523,Methyl Aminolevulinate Hydrochloride; Methyl aminolevulinate (hydrochloride),Least predictable,unclear,unclear
+5153,Vinblastine (sulfate); Vinblastine Sulfate,Most predictable,inhibitor/antagonist; microtubule inhibitor | tubulin polymerization inhibitor,inhibitor/antagonist
+5153,Vinblastine (sulfate); Vinblastine Sulfate,Most predictable,inhibitor/antagonist; microtubule inhibitor | tubulin polymerization inhibitor,microtubule inhibitor | tubulin polymerization inhibitor
+3315,Capivasertib,Most predictable,AKT inhibitor; inhibitor/antagonist,AKT inhibitor
+3315,Capivasertib,Most predictable,AKT inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5202,L-Eflornithine (monohydrochloride),Least predictable,inhibitor/antagonist,inhibitor/antagonist
+5187,Lapatinib Ditosylate; Lapatinib ditosylate,Least predictable,inhibitor/antagonist,inhibitor/antagonist
+5521,"2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-; Tetracycline (hydrochloride)",Most predictable,bacterial 30S ribosomal subunit inhibitor; unclear,bacterial 30S ribosomal subunit inhibitor
+5521,"2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-; Tetracycline (hydrochloride)",Most predictable,bacterial 30S ribosomal subunit inhibitor; unclear,unclear
+5535,Gallic acid (hydrate); Gallic acid monohydrate,Least predictable,inhibitor/antagonist,inhibitor/antagonist
+5411,Ligustrazine; Tetramethylpyrazine,Least predictable,unclear,unclear
+4777,bergenin,Most predictable,Interleukin inhibitor,Interleukin inhibitor
+609,Captopril,Least predictable,angiotensin converting enzyme inhibitor; inhibitor/antagonist,angiotensin converting enzyme inhibitor
+609,Captopril,Least predictable,angiotensin converting enzyme inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5159,NG-25; NG25,Least predictable,inhibitor/antagonist,inhibitor/antagonist
+5149,Rutin (trihydrate); Rutin trihydrate,Most predictable,antioxidant | capillary stabilizing agent | nitric oxide scavenger; unclear,antioxidant | capillary stabilizing agent | nitric oxide scavenger
+5149,Rutin (trihydrate); Rutin trihydrate,Most predictable,antioxidant | capillary stabilizing agent | nitric oxide scavenger; unclear,unclear
+5401,Methylthiouracil,Least predictable,unclear,unclear
+696,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid; Retinoic Acid",Least predictable,Retinoid RORbeta Ligands; retinoid receptor agonist | retinoid receptor ligand,Retinoid RORbeta Ligands
+696,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid; Retinoic Acid",Least predictable,Retinoid RORbeta Ligands; retinoid receptor agonist | retinoid receptor ligand,retinoid receptor agonist | retinoid receptor ligand
+616,Darolutamide,Least predictable,androgen receptor antagonist; inhibitor/antagonist,androgen receptor antagonist
+616,Darolutamide,Least predictable,androgen receptor antagonist; inhibitor/antagonist,inhibitor/antagonist
+1750,Dimethyl Fumarate; dimethyl (E)-but-2-enedioate,Least predictable,"NF-kappaB (NFKB) Activation Inhibitors;Nuclear Factor, Erythroid Derived 2, Like 2 (Nrf2) Activators;Kelch-like ECH-Associated Protein 1 (Keap1, INrf2) Ligands; nuclear factor erythroid derived, like (NRF2) activator","Kelch-like ECH-Associated Protein 1 (Keap1, INrf2) Ligands"
+1750,Dimethyl Fumarate; dimethyl (E)-but-2-enedioate,Least predictable,"NF-kappaB (NFKB) Activation Inhibitors;Nuclear Factor, Erythroid Derived 2, Like 2 (Nrf2) Activators;Kelch-like ECH-Associated Protein 1 (Keap1, INrf2) Ligands; nuclear factor erythroid derived, like (NRF2) activator",NF-kappaB (NFKB) Activation Inhibitors
+1750,Dimethyl Fumarate; dimethyl (E)-but-2-enedioate,Least predictable,"NF-kappaB (NFKB) Activation Inhibitors;Nuclear Factor, Erythroid Derived 2, Like 2 (Nrf2) Activators;Kelch-like ECH-Associated Protein 1 (Keap1, INrf2) Ligands; nuclear factor erythroid derived, like (NRF2) activator","Nuclear Factor, Erythroid Derived 2, Like 2 (Nrf2) Activators"
+1750,Dimethyl Fumarate; dimethyl (E)-but-2-enedioate,Least predictable,"NF-kappaB (NFKB) Activation Inhibitors;Nuclear Factor, Erythroid Derived 2, Like 2 (Nrf2) Activators;Kelch-like ECH-Associated Protein 1 (Keap1, INrf2) Ligands; nuclear factor erythroid derived, like (NRF2) activator","nuclear factor erythroid derived, like (NRF2) activator"
+5188,Nafamostat (mesylate); Nafamostat Mesylate,Least predictable,inhibitor/antagonist; serine protease inhibitor,inhibitor/antagonist
+5188,Nafamostat (mesylate); Nafamostat Mesylate,Least predictable,inhibitor/antagonist; serine protease inhibitor,serine protease inhibitor
+5520,"(2S)-N-(2,6-dimethylphenyl)-1-propyl-2-piperidinecarboxamide hydrochloride monohydrate; Ropivacaine (hydrochloride monohydrate)",Least predictable,inhibitor/antagonist,inhibitor/antagonist
+4072,"5-[(E)-2-bromoethenyl]-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione; Brivudine",Most predictable,DNA directed DNA polymerase inhibitor; Heat Shock Protein 27 (hsp27) Inhibitors;Reverse Transcriptase Inhibitors,DNA directed DNA polymerase inhibitor
+4072,"5-[(E)-2-bromoethenyl]-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione; Brivudine",Most predictable,DNA directed DNA polymerase inhibitor; Heat Shock Protein 27 (hsp27) Inhibitors;Reverse Transcriptase Inhibitors,Heat Shock Protein 27 (hsp27) Inhibitors
+4072,"5-[(E)-2-bromoethenyl]-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione; Brivudine",Most predictable,DNA directed DNA polymerase inhibitor; Heat Shock Protein 27 (hsp27) Inhibitors;Reverse Transcriptase Inhibitors,Reverse Transcriptase Inhibitors
+5203,Cysteamine (hydrochloride); Cysteamine Hydrochloride,Least predictable,tissue transglutaminase inhibitor; unclear,tissue transglutaminase inhibitor
+5203,Cysteamine (hydrochloride); Cysteamine Hydrochloride,Least predictable,tissue transglutaminase inhibitor; unclear,unclear
+5162,Irinotecan (hydrochloride); Irinotecan Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,inhibitor/antagonist
+5162,Irinotecan (hydrochloride); Irinotecan Hydrochloride,Most predictable,inhibitor/antagonist; topoisomerase inhibitor,topoisomerase inhibitor
+755,Betamethasone Dipropionate; Betamethasone dipropionate,Most predictable,activator/agonist; anti-inflammatory agent,activator/agonist
+755,Betamethasone Dipropionate; Betamethasone dipropionate,Most predictable,activator/agonist; anti-inflammatory agent,anti-inflammatory agent
+5281,Artesunate,Most predictable,DNA synthesis inhibitor; inhibitor/antagonist,DNA synthesis inhibitor
+5281,Artesunate,Most predictable,DNA synthesis inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5517,Diammonium Glycyrrhizinate,Most predictable,unclear,unclear
+3793,5-[(3R)-dithiolan-3-yl]pentanoic acid; Lipoic acid,Least predictable,Pyruvate Dehydrogenase Activators,Pyruvate Dehydrogenase Activators
+5514,Acetomenaphthone; Vitamin K4,Least predictable,unclear,unclear
+5156,"2-Piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-, hydrochloride (1:1), (2S)-; Levobupivacaine (hydrochloride)",Least predictable,inhibitor/antagonist; voltage-gated potassium channel blocker,inhibitor/antagonist
+5156,"2-Piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-, hydrochloride (1:1), (2S)-; Levobupivacaine (hydrochloride)",Least predictable,inhibitor/antagonist; voltage-gated potassium channel blocker,voltage-gated potassium channel blocker
+694,Drospirenone,Most predictable,mineralocorticoid receptor antagonist; unclear,mineralocorticoid receptor antagonist
+694,Drospirenone,Most predictable,mineralocorticoid receptor antagonist; unclear,unclear
+4684,methotrexate,Most predictable,Dihydrofolate reductase inhibitor,Dihydrofolate reductase inhibitor
+5171,Esmolol (hydrochloride); Esmolol Hydrochloride,Least predictable,adrenergic receptor antagonist; inhibitor/antagonist,adrenergic receptor antagonist
+5171,Esmolol (hydrochloride); Esmolol Hydrochloride,Least predictable,adrenergic receptor antagonist; inhibitor/antagonist,inhibitor/antagonist
+5537,Fumaric Acid; Fumaric acid,Least predictable,inhibitor/antagonist,inhibitor/antagonist
+5516,Bestatin (hydrochloride); Ubenimex hydrochloride,Most predictable,inhibitor/antagonist,inhibitor/antagonist
+5519,Oleic Acid; Oleic acid,Least predictable,activator/agonist,activator/agonist
+5205,Riluzole hydrochloride,Least predictable,glutamate inhibitor; inhibitor/antagonist,glutamate inhibitor
+5205,Riluzole hydrochloride,Least predictable,glutamate inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5169,Phenylephrine (hydrochloride); Phenylephrine Hydrochloride,Least predictable,activator/agonist; adrenergic receptor agonist,activator/agonist
+5169,Phenylephrine (hydrochloride); Phenylephrine Hydrochloride,Least predictable,activator/agonist; adrenergic receptor agonist,adrenergic receptor agonist
+5485,Idoxuridine,Most predictable,DNA directed DNA polymerase inhibitor | DNA synthesis inhibitor; unclear,DNA directed DNA polymerase inhibitor | DNA synthesis inhibitor
+5485,Idoxuridine,Most predictable,DNA directed DNA polymerase inhibitor | DNA synthesis inhibitor; unclear,unclear
+161,"(8S,11R,13S,14R,17S)-11-[4-(dimethylamino)phenyl]-17-hydroxy-13-methyl-17-prop-1-ynyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one; mifepristone",Most predictable,"Glucocorticoid receptor antagonist, Progesterone receptor antagonist; glucocorticoid receptor antagonist | progesterone receptor antagonist","Glucocorticoid receptor antagonist, Progesterone receptor antagonist"
+161,"(8S,11R,13S,14R,17S)-11-[4-(dimethylamino)phenyl]-17-hydroxy-13-methyl-17-prop-1-ynyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one; mifepristone",Most predictable,"Glucocorticoid receptor antagonist, Progesterone receptor antagonist; glucocorticoid receptor antagonist | progesterone receptor antagonist",glucocorticoid receptor antagonist | progesterone receptor antagonist
+2733,Sulfatinib; Surufatinib,Least predictable,inhibitor/antagonist; tyrosine kinase inhibitor,inhibitor/antagonist
+2733,Sulfatinib; Surufatinib,Least predictable,inhibitor/antagonist; tyrosine kinase inhibitor,tyrosine kinase inhibitor
+5218,Sodium Salicylate,Least predictable,inhibitor/antagonist,inhibitor/antagonist
+412,Acyclic retinoid; Peretinoin,Least predictable,retinoid receptor agonist; unclear,retinoid receptor agonist
+412,Acyclic retinoid; Peretinoin,Least predictable,retinoid receptor agonist; unclear,unclear
+5466,"Oxaliplatin; cis-oxalato-trans-l-1,2-diaminocyclohexaneplatinum(II)",Least predictable,DNA inhibitor; inhibitor/antagonist,DNA inhibitor
+5466,"Oxaliplatin; cis-oxalato-trans-l-1,2-diaminocyclohexaneplatinum(II)",Least predictable,DNA inhibitor; inhibitor/antagonist,inhibitor/antagonist
+5201,Noradrenaline hydrochloride; Norepinephrine (hydrochloride),Least predictable,activator/agonist; adrenergic receptor agonist,activator/agonist
+5201,Noradrenaline hydrochloride; Norepinephrine (hydrochloride),Least predictable,activator/agonist; adrenergic receptor agonist,adrenergic receptor agonist
+771,Ivermectin; Ivermectin B1a,Most predictable,benzodiazepine receptor agonist; unclear,benzodiazepine receptor agonist
+771,Ivermectin; Ivermectin B1a,Most predictable,benzodiazepine receptor agonist; unclear,unclear
+2091,AZD-8055; Azd8055,Most predictable,inhibitor/antagonist; mTOR inhibitor,inhibitor/antagonist
+2091,AZD-8055; Azd8055,Most predictable,inhibitor/antagonist; mTOR inhibitor,mTOR inhibitor
+5511,Lactate (calcium),Least predictable,unclear,unclear
+1764,Homoharringtonine; Omacetaxine Mepesuccinate,Most predictable,inhibitor/antagonist; protein synthesis inhibitor,inhibitor/antagonist
+1764,Homoharringtonine; Omacetaxine Mepesuccinate,Most predictable,inhibitor/antagonist; protein synthesis inhibitor,protein synthesis inhibitor
+692,Triamcinolone,Most predictable,glucocorticoid receptor agonist; unclear,glucocorticoid receptor agonist
+692,Triamcinolone,Most predictable,glucocorticoid receptor agonist; unclear,unclear
+4302,cyclosporin-a,Most predictable,Calcineurin inhibitor,Calcineurin inhibitor
+734,Digitoxin,Most predictable,ATPase inhibitor; unclear,ATPase inhibitor
+734,Digitoxin,Most predictable,ATPase inhibitor; unclear,unclear
+1916,"[(1S,2R,4S)-4-[(2R)-2-[(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32R,35R)-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-2,3,10,14,20-pentaoxo-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraen-12-yl]propyl]-2-methoxycyclohexyl] 3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate; temsirolimus",Most predictable,MTOR inhibitor; mTOR inhibitor,MTOR inhibitor
+1916,"[(1S,2R,4S)-4-[(2R)-2-[(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32R,35R)-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-2,3,10,14,20-pentaoxo-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraen-12-yl]propyl]-2-methoxycyclohexyl] 3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate; temsirolimus",Most predictable,MTOR inhibitor; mTOR inhibitor,mTOR inhibitor
+1823,Mithramycin; Plicamycin,Most predictable,alcohol dehydrogenase inhibitor; inhibitor/antagonist,alcohol dehydrogenase inhibitor
+1823,Mithramycin; Plicamycin,Most predictable,alcohol dehydrogenase inhibitor; inhibitor/antagonist,inhibitor/antagonist
+1832,"1,18-Dihydroxy-12-[1-[4-(2-hydroxyethoxy)-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; Everolimus; everolimus",Most predictable,MTOR inhibitor; inhibitor/antagonist; mTOR inhibitor,MTOR inhibitor
+1832,"1,18-Dihydroxy-12-[1-[4-(2-hydroxyethoxy)-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; Everolimus; everolimus",Most predictable,MTOR inhibitor; inhibitor/antagonist; mTOR inhibitor,inhibitor/antagonist
+1832,"1,18-Dihydroxy-12-[1-[4-(2-hydroxyethoxy)-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; Everolimus; everolimus",Most predictable,MTOR inhibitor; inhibitor/antagonist; mTOR inhibitor,mTOR inhibitor
+2431,"3-[(1R,3R,5S,8R,9S,10R,11R,13R,14S,17R)-1,5,11,14-tetrahydroxy-10-(hydroxymethyl)-13-methyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2H-furan-5-one; ouabain",Most predictable,ATPase inhibitor,ATPase inhibitor
+2278,"(7R,9S)-9-acetyl-7-[[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyl-2-oxanyl]oxy]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; daunorubicin",Most predictable,"RNA synthesis inhibitor | topoisomerase inhibitor; RNA synthesis inhibitor, Topoisomerase inhibitor",RNA synthesis inhibitor | topoisomerase inhibitor
+2278,"(7R,9S)-9-acetyl-7-[[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyl-2-oxanyl]oxy]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; daunorubicin",Most predictable,"RNA synthesis inhibitor | topoisomerase inhibitor; RNA synthesis inhibitor, Topoisomerase inhibitor","RNA synthesis inhibitor, Topoisomerase inhibitor"
+1827,Geldanamycin; geldanamycin,Most predictable,HSP inhibitor,HSP inhibitor
+4527,topotecan,Most predictable,Topoisomerase inhibitor,Topoisomerase inhibitor
+132,"Tanespimycin; [(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate",Most predictable,CHK1 Expression Inhibitors;Inhibitors of Signal Transduction Pathways;Heat Shock Protein 90 (hsp90) Inhibitors; HSP inhibitor,CHK1 Expression Inhibitors
+132,"Tanespimycin; [(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate",Most predictable,CHK1 Expression Inhibitors;Inhibitors of Signal Transduction Pathways;Heat Shock Protein 90 (hsp90) Inhibitors; HSP inhibitor,HSP inhibitor
+132,"Tanespimycin; [(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate",Most predictable,CHK1 Expression Inhibitors;Inhibitors of Signal Transduction Pathways;Heat Shock Protein 90 (hsp90) Inhibitors; HSP inhibitor,Heat Shock Protein 90 (hsp90) Inhibitors
+132,"Tanespimycin; [(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate",Most predictable,CHK1 Expression Inhibitors;Inhibitors of Signal Transduction Pathways;Heat Shock Protein 90 (hsp90) Inhibitors; HSP inhibitor,Inhibitors of Signal Transduction Pathways
+2275,Epirubicin; epirubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+2275,Epirubicin; epirubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+3589,"(Z)-3-[3-[3,5-bis(trifluoromethyl)phenyl]-1,2,4-triazol-1-yl]-N'-pyrazin-2-ylprop-2-enehydrazide; Selinexor",Least predictable,Exportin 1 inhibitor; exportin antagonist,Exportin 1 inhibitor
+3589,"(Z)-3-[3-[3,5-bis(trifluoromethyl)phenyl]-1,2,4-triazol-1-yl]-N'-pyrazin-2-ylprop-2-enehydrazide; Selinexor",Least predictable,Exportin 1 inhibitor; exportin antagonist,exportin antagonist
+1880,Wortmannin from Penicillium funiculosum; wortmannin,Most predictable,PI3K inhibitor,PI3K inhibitor
+295,Idarubicin; idarubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+295,Idarubicin; idarubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+5028,PD-0325901,Most predictable,"MEK inhibitor, Protein kinase inhibitor, MAP kinase inhibitor","MEK inhibitor, Protein kinase inhibitor, MAP kinase inhibitor"
+3990,Narciclasine; narciclasine,Most predictable,"LIM kinase activator, Coflilin signaling pathway activator, Rho associated kinase activator","LIM kinase activator, Coflilin signaling pathway activator, Rho associated kinase activator"
+4018,Mitoxantrone; mitoxantrone,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+4018,Mitoxantrone; mitoxantrone,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+706,Withaferin A; withaferin-a,Most predictable,IKK inhibitor,IKK inhibitor
+4528,camptothecin,Most predictable,Topoisomerase inhibitor,Topoisomerase inhibitor
+4646,emetine,Most predictable,Protein synthesis inhibitor,Protein synthesis inhibitor
+3065,Dactolisib; NVP-BEZ235,Most predictable,"MTOR inhibitor, PI3K inhibitor; mTOR inhibitor | PI3K inhibitor","MTOR inhibitor, PI3K inhibitor"
+3065,Dactolisib; NVP-BEZ235,Most predictable,"MTOR inhibitor, PI3K inhibitor; mTOR inhibitor | PI3K inhibitor",mTOR inhibitor | PI3K inhibitor
+3637,Pitavastatin Calcium; pitavastatin,Most predictable,HMGCR inhibitor,HMGCR inhibitor
+2953,PF-03758309; PF-3758309,Most predictable,P21 activated kinase inhibitor; p21 activated kinase inhibitor,P21 activated kinase inhibitor
+2953,PF-03758309; PF-3758309,Most predictable,P21 activated kinase inhibitor; p21 activated kinase inhibitor,p21 activated kinase inhibitor
+5360,"[(6R,7S,8R)-11-Amino-7-methoxy-12-methyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.02,7.04,6]trideca-1(9),11-dien-8-yl]methyl carbamate; mitomycin-c",Most predictable,DNA alkylating agent | DNA synthesis inhibitor,DNA alkylating agent | DNA synthesis inhibitor
+1956,Lrrk2-IN-1; XMD-1150,Most predictable,Leucine rich repeat kinase inhibitor; leucine rich repeat kinase inhibitor,Leucine rich repeat kinase inhibitor
+1956,Lrrk2-IN-1; XMD-1150,Most predictable,Leucine rich repeat kinase inhibitor; leucine rich repeat kinase inhibitor,leucine rich repeat kinase inhibitor
+267,"[(1S,2S,3S,4S,7S,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate; paclitaxel",Most predictable,Tubulin inhibitor; tubulin polymerization inhibitor,Tubulin inhibitor
+267,"[(1S,2S,3S,4S,7S,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate; paclitaxel",Most predictable,Tubulin inhibitor; tubulin polymerization inhibitor,tubulin polymerization inhibitor
+136,"(1R,9S,12S,13R,14S,17R,18E,21S,23S,24R,25S,27R)-1,14-dihydroxy-12-[(E)-1-[(1R,3R,4R)-4-hydroxy-3-methoxycyclohexyl]prop-1-en-2-yl]-23,25-dimethoxy-13,19,21,27-tetramethyl-17-prop-2-enyl-11,28-dioxa-4-azatricyclo[22.3.1.04,9]octacos-18-ene-2,3,10,16-tetrone; Tacrolimus",Most predictable,FKBP12 gene modulator;Calcineurin inhibitor; calcineurin inhibitor,Calcineurin inhibitor
+136,"(1R,9S,12S,13R,14S,17R,18E,21S,23S,24R,25S,27R)-1,14-dihydroxy-12-[(E)-1-[(1R,3R,4R)-4-hydroxy-3-methoxycyclohexyl]prop-1-en-2-yl]-23,25-dimethoxy-13,19,21,27-tetramethyl-17-prop-2-enyl-11,28-dioxa-4-azatricyclo[22.3.1.04,9]octacos-18-ene-2,3,10,16-tetrone; Tacrolimus",Most predictable,FKBP12 gene modulator;Calcineurin inhibitor; calcineurin inhibitor,FKBP12 gene modulator
+136,"(1R,9S,12S,13R,14S,17R,18E,21S,23S,24R,25S,27R)-1,14-dihydroxy-12-[(E)-1-[(1R,3R,4R)-4-hydroxy-3-methoxycyclohexyl]prop-1-en-2-yl]-23,25-dimethoxy-13,19,21,27-tetramethyl-17-prop-2-enyl-11,28-dioxa-4-azatricyclo[22.3.1.04,9]octacos-18-ene-2,3,10,16-tetrone; Tacrolimus",Most predictable,FKBP12 gene modulator;Calcineurin inhibitor; calcineurin inhibitor,calcineurin inhibitor
+424,PHA-793887; Pha-793887,Most predictable,CDK inhibitor,CDK inhibitor
+1760,Hydroflumethiazide; reserpine; mepireserpate,Most predictable,Catecholamine depleting sympatholytic,Catecholamine depleting sympatholytic
+2545,Strophanthidin; strophanthidin,Most predictable,ATPase inhibitor,ATPase inhibitor
+4657,SN-38,Most predictable,Topoisomerase inhibitor,Topoisomerase inhibitor
+1278,Ascomycin; sirolimus,Most predictable,MTOR inhibitor; mTOR inhibitor,MTOR inhibitor
+1278,Ascomycin; sirolimus,Most predictable,MTOR inhibitor; mTOR inhibitor,mTOR inhibitor
+4915,lestaurtinib,Most predictable,"Growth factor receptor inhibitor, JAK inhibitor, FLT3 inhibitor","Growth factor receptor inhibitor, JAK inhibitor, FLT3 inhibitor"
+242,Docetaxel,Most predictable,inhibitor/antagonist; tubulin polymerization inhibitor,inhibitor/antagonist
+242,Docetaxel,Most predictable,inhibitor/antagonist; tubulin polymerization inhibitor,tubulin polymerization inhibitor
+736,Thapsigargin; thapsigargin,Most predictable,ATPase inhibitor,ATPase inhibitor
+4757,alvespimycin,Most predictable,HSP inhibitor,HSP inhibitor
+743,"(3S,6S,9S,12R)-3-[(2S)-butan-2-yl]-6-[(1-methoxyindol-3-yl)methyl]-9-(6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone; Apicidin",Most predictable,HDAC inhibitor,HDAC inhibitor
+527,Triptolide (PG490); triptolide,Most predictable,RNA polymerase inhibitor,RNA polymerase inhibitor
+5349,"bruceantin; methyl (1R,2S,3R,6R,8S,13S,14R,15R,16S,17S)-3-[(E)-3,4-dimethylpent-2-enoyl]oxy-15,16-dihydroxy-9,13-dimethyl-4,10,11-trioxo-5,18-dioxapentacyclo[12.5.0.01,6.02,17.08,13]nonadecane-17-carboxylate",Most predictable,protein synthesis inhibitor,protein synthesis inhibitor
+2090,KU-0063794; Ku-0063794,Most predictable,MTOR inhibitor; mTOR inhibitor,MTOR inhibitor
+2090,KU-0063794; Ku-0063794,Most predictable,MTOR inhibitor; mTOR inhibitor,mTOR inhibitor
+2385,5-(6-((4-Methyl-1-piperazinyl)methyl)-1H-benzimidazol-1-yl)-3-((1R)-1-(2-(trifluoromethyl)phenyl)ethoxy)-2-thiophenecarboxamide; GSK-461364,Least predictable,PLK inhibitor,PLK inhibitor
+2026,"(8aR,9R)-5-[[(2R,4aR,6R,7R,8R)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[6,5-f][1,3]benzodioxol-8-one; teniposide",Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+2026,"(8aR,9R)-5-[[(2R,4aR,6R,7R,8R)-7,8-dihydroxy-2-thiophen-2-yl-4,4a,6,7,8,8a-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-9-(4-hydroxy-3,5-dimethoxyphenyl)-5a,6,8a,9-tetrahydro-5H-isobenzofuro[6,5-f][1,3]benzodioxol-8-one; teniposide",Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+930,"(R)-2,4,6-Trimethyl-deca-2,4-dienoic acid {(1S,5S,6R)-5-hydroxy-5-[(1E,3E,5E)-6-(2-hydroxy-5-oxo-cyclopent-1-enylcarbamoyl)-hexa-1,3,5-trienyl]-2-oxo-7-oxa-bicyclo[4.1.0]hept-3-en-3-yl}-amide; manumycin-a",Most predictable,"Farnesyltransferase inhibitor, NFKB pathway inhibitor","Farnesyltransferase inhibitor, NFKB pathway inhibitor"
+1905,Cabazitaxel (Jevtana); cabazitaxel,Most predictable,microtubule inhibitor,microtubule inhibitor
+812,Valrubicin; valrubicin,Most predictable,"DNA inhibitor | topoisomerase inhibitor; Topoisomerase inhibitor, DNA inhibitor",DNA inhibitor | topoisomerase inhibitor
+812,Valrubicin; valrubicin,Most predictable,"DNA inhibitor | topoisomerase inhibitor; Topoisomerase inhibitor, DNA inhibitor","Topoisomerase inhibitor, DNA inhibitor"
+260,"4,15-Diacetoxyscirpen-3-ol; anguidine",Most predictable,Protein synthesis inhibitor; apoptosis stimulant | protein synthesis inhibitor,Protein synthesis inhibitor
+260,"4,15-Diacetoxyscirpen-3-ol; anguidine",Most predictable,Protein synthesis inhibitor; apoptosis stimulant | protein synthesis inhibitor,apoptosis stimulant | protein synthesis inhibitor
+737,Ingenol Mebutate; ingenol-mebutate,Most predictable,PKC activator,PKC activator
+3547,5-Azacytidine; Azacitidine; Azacytidine,Most predictable,DNA methyltransferase inhibitor; inhibitor/antagonist,DNA methyltransferase inhibitor
+3547,5-Azacytidine; Azacitidine; Azacytidine,Most predictable,DNA methyltransferase inhibitor; inhibitor/antagonist,inhibitor/antagonist
+253,"[2-[(4R,8S,9S,11S,12R,13S,19S)-12,19-Difluoro-11-hydroxy-6,6,9,13-tetramethyl-16-oxo-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-8-yl]-2-oxoethyl] acetate; fluocinolone-acetonide",Most predictable,"Glucocorticoid receptor agonist, Corticosteroid agonist; glucocorticoid receptor agonist","Glucocorticoid receptor agonist, Corticosteroid agonist"
+253,"[2-[(4R,8S,9S,11S,12R,13S,19S)-12,19-Difluoro-11-hydroxy-6,6,9,13-tetramethyl-16-oxo-5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-dien-8-yl]-2-oxoethyl] acetate; fluocinolone-acetonide",Most predictable,"Glucocorticoid receptor agonist, Corticosteroid agonist; glucocorticoid receptor agonist",glucocorticoid receptor agonist
+762,Fluticasone Propionate; fluticasone-propionate,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+762,Fluticasone Propionate; fluticasone-propionate,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,glucocorticoid receptor agonist
+2430,"5-[(3S,10R,13R,14S,17R)-14-hydroxy-10,13-dimethyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-1,2,3,6,7,8,9,11,12,15,16,17-dodecahydrocyclopenta[a]phenanthren-17-yl]pyran-2-one; proscillaridin",Most predictable,ATPase inhibitor,ATPase inhibitor
+942,Parbendazole; parbendazole,Least predictable,Tubulin inhibitor; tubulin polymerization inhibitor,Tubulin inhibitor
+942,Parbendazole; parbendazole,Least predictable,Tubulin inhibitor; tubulin polymerization inhibitor,tubulin polymerization inhibitor
+1678,"N,1,4,4-Tetramethyl-8-((4-(4-methylpiperazin-1-yl)phenyl)amino)-4,5-dihydro-1H-pyrazolo(4,3-h)quinazoline-3-carboxamide; PHA-848125",Most predictable,"CDK inhibitor | growth factor receptor inhibitor; Growth factor receptor inhibitor, CDK inhibitor",CDK inhibitor | growth factor receptor inhibitor
+1678,"N,1,4,4-Tetramethyl-8-((4-(4-methylpiperazin-1-yl)phenyl)amino)-4,5-dihydro-1H-pyrazolo(4,3-h)quinazoline-3-carboxamide; PHA-848125",Most predictable,"CDK inhibitor | growth factor receptor inhibitor; Growth factor receptor inhibitor, CDK inhibitor","Growth factor receptor inhibitor, CDK inhibitor"
+1914,"(1R,9S,12S,15R,16Z,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-12-[(2R)-1-[(1S,3R,4R)-4-dimethylphosphoryloxy-3-methoxycyclohexyl]propan-2-yl]-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; deforolimus",Most predictable,MTOR inhibitor; mTOR inhibitor,MTOR inhibitor
+1914,"(1R,9S,12S,15R,16Z,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-12-[(2R)-1-[(1S,3R,4R)-4-dimethylphosphoryloxy-3-methoxycyclohexyl]propan-2-yl]-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; deforolimus",Most predictable,MTOR inhibitor; mTOR inhibitor,mTOR inhibitor
+4440,GDC-0068,Most predictable,Akt inhibitor,Akt inhibitor
+2277,"(7R,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; doxorubicin",Most predictable,Topoisomerase inhibitor; dna polymerase inhibitor | topoisomerase inhibitor,Topoisomerase inhibitor
+2277,"(7R,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; doxorubicin",Most predictable,Topoisomerase inhibitor; dna polymerase inhibitor | topoisomerase inhibitor,dna polymerase inhibitor | topoisomerase inhibitor
+1312,Birinapant; birinapant,Most predictable,XIAP inhibitor,XIAP inhibitor
+109,N-[3-[[2-[[4-(dimethylamino)cyclohexyl]amino]-9-propan-2-yl-6-purinyl]amino]phenyl]-2-propenamide; WZ-3105,Least predictable,CLK inhibitor,CLK inhibitor
+642,"(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoic acid; Doconexent",Least predictable,PPAR receptor agonist; PPARalpha Agonists,PPAR receptor agonist
+642,"(4Z,7Z,10Z,13Z,16Z,19Z)-docosa-4,7,10,13,16,19-hexaenoic acid; Doconexent",Least predictable,PPAR receptor agonist; PPARalpha Agonists,PPARalpha Agonists
+722,"6,9-difluoro-11-hydroxy-17-(3-hydroxy-2-oxopropyl)-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-17-carbothioic acid S-(fluoromethyl) ester; fluticasone",Most predictable,Glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+1724,"(9S,10R,11R,13R)-2,3,10,11,12,13-hexahydro-10-methoxy-9-methyl-11-(methylamino)-9,13-epoxy-1H,9H-diindolo[1,2,3-gh:3',2',1'-lm]pyrrolo[3,4-j][1,7]benzodiazonin-1-one; staurosporine",Most predictable,PKC inhibitor,PKC inhibitor
+1921,Mycophenolate Mofetil; mycophenolate-mofetil,Most predictable,"Dehydrogenase inhibitor, IMPDH inhibitor, IMPase inhibitor, Hydroxycarboxylic acid receptor agonist, Immunosuppressant; dehydrogenase inhibitor | inositol monophosphatase inhibitor","Dehydrogenase inhibitor, IMPDH inhibitor, IMPase inhibitor, Hydroxycarboxylic acid receptor agonist, Immunosuppressant"
+1921,Mycophenolate Mofetil; mycophenolate-mofetil,Most predictable,"Dehydrogenase inhibitor, IMPDH inhibitor, IMPase inhibitor, Hydroxycarboxylic acid receptor agonist, Immunosuppressant; dehydrogenase inhibitor | inositol monophosphatase inhibitor",dehydrogenase inhibitor | inositol monophosphatase inhibitor
+3995,6-Bromoindirubin-3'-oxime; BRD-K04923131,Least predictable,glycogen synthase kinase inhibitor | lipoxygenase inhibitor,glycogen synthase kinase inhibitor | lipoxygenase inhibitor
+3780,Adarotene; adarotene,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,Retinoid receptor agonist
+3780,Adarotene; adarotene,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,retinoid receptor agonist
+2934,Taselisib; taselisib,Most predictable,PI3K inhibitor,PI3K inhibitor
+3006,"(6S)-4-(4-Chlorophenyl)-N-(4-hydroxyphenyl)-2,3,9-trimethyl-6H-thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepine-6-acetamide; OTX-015",Most predictable,bromodomain inhibitor,bromodomain inhibitor
+710,"(4-Benzoyloxy-5,6-dihydroxy-3,11,11,14-tetramethyl-15-oxo-7-tetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dienyl)methyl benzoate; ingenol",Most predictable,PKC activator,PKC activator
+3316,AZD-5363; Capivasertib,Least predictable,AKT inhibitor,AKT inhibitor
+1796,"BRD-K22848513; methyl (4aS,6aR,6bS,8aR,12aR,14aS,14bR)-11-cyano-2,2,6a,6b,9,9,12a-heptamethyl-10,14-dioxo-1,3,4,5,6,7,8,8a,14a,14b-decahydropicene-4a-carboxylate",Most predictable,"nuclear factor erythroid derived, like (NRF2) activator","nuclear factor erythroid derived, like (NRF2) activator"
+3150,"1,3-Benzothiazol-2-yl(2-((2-(3-pyridinyl)ethyl)amino)-4-pyrimidinyl)acetonitrile; AS-601245",Least predictable,JNK inhibitor,JNK inhibitor
+1280,"(1R,4E,5'R,6R,6'R,7S,8R,10S,11S,12R,14S,15R,16S,18E,20E,22S,25S,27R,28R,29S)-22-ethyl-7,11,14,15-tetrahydroxy-6'-[(2R)-2-hydroxypropyl]-5',6,8,10,12,14,16,28,29-nonamethylspiro[2,26-dioxabicyclo[23.3.1]nonacosa-4,18,20-triene-27,2'-oxane]-3,9,13-trione; oligomycin-a",Most predictable,"ATP synthase inhibitor, ATPase inhibitor; ATPase inhibitor | ATP synthase inhibitor","ATP synthase inhibitor, ATPase inhibitor"
+1280,"(1R,4E,5'R,6R,6'R,7S,8R,10S,11S,12R,14S,15R,16S,18E,20E,22S,25S,27R,28R,29S)-22-ethyl-7,11,14,15-tetrahydroxy-6'-[(2R)-2-hydroxypropyl]-5',6,8,10,12,14,16,28,29-nonamethylspiro[2,26-dioxabicyclo[23.3.1]nonacosa-4,18,20-triene-27,2'-oxane]-3,9,13-trione; oligomycin-a",Most predictable,"ATP synthase inhibitor, ATPase inhibitor; ATPase inhibitor | ATP synthase inhibitor",ATPase inhibitor | ATP synthase inhibitor
+2703,Tozasertib; tozasertib,Least predictable,"Abl kinase inhibitor, Aurora kinase inhibitor, JAK inhibitor, FLT3 inhibitor; Aurora kinase inhibitor | Bcr-Abl kinase inhibitor | FLT3 inhibitor | JAK inhibitor","Abl kinase inhibitor, Aurora kinase inhibitor, JAK inhibitor, FLT3 inhibitor"
+2703,Tozasertib; tozasertib,Least predictable,"Abl kinase inhibitor, Aurora kinase inhibitor, JAK inhibitor, FLT3 inhibitor; Aurora kinase inhibitor | Bcr-Abl kinase inhibitor | FLT3 inhibitor | JAK inhibitor",Aurora kinase inhibitor | Bcr-Abl kinase inhibitor | FLT3 inhibitor | JAK inhibitor
+170,Epothilone-B; epothilone-b,Most predictable,"Microtubule stabilizing agent, Tubulin inhibitor, Microtubule stimulant; microtubule stabilizing agent | tubulin polymerization inhibitor","Microtubule stabilizing agent, Tubulin inhibitor, Microtubule stimulant"
+170,Epothilone-B; epothilone-b,Most predictable,"Microtubule stabilizing agent, Tubulin inhibitor, Microtubule stimulant; microtubule stabilizing agent | tubulin polymerization inhibitor",microtubule stabilizing agent | tubulin polymerization inhibitor
+1992,"2-[2-Methoxy-4-(4-methyl-1-piperazinyl)anilino]-5,11-dimethyl-6-pyrimido[4,5-b][1,4]benzodiazepinone; XMD-885",Most predictable,"MAP kinase inhibitor; MAP kinase inhibitor, Leucine rich repeat kinase inhibitor",MAP kinase inhibitor
+1992,"2-[2-Methoxy-4-(4-methyl-1-piperazinyl)anilino]-5,11-dimethyl-6-pyrimido[4,5-b][1,4]benzodiazepinone; XMD-885",Most predictable,"MAP kinase inhibitor; MAP kinase inhibitor, Leucine rich repeat kinase inhibitor","MAP kinase inhibitor, Leucine rich repeat kinase inhibitor"
+114,WZ-4002,Least predictable,EGFR inhibitor,EGFR inhibitor
+255,"[2-[(1R,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-9,13-dimethyl-16-oxospiro[5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-diene-6,1'-cyclopentane]-8-yl]-2-oxoethyl] acetate; amcinonide",Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+255,"[2-[(1R,2S,4R,8S,9S,11S,12R,13S)-12-fluoro-11-hydroxy-9,13-dimethyl-16-oxospiro[5,7-dioxapentacyclo[10.8.0.02,9.04,8.013,18]icosa-14,17-diene-6,1'-cyclopentane]-8-yl]-2-oxoethyl] acetate; amcinonide",Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,glucocorticoid receptor agonist
+3782,Caffeic Acid; caffeic-acid,Least predictable,"HIV integrase inhibitor | lipoxygenase inhibitor | nitric oxide production inhibitor | tumor necrosis factor production inhibitor; Nitric oxide production inhibitor, PPAR receptor modulator, NFKB pathway inhibitor, TNF production inhibitor, Tumor necrosis factor production inhibitor, HIV integrase inhibitor, Lipoxygenase inhibitor",HIV integrase inhibitor | lipoxygenase inhibitor | nitric oxide production inhibitor | tumor necrosis factor production inhibitor
+3782,Caffeic Acid; caffeic-acid,Least predictable,"HIV integrase inhibitor | lipoxygenase inhibitor | nitric oxide production inhibitor | tumor necrosis factor production inhibitor; Nitric oxide production inhibitor, PPAR receptor modulator, NFKB pathway inhibitor, TNF production inhibitor, Tumor necrosis factor production inhibitor, HIV integrase inhibitor, Lipoxygenase inhibitor","Nitric oxide production inhibitor, PPAR receptor modulator, NFKB pathway inhibitor, TNF production inhibitor, Tumor necrosis factor production inhibitor, HIV integrase inhibitor, Lipoxygenase inhibitor"
+351,"4-[3-(3,5-Ditert-butylphenyl)-3-oxoprop-1-enyl]benzoic acid; SA-792709",Least predictable,Retinoid receptor agonist,Retinoid receptor agonist
+2778,Meclofenamic Acid; meclofenamic-acid,Least predictable,"Cyclooxygenase inhibitor, Prostanoid receptor antagonist; cyclooxygenase inhibitor | prostanoid receptor antagonist","Cyclooxygenase inhibitor, Prostanoid receptor antagonist"
+2778,Meclofenamic Acid; meclofenamic-acid,Least predictable,"Cyclooxygenase inhibitor, Prostanoid receptor antagonist; cyclooxygenase inhibitor | prostanoid receptor antagonist",cyclooxygenase inhibitor | prostanoid receptor antagonist
+3973,Tivantinib; tivantinib,Most predictable,Tyrosine kinase inhibitor; tyrosine kinase inhibitor,Tyrosine kinase inhibitor
+3973,Tivantinib; tivantinib,Most predictable,Tyrosine kinase inhibitor; tyrosine kinase inhibitor,tyrosine kinase inhibitor
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",Least predictable,Angiogenesis Inhibitors;VEGFR-2 (FLK-1/KDR) Inhibitors;VEGFR-3 (FLT4) Inhibitors;VEGFR-1 (Flt-1) Inhibitors; VEGFR inhibitor,Angiogenesis Inhibitors
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",Least predictable,Angiogenesis Inhibitors;VEGFR-2 (FLK-1/KDR) Inhibitors;VEGFR-3 (FLT4) Inhibitors;VEGFR-1 (Flt-1) Inhibitors; VEGFR inhibitor,VEGFR inhibitor
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",Least predictable,Angiogenesis Inhibitors;VEGFR-2 (FLK-1/KDR) Inhibitors;VEGFR-3 (FLT4) Inhibitors;VEGFR-1 (Flt-1) Inhibitors; VEGFR inhibitor,VEGFR-1 (Flt-1) Inhibitors
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",Least predictable,Angiogenesis Inhibitors;VEGFR-2 (FLK-1/KDR) Inhibitors;VEGFR-3 (FLT4) Inhibitors;VEGFR-1 (Flt-1) Inhibitors; VEGFR inhibitor,VEGFR-2 (FLK-1/KDR) Inhibitors
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",Least predictable,Angiogenesis Inhibitors;VEGFR-2 (FLK-1/KDR) Inhibitors;VEGFR-3 (FLT4) Inhibitors;VEGFR-1 (Flt-1) Inhibitors; VEGFR inhibitor,VEGFR-3 (FLT4) Inhibitors
+5452,5-Fluoro-2'-deoxycytidine; fdcyd,Most predictable,DNA methyltransferase inhibitor,DNA methyltransferase inhibitor
+1223,XMD-892; Xmd8-92,Most predictable,MAP kinase inhibitor,MAP kinase inhibitor
+168,Ixabepilone; ixabepilone,Most predictable,Microtubule stabilizing agent; microtubule stabilizing agent,Microtubule stabilizing agent
+168,Ixabepilone; ixabepilone,Most predictable,Microtubule stabilizing agent; microtubule stabilizing agent,microtubule stabilizing agent
+1986,"5-Chloro-N2-(4-(4-(dimethylamino)-1-piperidinyl)-2-methoxyphenyl)-N4-(2-(dimethylphosphinyl)phenyl)-2,4-pyrimidinediamine; AP-26113",Least predictable,ALK tyrosine kinase receptor inhibitor,ALK tyrosine kinase receptor inhibitor
+1369,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine; Pyrimethamine; pyrimethamine",Least predictable,Dihydrofolate Reductase (DHFR) Inhibitors;Pharmacological Chaperones; dihydrofolate reductase inhibitor,Dihydrofolate Reductase (DHFR) Inhibitors
+1369,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine; Pyrimethamine; pyrimethamine",Least predictable,Dihydrofolate Reductase (DHFR) Inhibitors;Pharmacological Chaperones; dihydrofolate reductase inhibitor,Pharmacological Chaperones
+1369,"5-(4-chlorophenyl)-6-ethylpyrimidine-2,4-diamine; Pyrimethamine; pyrimethamine",Least predictable,Dihydrofolate Reductase (DHFR) Inhibitors;Pharmacological Chaperones; dihydrofolate reductase inhibitor,dihydrofolate reductase inhibitor
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator",Cytokine Production Inhibitors
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator","Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator"
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator",NF-kappaB (NFKB) Activation Inhibitors
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator",Secretory Phospholipase A2 (sPLA2) Inhibitors
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator",TP53 Expression Enhancers
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",Least predictable,"Cytokine production inhibitor, NFKB pathway inhibitor, TP53 activator; Secretory Phospholipase A2 (sPLA2) Inhibitors;Cytokine Production Inhibitors;NF-kappaB (NFKB) Activation Inhibitors;TP53 Expression Enhancers; cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator",cytokine production inhibitor | NFkB pathway inhibitor | TP53 activator
+3650,CGK-733; Diphenyl acetamidotrichloroethyl fluoronitrophenyl thiourea,Least predictable,"ATM kinase inhibitor | ATR kinase inhibitor; ATM kinase inhibitor, ATR kinase inhibitor",ATM kinase inhibitor | ATR kinase inhibitor
+3650,CGK-733; Diphenyl acetamidotrichloroethyl fluoronitrophenyl thiourea,Least predictable,"ATM kinase inhibitor | ATR kinase inhibitor; ATM kinase inhibitor, ATR kinase inhibitor","ATM kinase inhibitor, ATR kinase inhibitor"
+4231,"3-(3,5-Ditert-butyl-4-hydroxyphenyl)-2-isocyano-2-propenenitrile; malonoben",Least predictable,Protein tyrosine kinase inhibitor,Protein tyrosine kinase inhibitor
+2976,Metronidazole; metronidazole,Least predictable,DNA inhibitor,DNA inhibitor
+2633,"4-[2-[[4-(2,4-dichlorophenyl)-5-(5-methyl-1H-imidazol-2-yl)pyrimidin-2-yl]amino]ethylamino]benzonitrile; CHIR-99021",Least predictable,glycogen synthase kinase inhibitor,glycogen synthase kinase inhibitor
+2495,Digoxin; digoxin,Most predictable,ATPase inhibitor,ATPase inhibitor
+2157,"Anisomycin, (+)-; anisomycin",Least predictable,DNA synthesis inhibitor,DNA synthesis inhibitor
+4177,Salmeterol; salmeterol,Least predictable,Adrenergic receptor agonist; adrenergic receptor agonist,Adrenergic receptor agonist
+4177,Salmeterol; salmeterol,Least predictable,Adrenergic receptor agonist; adrenergic receptor agonist,adrenergic receptor agonist
+2691,Dequalinium; dequalinium,Least predictable,PKC inhibitor,PKC inhibitor
+2974,Flumatinib; flumatinib,Least predictable,Abl kinase inhibitor; Bcr-Abl kinase inhibitor,Abl kinase inhibitor
+2974,Flumatinib; flumatinib,Least predictable,Abl kinase inhibitor; Bcr-Abl kinase inhibitor,Bcr-Abl kinase inhibitor
+2067,Cabozantinib; cabozantinib,Least predictable,"RET tyrosine kinase inhibitor | VEGFR inhibitor; VEGFR inhibitor, RET tyrosine kinase inhibitor",RET tyrosine kinase inhibitor | VEGFR inhibitor
+2067,Cabozantinib; cabozantinib,Least predictable,"RET tyrosine kinase inhibitor | VEGFR inhibitor; VEGFR inhibitor, RET tyrosine kinase inhibitor","VEGFR inhibitor, RET tyrosine kinase inhibitor"
+2601,Apitolisib; GDC-0980,Most predictable,"MTOR inhibitor, PI3K inhibitor; mTOR inhibitor | PI3K inhibitor","MTOR inhibitor, PI3K inhibitor"
+2601,Apitolisib; GDC-0980,Most predictable,"MTOR inhibitor, PI3K inhibitor; mTOR inhibitor | PI3K inhibitor",mTOR inhibitor | PI3K inhibitor
+2857,2-Methyl-6-styryl-pyridine; SIB-1893,Least predictable,Glutamate receptor antagonist; glutamate receptor antagonist,Glutamate receptor antagonist
+2857,2-Methyl-6-styryl-pyridine; SIB-1893,Least predictable,Glutamate receptor antagonist; glutamate receptor antagonist,glutamate receptor antagonist
+148,Sdccgsbi-0050471.P002; forskolin,Most predictable,Adenylyl cyclase activator; adenylyl cyclase activator,Adenylyl cyclase activator
+148,Sdccgsbi-0050471.P002; forskolin,Most predictable,Adenylyl cyclase activator; adenylyl cyclase activator,adenylyl cyclase activator
+3967,Ro-3306,Least predictable,CDK inhibitor,CDK inhibitor
+459,(2S)-4-methyl-N-[(2S)-1-[[(2S)-4-methyl-1-[(2R)-2-methyloxiran-2-yl]-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]-2-[[(2S)-2-[(2-morpholin-4-ylacetyl)amino]-4-phenylbutanoyl]amino]pentanamide; Carfilzomib; carfilzomib,Most predictable,Proteasome inhibitor; proteasome inhibitor,Proteasome inhibitor
+459,(2S)-4-methyl-N-[(2S)-1-[[(2S)-4-methyl-1-[(2R)-2-methyloxiran-2-yl]-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]-2-[[(2S)-2-[(2-morpholin-4-ylacetyl)amino]-4-phenylbutanoyl]amino]pentanamide; Carfilzomib; carfilzomib,Most predictable,Proteasome inhibitor; proteasome inhibitor,proteasome inhibitor
+284,"(6S,9R,11S,13S,17R)-17-acetyl-9-fluoro-11,17-dihydroxy-6,10,13-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one; BRD-A13133631",Most predictable,glucocorticoid receptor agonist,glucocorticoid receptor agonist
+1924,Moxifloxacin; moxifloxacin,Most predictable,bacterial DNA gyrase inhibitor,bacterial DNA gyrase inhibitor
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,Least predictable,Aurora kinase inhibitor; Aurora-C (ARK3) Kinase Inhibitors;Inhibitors of Signal Transduction Pathways;Aurora-B (ARK2) Kinase Inhibitors;Antimitotic Drugs,Antimitotic Drugs
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,Least predictable,Aurora kinase inhibitor; Aurora-C (ARK3) Kinase Inhibitors;Inhibitors of Signal Transduction Pathways;Aurora-B (ARK2) Kinase Inhibitors;Antimitotic Drugs,Aurora kinase inhibitor
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,Least predictable,Aurora kinase inhibitor; Aurora-C (ARK3) Kinase Inhibitors;Inhibitors of Signal Transduction Pathways;Aurora-B (ARK2) Kinase Inhibitors;Antimitotic Drugs,Aurora-B (ARK2) Kinase Inhibitors
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,Least predictable,Aurora kinase inhibitor; Aurora-C (ARK3) Kinase Inhibitors;Inhibitors of Signal Transduction Pathways;Aurora-B (ARK2) Kinase Inhibitors;Antimitotic Drugs,Aurora-C (ARK3) Kinase Inhibitors
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,Least predictable,Aurora kinase inhibitor; Aurora-C (ARK3) Kinase Inhibitors;Inhibitors of Signal Transduction Pathways;Aurora-B (ARK2) Kinase Inhibitors;Antimitotic Drugs,Inhibitors of Signal Transduction Pathways
+1553,"N-[(1-methylpiperidin-4-yl)methyl]-3-[3-(trifluoromethoxy)phenyl]imidazo[1,2-b]pyridazin-6-amine; SGI-1776",Least predictable,Pim kinase inhibitor,Pim kinase inhibitor
+282,"S-[(7R,8R,9R,10R,13S,14R,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate; spironolactone",Most predictable,Mineralocorticoid receptor antagonist; mineralocorticoid receptor antagonist,Mineralocorticoid receptor antagonist
+282,"S-[(7R,8R,9R,10R,13S,14R,17R)-10,13-dimethyl-3,5'-dioxospiro[2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-17,2'-oxolane]-7-yl] ethanethioate; spironolactone",Most predictable,Mineralocorticoid receptor antagonist; mineralocorticoid receptor antagonist,mineralocorticoid receptor antagonist
+3444,Buparlisib; buparlisib,Most predictable,PI3K inhibitor,PI3K inhibitor
+2551,Ethylmercury thiosalicylate; thiomersal,Least predictable,other antibiotic,other antibiotic
+4928,dactinomycin,Most predictable,RNA polymerase inhibitor,RNA polymerase inhibitor
+4189,Chloroxine; chloroxine,Least predictable,opioid receptor antagonist,opioid receptor antagonist
+2836,"4(2'-Aminoethyl)amino-1,8-dimethylimidazo(1,2-a)quinoxaline; BMS-345541",Least predictable,IKK inhibitor,IKK inhibitor
+25,"(1R,2R,13R,14R,17R,18S)-17-ethynyl-2,18-dimethyl-7-oxa-6-azapentacyclo[11.7.0.02,10.04,8.014,18]icosa-4(8),5,9-trien-17-ol; danazol",Most predictable,"Estrogen receptor antagonist, Progesterone receptor agonist; estrogen receptor antagonist | progesterone receptor agonist","Estrogen receptor antagonist, Progesterone receptor agonist"
+25,"(1R,2R,13R,14R,17R,18S)-17-ethynyl-2,18-dimethyl-7-oxa-6-azapentacyclo[11.7.0.02,10.04,8.014,18]icosa-4(8),5,9-trien-17-ol; danazol",Most predictable,"Estrogen receptor antagonist, Progesterone receptor agonist; estrogen receptor antagonist | progesterone receptor agonist",estrogen receptor antagonist | progesterone receptor agonist
+3962,Kenpaullone; kenpaullone,Least predictable,"CDK inhibitor | glycogen synthase kinase inhibitor; GSK-3 inhibitor, CDK inhibitor",CDK inhibitor | glycogen synthase kinase inhibitor
+3962,Kenpaullone; kenpaullone,Least predictable,"CDK inhibitor | glycogen synthase kinase inhibitor; GSK-3 inhibitor, CDK inhibitor","GSK-3 inhibitor, CDK inhibitor"
+2898,ALW-II-38-3; Awl-II-38.3,Least predictable,Ephrin inhibitor,Ephrin inhibitor
+1098,"2,4-Bisanilinopyrimidine, 10; KIN-001-220",Least predictable,Aurora kinase inhibitor,Aurora kinase inhibitor
+4184,An inositol; inositol,Least predictable,Insulin sensitizer; insulin sensitizer,Insulin sensitizer
+4184,An inositol; inositol,Least predictable,Insulin sensitizer; insulin sensitizer,insulin sensitizer
+5388,Aphidicolin; aphidicolin,Most predictable,RNA synthesis inhibitor,RNA synthesis inhibitor
+294,"(6S,8S,10R,11S,13S,14S,17S)-17-acetyl-11-hydroxy-6,10,13-trimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; medrysone",Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+294,"(6S,8S,10R,11S,13S,14S,17S)-17-acetyl-11-hydroxy-6,10,13-trimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; medrysone",Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,glucocorticoid receptor agonist
+3532,thioguanine,Least predictable,Purine antagonist; purine antagonist,Purine antagonist
+3532,thioguanine,Least predictable,Purine antagonist; purine antagonist,purine antagonist
+420,NCH-51; Ptach,Least predictable,HDAC inhibitor,HDAC inhibitor
+3022,AT-7867,Least predictable,AKT inhibitor,AKT inhibitor
+649,AM-580; Ro 40-6055,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,Retinoid receptor agonist
+649,AM-580; Ro 40-6055,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,retinoid receptor agonist
+1383,GSK-1070916; Gsk-1070916,Least predictable,Aurora kinase inhibitor,Aurora kinase inhibitor
+1725,7-hydroxystaurosporine; Ucn-01,Most predictable,"CDK inhibitor | CHK inhibitor | PKC inhibitor; CHK inhibitor, CDK inhibitor, PKC inhibitor",CDK inhibitor | CHK inhibitor | PKC inhibitor
+1725,7-hydroxystaurosporine; Ucn-01,Most predictable,"CDK inhibitor | CHK inhibitor | PKC inhibitor; CHK inhibitor, CDK inhibitor, PKC inhibitor","CHK inhibitor, CDK inhibitor, PKC inhibitor"
+2152,AR-A014418,Least predictable,GSK-3 inhibitor; glycogen synthase kinase inhibitor,GSK-3 inhibitor
+2152,AR-A014418,Least predictable,GSK-3 inhibitor; glycogen synthase kinase inhibitor,glycogen synthase kinase inhibitor
+4230,Maxacalcitol-D6; maxacalcitol,Most predictable,Vitamin D receptor agonist; vitamin D receptor agonist,Vitamin D receptor agonist
+4230,Maxacalcitol-D6; maxacalcitol,Most predictable,Vitamin D receptor agonist; vitamin D receptor agonist,vitamin D receptor agonist
+189,"1-[4-[4-[[(2S,4R)-2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy]phenyl]piperazin-1-yl]ethanone; Ketoconazole",Least predictable,sterol demethylase inhibitor,sterol demethylase inhibitor
+3347,"H-9; N'-(5-isoquinolinylmethyl)ethane-1,2-diamine",Least predictable,PKA inhibitor,PKA inhibitor
+3220,Phenformin; phenformin,Least predictable,AMPK activator,AMPK activator
+1310,(2R)-2-[[6-(benzylamino)-9-propan-2-ylpurin-2-yl]amino]butan-1-ol; Roscovitine; roscovitine,Least predictable,CDK inhibitor; CDK inhibitors,CDK inhibitor
+1310,(2R)-2-[[6-(benzylamino)-9-propan-2-ylpurin-2-yl]amino]butan-1-ol; Roscovitine; roscovitine,Least predictable,CDK inhibitor; CDK inhibitors,CDK inhibitors
+2761,RG-2833,Least predictable,HDAC inhibitor,HDAC inhibitor
+593,Fenretinide; fenretinide,Least predictable,"Retinoid receptor agonist, Apoptosis stimulant; apoptosis stimulant | retinoid receptor agonist","Retinoid receptor agonist, Apoptosis stimulant"
+593,Fenretinide; fenretinide,Least predictable,"Retinoid receptor agonist, Apoptosis stimulant; apoptosis stimulant | retinoid receptor agonist",apoptosis stimulant | retinoid receptor agonist
+139,"Estra-4,9,11-trien-3-one, 17-hydroxy-17-(2-propenyl)-, (17b)-; altrenogest",Most predictable,Progestogen hormone; progestogen hormone,Progestogen hormone
+139,"Estra-4,9,11-trien-3-one, 17-hydroxy-17-(2-propenyl)-, (17b)-; altrenogest",Most predictable,Progestogen hormone; progestogen hormone,progestogen hormone
+221,"HDAC inhibitor, Compound 1; Merck60",Least predictable,HDAC inhibitor,HDAC inhibitor
+112,4-(4-((4-((3-acrylamidophenyl)amino)-5-fluoropyrimidin-2-yl)amino)phenoxy)-N-methylpicolinamide; CNX-774,Least predictable,BTK inhibitor; Bruton's tyrosine kinase (BTK) inhibitor,BTK inhibitor
+112,4-(4-((4-((3-acrylamidophenyl)amino)-5-fluoropyrimidin-2-yl)amino)phenoxy)-N-methylpicolinamide; CNX-774,Least predictable,BTK inhibitor; Bruton's tyrosine kinase (BTK) inhibitor,Bruton's tyrosine kinase (BTK) inhibitor
+788,"methyl (1R,9R,10S,11R,12S,19R)-11-acetyloxy-12-ethyl-4-[(12S,14R)-16-ethyl-12-methoxycarbonyl-1,10-diazatetracyclo[12.3.1.03,11.04,9]octadeca-3(11),4,6,8,15-pentaen-12-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate; vinorelbine",Most predictable,Tubulin inhibitor; tubulin polymerization inhibitor,Tubulin inhibitor
+788,"methyl (1R,9R,10S,11R,12S,19R)-11-acetyloxy-12-ethyl-4-[(12S,14R)-16-ethyl-12-methoxycarbonyl-1,10-diazatetracyclo[12.3.1.03,11.04,9]octadeca-3(11),4,6,8,15-pentaen-12-yl]-10-hydroxy-5-methoxy-8-methyl-8,16-diazapentacyclo[10.6.1.01,9.02,7.016,19]nonadeca-2,4,6,13-tetraene-10-carboxylate; vinorelbine",Most predictable,Tubulin inhibitor; tubulin polymerization inhibitor,tubulin polymerization inhibitor
+2216,D-64131,Least predictable,Microtubule inhibitor; microtubule inhibitor,Microtubule inhibitor
+2216,D-64131,Least predictable,Microtubule inhibitor; microtubule inhibitor,microtubule inhibitor
+4457,Y-27632,Least predictable,Rho associated kinase inhibitor,Rho associated kinase inhibitor
+1762,"BRD-K88741031; Methyl 2,5-dihydroxycinnamate; erbstatin-analog; methyl (E)-3-(2,5-dihydroxyphenyl)acrylate",Least predictable,"EGFR inhibitor | tyrosine kinase inhibitor; EGFR inhibitor, Tyrosine kinase inhibitor",EGFR inhibitor | tyrosine kinase inhibitor
+1762,"BRD-K88741031; Methyl 2,5-dihydroxycinnamate; erbstatin-analog; methyl (E)-3-(2,5-dihydroxyphenyl)acrylate",Least predictable,"EGFR inhibitor | tyrosine kinase inhibitor; EGFR inhibitor, Tyrosine kinase inhibitor","EGFR inhibitor, Tyrosine kinase inhibitor"
+99,Ibrutinib; ibrutinib,Least predictable,BTK inhibitor; Bruton's tyrosine kinase (BTK) inhibitor,BTK inhibitor
+99,Ibrutinib; ibrutinib,Least predictable,BTK inhibitor; Bruton's tyrosine kinase (BTK) inhibitor,Bruton's tyrosine kinase (BTK) inhibitor
+5117,serdemetan,Least predictable,MDM inhibitor,MDM inhibitor
+2808,(2E)-3-(4-methylbenzenesulfonyl)prop-2-enenitrile; BAY-11-7082,Least predictable,NFkB pathway inhibitor,NFkB pathway inhibitor
+652,Tamibarotene; tamibarotene,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,Retinoid receptor agonist
+652,Tamibarotene; tamibarotene,Least predictable,Retinoid receptor agonist; retinoid receptor agonist,retinoid receptor agonist
+5256,Tyrphostin 9; tyrphostin-A9,Least predictable,protein tyrosine kinase inhibitor | tyrosine kinase inhibitor,protein tyrosine kinase inhibitor | tyrosine kinase inhibitor
+1810,"AG-957; Benzoic acid, 4-[[(2,5-dihydroxyphenyl)methyl]amino]-, methyl ester",Least predictable,Protein tyrosine kinase inhibitor,Protein tyrosine kinase inhibitor
+5410,CX-5461; Cx-5461,Most predictable,RNA polymerase inhibitor,RNA polymerase inhibitor
+354,"2-Propenethioamide, 3-(3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl)-2-cyano-, (E)-; AG-879",Least predictable,tyrosine kinase inhibitor,tyrosine kinase inhibitor
+3608,CAY-10618; N-(2-phenylphenyl)-8-(4-pyridin-3-yltriazol-1-yl)octanamide,Least predictable,NAMPT inhibitor,NAMPT inhibitor
+4161,"2-((3-(2,3-Dichlorophenoxy)propyl)amino)ethanol; BRD-K61734568",Least predictable,BCL-XL downregulator,BCL-XL downregulator
+5230,"N,N-Dimethyl-beta-alanine (3R,4aR,5S,6S,6aS,10S,10aR,10bS)-5-(acetyloxy)-3-ethenyldodecahydro-10,10b-dihydroxy-3,4a,7,7,10a-pentamethyl-1-oxo-1H-naphtho(2,1-b)pyran-6-yl ester; colforsin-daproate",Most predictable,adenylyl cyclase activator,adenylyl cyclase activator
+4067,oxypurinol,Least predictable,Xanthine oxidase inhibitor; xanthine oxidase inhibitor,Xanthine oxidase inhibitor
+4067,oxypurinol,Least predictable,Xanthine oxidase inhibitor; xanthine oxidase inhibitor,xanthine oxidase inhibitor
+251,Dexamethasone Acetate; dexamethasone,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+251,Dexamethasone Acetate; dexamethasone,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,glucocorticoid receptor agonist
+5293,Suloctidil (USAN/INN); suloctidil,Least predictable,adrenergic receptor antagonist,adrenergic receptor antagonist
+3368,2-Phenylethynesulfonamide; pifithrin-mu,Least predictable,HSP inhibitor,HSP inhibitor
+1528,Chaetocin from Chaetomium minutum; chaetocin,Most predictable,Histone lysine methyltransferase inhibitor,Histone lysine methyltransferase inhibitor
+3928,"2,3-Bis(2-hydroxyethylsulfanyl)-(1,4)naphthoquinone; NSC-95397",Least predictable,CDC inhibitor,CDC inhibitor
+3667,BX-795; N-(3-((5-Iodo-4-((3-((2-thienylcarbonyl)amino)propyl)amino)-2-pyrimidinyl)amino)phenyl)-1-pyrrolidinecarboxamide,Least predictable,IKK inhibitor,IKK inhibitor
+2308,1-(9H-carbazol-4-yloxy)-3-[2-(2-methoxyphenoxy)ethylamino]propan-2-ol; Carvedilol; carvedilol,Least predictable,Adrenergic receptor antagonist; beta1-Adrenoceptor Antagonists,Adrenergic receptor antagonist
+2308,1-(9H-carbazol-4-yloxy)-3-[2-(2-methoxyphenoxy)ethylamino]propan-2-ol; Carvedilol; carvedilol,Least predictable,Adrenergic receptor antagonist; beta1-Adrenoceptor Antagonists,beta1-Adrenoceptor Antagonists
+5480,Oncrasin 1; oncrasin-1,Least predictable,apoptosis stimulant,apoptosis stimulant
+419,Ciclesonide; ciclesonide,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,Glucocorticoid receptor agonist
+419,Ciclesonide; ciclesonide,Most predictable,Glucocorticoid receptor agonist; glucocorticoid receptor agonist,glucocorticoid receptor agonist
+5442,"(2R)-4-amino-N-[(1R,2S,3S,4R,5S)-5-amino-2-[(2S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-4-[(2R,3R,4S,5S,6R)-6-(aminomethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-3-hydroxycyclohexyl]-2-hydroxybutanamide; amikacin",Most predictable,bacterial 30S ribosomal subunit inhibitor,bacterial 30S ribosomal subunit inhibitor
+3476,TWS-119; Tws119,Least predictable,GSK-3 inhibitor; glycogen synthase kinase inhibitor,GSK-3 inhibitor
+3476,TWS-119; Tws119,Least predictable,GSK-3 inhibitor; glycogen synthase kinase inhibitor,glycogen synthase kinase inhibitor
+2632,Ellipticine; ellipticine,Least predictable,Topoisomerase inhibitor,Topoisomerase inhibitor
+5271,Rimantadine; rimantadine,Least predictable,antiviral | RNA synthesis inhibitor,antiviral | RNA synthesis inhibitor
+2076,WHI-P154; Whi-P154,Least predictable,JAK inhibitor,JAK inhibitor
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,AP-1 Inhibitors
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,Dardarin) Inhibitors
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,Inhibitors of Signal Transduction Pathways
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,JNK inhibitor
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,Leucine-Rich Repeat Kinase 2 (LRRK2
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,SAPK1a (JNK2) Inhibitors
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,SAPK1b (JNK3) Inhibitors
+4023,"14,15-diazatetracyclo[7.6.1.02,7.013,16]hexadeca-1(15),2,4,6,9(16),10,12-heptaen-8-one; anthra(1,9-cd)pyrazol-6(2H)-one; pyrazolanthrone",Least predictable,Dardarin) Inhibitors;AP-1 Inhibitors;SAPK1a (JNK2) Inhibitors;Leucine-Rich Repeat Kinase 2 (LRRK2;Inhibitors of Signal Transduction Pathways;SAPK1b (JNK3) Inhibitors;SAPK1c (JNK1) Inhibitors; JNK inhibitor,SAPK1c (JNK1) Inhibitors
+1350,JTC-801; N-(4-amino-2-methylquinolin-6-yl)-2-(4-ethylphenoxymethyl)benzamide; N-(4-amino-2-methylquinolin-6-yl)-2-[(4-ethylphenoxy)methyl]benzamide,Least predictable,OPRL1 gene inhibitor;OPRM1 gene inhibitor; Opioid receptor antagonist; opioid receptor antagonist,OPRL1 gene inhibitor
+1350,JTC-801; N-(4-amino-2-methylquinolin-6-yl)-2-(4-ethylphenoxymethyl)benzamide; N-(4-amino-2-methylquinolin-6-yl)-2-[(4-ethylphenoxy)methyl]benzamide,Least predictable,OPRL1 gene inhibitor;OPRM1 gene inhibitor; Opioid receptor antagonist; opioid receptor antagonist,OPRM1 gene inhibitor
+1350,JTC-801; N-(4-amino-2-methylquinolin-6-yl)-2-(4-ethylphenoxymethyl)benzamide; N-(4-amino-2-methylquinolin-6-yl)-2-[(4-ethylphenoxy)methyl]benzamide,Least predictable,OPRL1 gene inhibitor;OPRM1 gene inhibitor; Opioid receptor antagonist; opioid receptor antagonist,Opioid receptor antagonist
+1350,JTC-801; N-(4-amino-2-methylquinolin-6-yl)-2-(4-ethylphenoxymethyl)benzamide; N-(4-amino-2-methylquinolin-6-yl)-2-[(4-ethylphenoxy)methyl]benzamide,Least predictable,OPRL1 gene inhibitor;OPRM1 gene inhibitor; Opioid receptor antagonist; opioid receptor antagonist,opioid receptor antagonist
+2706,"5-chloro-2-N-[(1S)-1-(5-fluoropyrimidin-2-yl)ethyl]-4-N-(5-methyl-1H-pyrazol-3-yl)pyrimidine-2,4-diamine; Azd-1480",Least predictable,JAK inhibitor; Jak2 Inhibitors,JAK inhibitor
+2706,"5-chloro-2-N-[(1S)-1-(5-fluoropyrimidin-2-yl)ethyl]-4-N-(5-methyl-1H-pyrazol-3-yl)pyrimidine-2,4-diamine; Azd-1480",Least predictable,JAK inhibitor; Jak2 Inhibitors,Jak2 Inhibitors
+2028,Etoposide; etoposide,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+2028,Etoposide; etoposide,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+1700,(3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine; Duloxetine; duloxetine,Least predictable,"Norepinephrine Transporter (NET) Inhibitors;Serotonin Transporter (SERT) Inhibitors; Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor; norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI)",Norepinephrine Transporter (NET) Inhibitors
+1700,(3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine; Duloxetine; duloxetine,Least predictable,"Norepinephrine Transporter (NET) Inhibitors;Serotonin Transporter (SERT) Inhibitors; Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor; norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI)",Serotonin Transporter (SERT) Inhibitors
+1700,(3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine; Duloxetine; duloxetine,Least predictable,"Norepinephrine Transporter (NET) Inhibitors;Serotonin Transporter (SERT) Inhibitors; Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor; norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI)","Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor"
+1700,(3S)-N-methyl-3-naphthalen-1-yloxy-3-thiophen-2-ylpropan-1-amine; Duloxetine; duloxetine,Least predictable,"Norepinephrine Transporter (NET) Inhibitors;Serotonin Transporter (SERT) Inhibitors; Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor; norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI)",norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI)
+4724,sorafenib,Least predictable,"PDGFR inhibitor, RET tyrosine kinase inhibitor, RAF inhibitor, VEGFR inhibitor, FLT3 inhibitor, KIT inhibitor","PDGFR inhibitor, RET tyrosine kinase inhibitor, RAF inhibitor, VEGFR inhibitor, FLT3 inhibitor, KIT inhibitor"
+4225,mercaptopurine,Least predictable,immunosuppressant | protein synthesis inhibitor | purine antagonist,immunosuppressant | protein synthesis inhibitor | purine antagonist
+3292,Iniparib; iniparib,Least predictable,PARP inhibitor,PARP inhibitor
+5264,BVD-523; Ulixertinib,Least predictable,MAP kinase inhibitor,MAP kinase inhibitor
+4491,rimcazole,Least predictable,Sigma receptor antagonist,Sigma receptor antagonist
+262,"[(1R,2S,4R,5R,6S,8R,10S,11S,14S,16R)-14-hydroxy-8,11-dimethyl-6-(6-oxopyran-3-yl)-3-oxapentacyclo[8.8.0.02,4.02,7.011,16]octadecan-5-yl] acetate; cinobufagin",Most predictable,ATPase inhibitor,ATPase inhibitor
+1599,6-cyclopropyl-8-fluoro-2-[2-(hydroxymethyl)-3-[1-methyl-5-[[5-(4-methylpiperazin-1-yl)pyridin-2-yl]amino]-6-oxopyridin-3-yl]phenyl]isoquinolin-1-one; RN486,Most predictable,reversible BTK inhibitor,reversible BTK inhibitor
+2174,"1-(2,4-dimethoxyphenyl)-3-(2,6-dimethylphenyl)-1-[6-[4-(4-methylpiperazin-1-yl)anilino]pyrimidin-4-yl]urea; HG-9-91-01",Least predictable,SIK1 gene inhibitor,SIK1 gene inhibitor
+2276,Pirarubicin; pirarubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor
+2276,Pirarubicin; pirarubicin,Most predictable,Topoisomerase inhibitor; topoisomerase inhibitor,topoisomerase inhibitor
+2039,2-Methoxyestradiol; BRD-K44408410,Most predictable,hypoxia inducible factor inhibitor,hypoxia inducible factor inhibitor
+3290,"4-(4-(1,3-Benzodioxol-5-yl)-5-(2-pyridinyl)-1H-imidazol-2-yl)benzamide; SB-431542",Least predictable,TGF beta receptor inhibitor,TGF beta receptor inhibitor
+1040,Disulfiram; disulfiram,Least predictable,"Aldehyde dehydrogenase inhibitor, DNA methyltransferase inhibitor, TRPV agonist; aldehyde dehydrogenase inhibitor | DNA methyltransferase inhibitor | TRPV agonist","Aldehyde dehydrogenase inhibitor, DNA methyltransferase inhibitor, TRPV agonist"
+1040,Disulfiram; disulfiram,Least predictable,"Aldehyde dehydrogenase inhibitor, DNA methyltransferase inhibitor, TRPV agonist; aldehyde dehydrogenase inhibitor | DNA methyltransferase inhibitor | TRPV agonist",aldehyde dehydrogenase inhibitor | DNA methyltransferase inhibitor | TRPV agonist
+2353,Sulforaphane; sulforaphane,Least predictable,"Aryl hydrocarbon receptor antagonist, Anti-cancer agent; anticancer agent | aryl hydrocarbon receptor antagonist","Aryl hydrocarbon receptor antagonist, Anti-cancer agent"
+2353,Sulforaphane; sulforaphane,Least predictable,"Aryl hydrocarbon receptor antagonist, Anti-cancer agent; anticancer agent | aryl hydrocarbon receptor antagonist",anticancer agent | aryl hydrocarbon receptor antagonist
+2502,"(2Z,4S,4aR,5S,5aR,6R,12aS)-2-[amino(hydroxy)methylene]-4-(dimethylamino)-5,10,11,12a-tetrahydroxy-6-methyl-4a,5,5a,6-tetrahydro-4H-tetracene-1,3,12-trione;ethanol;hydrate;hydrochloride; doxycycline",Most predictable,Metalloproteinase inhibitor; bacterial 30S ribosomal subunit inhibitor | metalloproteinase inhibitor,Metalloproteinase inhibitor
+2502,"(2Z,4S,4aR,5S,5aR,6R,12aS)-2-[amino(hydroxy)methylene]-4-(dimethylamino)-5,10,11,12a-tetrahydroxy-6-methyl-4a,5,5a,6-tetrahydro-4H-tetracene-1,3,12-trione;ethanol;hydrate;hydrochloride; doxycycline",Most predictable,Metalloproteinase inhibitor; bacterial 30S ribosomal subunit inhibitor | metalloproteinase inhibitor,bacterial 30S ribosomal subunit inhibitor | metalloproteinase inhibitor
+2686,4-(4-Chloro-2-methylphenoxy)-N-hydroxybutanamide; 4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide; droxinostat,Least predictable,HDAC inhibitor,HDAC inhibitor
+3742,SNS-314; Sns-314,Least predictable,Aurora kinase inhibitor,Aurora kinase inhibitor
+1046,"4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine; Chloroquine; chloroquine",Least predictable,Apoptosis Inducers;Thiamine uptake inhibitor; antimalarial agent,Apoptosis Inducers
+1046,"4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine; Chloroquine; chloroquine",Least predictable,Apoptosis Inducers;Thiamine uptake inhibitor; antimalarial agent,Thiamine uptake inhibitor
+1046,"4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine; Chloroquine; chloroquine",Least predictable,Apoptosis Inducers;Thiamine uptake inhibitor; antimalarial agent,antimalarial agent
+494,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol; Isoproterenol; isoprenaline",Least predictable,Adrenergic receptor agonist; beta-Adrenoceptor Agonists,Adrenergic receptor agonist
+494,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol; Isoproterenol; isoprenaline",Least predictable,Adrenergic receptor agonist; beta-Adrenoceptor Agonists,beta-Adrenoceptor Agonists
+2252,2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one; PD-98059,Least predictable,"MEK inhibitor; MEK inhibitor, MAP kinase inhibitor",MEK inhibitor
+2252,2-(2-amino-3-methoxyphenyl)-4H-1-benzopyran-4-one; PD-98059,Least predictable,"MEK inhibitor; MEK inhibitor, MAP kinase inhibitor","MEK inhibitor, MAP kinase inhibitor"
+1076,Barasertib; barasertib,Least predictable,Aurora kinase inhibitor,Aurora kinase inhibitor
+4953,TCPOBOP,Least predictable,CAR agonist,CAR agonist
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,AMP-Activated Protein Kinase (AMPK) Activators
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,GPD2 gene modulator
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,MTTP Inhibitor
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,adenine deaminase inhibitor
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,inhibitor of mitochondrial complex I of the electron transport chain
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,insulin sensitizer
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",Least predictable,inhibitor of mitochondrial complex I of the electron transport chain;GPD2 gene modulator;adenine deaminase inhibitor;MTTP Inhibitor;mitochondrial repiratory chain 1 inhibitors;AMP-Activated Protein Kinase (AMPK) Activators; insulin sensitizer,mitochondrial repiratory chain 1 inhibitors
+2508,"(8S,9S,10R,11S,13S,14R,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; prednisolone",Most predictable,glucocorticoid receptor agonist,glucocorticoid receptor agonist
+3413,"(1R,2S)-Tranylcypromine; tranylcypromine",Least predictable,Monoamine oxidase inhibitor; monoamine oxidase inhibitor,Monoamine oxidase inhibitor
+3413,"(1R,2S)-Tranylcypromine; tranylcypromine",Least predictable,Monoamine oxidase inhibitor; monoamine oxidase inhibitor,monoamine oxidase inhibitor
+3298,Nicotinamide; nicotinamide,Least predictable,Protein synthesis stimulant; protein synthesis stimulant,Protein synthesis stimulant
+3298,Nicotinamide; nicotinamide,Least predictable,Protein synthesis stimulant; protein synthesis stimulant,protein synthesis stimulant
+5116,cisplatin,Least predictable,"DNA alkylating agent, DNA synthesis inhibitor","DNA alkylating agent, DNA synthesis inhibitor"

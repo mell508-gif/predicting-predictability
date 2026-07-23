@@ -1,0 +1,8 @@
+predicted_quintile,n_compounds,mean_actual_predictability,median_actual_predictability,std_actual_predictability,mean_predicted_predictability
+"Least
+predictable",161,0.7813803,0.80143875,0.088548645,0.7887265
+Lower,160,0.8089781,0.8177314,0.0853485,0.8124181
+Middle,160,0.8264039,0.8390051,0.08352771,0.8244154
+Higher,160,0.84403247,0.86193824,0.07979993,0.8379795
+"Most
+predictable",160,0.87331104,0.8823625,0.081221394,0.871648

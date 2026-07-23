@@ -1,0 +1,259 @@
+moa_annotation,lowest_observed_count,highest_observed_count,lowest_observed_percent,highest_observed_percent,total_extreme_count
+Topoisomerase inhibitor,1,16,0.8130081300813008,11.188811188811188,17
+HDAC inhibitor,1,11,0.8130081300813008,7.6923076923076925,12
+HSP inhibitor,3,6,2.4390243902439024,4.195804195804196,9
+mTOR inhibitor,0,9,0.0,6.293706293706293,9
+Glucocorticoid receptor agonist,1,6,0.8130081300813008,4.195804195804196,7
+ATPase inhibitor,1,5,0.8130081300813008,3.4965034965034967,6
+Tubulin polymerization inhibitor,0,6,0.0,4.195804195804196,6
+PI3K inhibitor,2,4,1.6260162601626016,2.797202797202797,6
+CDK inhibitor,2,3,1.6260162601626016,2.097902097902098,5
+protein synthesis inhibitor,1,4,0.8130081300813008,2.797202797202797,5
+proteasome inhibitor,0,4,0.0,2.797202797202797,4
+EGFR inhibitor,2,2,1.6260162601626016,1.3986013986013985,4
+adrenergic receptor antagonist,2,1,1.6260162601626016,0.6993006993006993,3
+Protein synthesis inhibitor,0,3,0.0,2.097902097902098,3
+"MTOR inhibitor, PI3K inhibitor",0,3,0.0,2.097902097902098,3
+Inhibitors of signal transduction pathways,1,2,0.8130081300813008,1.3986013986013985,3
+Retinoid receptor agonist,3,0,2.4390243902439024,0.0,3
+MEK inhibitor,1,2,0.8130081300813008,1.3986013986013985,3
+tyrosine kinase inhibitor,3,0,2.4390243902439024,0.0,3
+Tubulin inhibitor,0,3,0.0,2.097902097902098,3
+dopamine receptor antagonist,0,2,0.0,1.3986013986013985,2
+FLT3 inhibitor,2,0,1.6260162601626016,0.0,2
+mTOR inhibitor | PI3K inhibitor,0,2,0.0,1.3986013986013985,2
+microtubule inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+dna polymerase inhibitor | topoisomerase inhibitor,0,2,0.0,1.3986013986013985,2
+Cyclooxygenase inhibitor,0,2,0.0,1.3986013986013985,2
+FGFR inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+estrogen receptor agonist,1,1,0.8130081300813008,0.6993006993006993,2
+NFkB pathway inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+IMPDH inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+IKK inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+adenylyl cyclase activator,1,1,0.8130081300813008,0.6993006993006993,2
+Aurora kinase inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+PLK inhibitor,0,2,0.0,1.3986013986013985,2
+CDC inhibitor,2,0,1.6260162601626016,0.0,2
+Bcr-Abl kinase inhibitor,2,0,1.6260162601626016,0.0,2
+Bacterial 30S ribosomal subunit inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+PARP inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+BCL inhibitor,0,2,0.0,1.3986013986013985,2
+RNA polymerase inhibitor,1,1,0.8130081300813008,0.6993006993006993,2
+ribonucleotide reductase inhibitor,0,2,0.0,1.3986013986013985,2
+Apoptosis Inducers,1,1,0.8130081300813008,0.6993006993006993,2
+Rho associated kinase inhibitor,2,0,1.6260162601626016,0.0,2
+Adrenergic receptor agonist,2,0,1.6260162601626016,0.0,2
+"Tricyclic antidepressant, Norepinephrine reputake inhibitor",1,0,0.8130081300813008,0.0,1
+antiviral,0,1,0.0,0.6993006993006993,1
+antimalarial agent,1,0,0.8130081300813008,0.0,1
+anti-pneumocystis agent,1,0,0.8130081300813008,0.0,1
+adenosine deaminase inhibitor | ribonucleotide reductase inhibitor,0,1,0.0,0.6993006993006993,1
+Tyrosine kinase inhibitor,0,1,0.0,0.6993006993006993,1
+"adenosine receptor agonist | adenosine receptor agonist, camp stimulant | cAMP stimulant",1,0,0.8130081300813008,0.0,1
+Xanthine oxidase inhibitor,1,0,0.8130081300813008,0.0,1
+anti-inflammatory agent,1,0,0.8130081300813008,0.0,1
+Translation Inititiation Inhibitor,0,1,0.0,0.6993006993006993,1
+AKT inhibitor,1,0,0.8130081300813008,0.0,1
+Sigma receptor antagonist,1,0,0.8130081300813008,0.0,1
+"Topoisomerase inhibitor, DNA inhibitor",0,1,0.0,0.6993006993006993,1
+Selective estrogen receptor modulator,1,0,0.8130081300813008,0.0,1
+Pyruvate Dehydrogenase Activators,1,0,0.8130081300813008,0.0,1
+RAF inhibitor | serine/threonine kinase inhibitor,1,0,0.8130081300813008,0.0,1
+RNA synthesis inhibitor | topoisomerase inhibitor,0,1,0.0,0.6993006993006993,1
+"RNA synthesis inhibitor, Topoisomerase inhibitor",0,1,0.0,0.6993006993006993,1
+Ribonucleotide reductase inhibitor,0,1,0.0,0.6993006993006993,1
+SAPK1a (JNK2) Inhibitors,1,0,0.8130081300813008,0.0,1
+SAPK1b (JNK3) Inhibitors,1,0,0.8130081300813008,0.0,1
+SAPK1c (JNK1) Inhibitors,1,0,0.8130081300813008,0.0,1
+SERCA2a Activator,1,0,0.8130081300813008,0.0,1
+SIK1 gene inhibitor,1,0,0.8130081300813008,0.0,1
+"STAT inhibitor, DNA replication inhibitor",0,1,0.0,0.6993006993006993,1
+Serotonin Transporter (SERT) Inhibitors,1,0,0.8130081300813008,0.0,1
+Thiamine uptake inhibitor,1,0,0.8130081300813008,0.0,1
+"Serotonin receptor antagonist, Dopamine receptor agonist",1,0,0.8130081300813008,0.0,1
+"Serotonin reuptake inhibitor, Norepinephrine reuptake inhibitor",1,0,0.8130081300813008,0.0,1
+apoptosis stimulant,1,0,0.8130081300813008,0.0,1
+Smoothened receptor agonist,1,0,0.8130081300813008,0.0,1
+Smoothened receptor antagonist,1,0,0.8130081300813008,0.0,1
+Survivin inhibitor,0,1,0.0,0.6993006993006993,1
+T-type calcium channel blocker,1,0,0.8130081300813008,0.0,1
+TGF beta receptor inhibitor,1,0,0.8130081300813008,0.0,1
+"TIE tyrosine kinase inhibitor, Abl kinase inhibitor, VEGFR inhibitor",1,0,0.8130081300813008,0.0,1
+TRPV antagonist,1,0,0.8130081300813008,0.0,1
+"Tau aggregation inhibitor, Monoamine oxidase inhibitor, Guanylyl cyclase inhibitor, Nitric oxide production inhibitor",1,0,0.8130081300813008,0.0,1
+antiviral | RNA synthesis inhibitor,1,0,0.8130081300813008,0.0,1
+dehydrogenase inhibitor | inositol monophosphatase inhibitor,0,1,0.0,0.6993006993006993,1
+apoptosis stimulant | protein synthesis inhibitor,0,1,0.0,0.6993006993006993,1
+inosine monophosphate dehydrogenase inhibitor,1,0,0.8130081300813008,0.0,1
+interleukin synthesis inhibitor,1,0,0.8130081300813008,0.0,1
+leucine rich repeat kinase inhibitor,0,1,0.0,0.6993006993006993,1
+lipid kinase inhibitor,1,0,0.8130081300813008,0.0,1
+microtubule inhibitor | tubulin polymerization inhibitor,0,1,0.0,0.6993006993006993,1
+mineralocorticoid receptor antagonist,1,0,0.8130081300813008,0.0,1
+norepinephrine reputake inhibitor | tricyclic antidepressant,1,0,0.8130081300813008,0.0,1
+norepinephrine reuptake inhibitor | serotonin–norepinephrine reuptake inhibitor (SNRI),1,0,0.8130081300813008,0.0,1
+opioid receptor antagonist,1,0,0.8130081300813008,0.0,1
+p21 activated kinase inhibitor,0,1,0.0,0.6993006993006993,1
+p38 MAPK inhibitor,1,0,0.8130081300813008,0.0,1
+polycomb protein inhibitor,1,0,0.8130081300813008,0.0,1
+potassium channel blocker,1,0,0.8130081300813008,0.0,1
+protein tyrosine kinase inhibitor | tyrosine kinase inhibitor,1,0,0.8130081300813008,0.0,1
+purine antagonist,1,0,0.8130081300813008,0.0,1
+reversible BTK inhibitor,1,0,0.8130081300813008,0.0,1
+selective estrogen receptor modulator (SERM),1,0,0.8130081300813008,0.0,1
+selective serotonin reuptake inhibitor (SSRI),1,0,0.8130081300813008,0.0,1
+smoothened receptor agonist,1,0,0.8130081300813008,0.0,1
+smoothened receptor antagonist,1,0,0.8130081300813008,0.0,1
+sodium/glucose cotransporter inhibitor,1,0,0.8130081300813008,0.0,1
+tachykinin antagonist,1,0,0.8130081300813008,0.0,1
+tissue transglutaminase inhibitor,1,0,0.8130081300813008,0.0,1
+tumor necrosis factor production inhibitor,1,0,0.8130081300813008,0.0,1
+ubiquitin C-terminal hydrolase inhibitor,1,0,0.8130081300813008,0.0,1
+voltage-gated potassium channel blocker,1,0,0.8130081300813008,0.0,1
+interferon inducer | toll-like receptor agonist,1,0,0.8130081300813008,0.0,1
+hypoxia inducible factor activator,0,1,0.0,0.6993006993006993,1
+bacterial 30S ribosomal subunit inhibitor | metalloproteinase inhibitor,0,1,0.0,0.6993006993006993,1
+hydantoin antiepileptic,1,0,0.8130081300813008,0.0,1
+benzodiazepine receptor agonist,1,0,0.8130081300813008,0.0,1
+beta1-Adrenoceptor Antagonists,1,0,0.8130081300813008,0.0,1
+bromodomain inhibitor,0,1,0.0,0.6993006993006993,1
+c-Met inhibitor,1,0,0.8130081300813008,0.0,1
+calcineurin inhibitor,0,1,0.0,0.6993006993006993,1
+calcium channel activator,1,0,0.8130081300813008,0.0,1
+casein kinase inhibitor | cell proliferation inhibitor,1,0,0.8130081300813008,0.0,1
+cyclooxygenase inhibitor,0,1,0.0,0.6993006993006993,1
+cytochrome P450 inhibitor,1,0,0.8130081300813008,0.0,1
+dihydrofolate reductase inhibitor,0,1,0.0,0.6993006993006993,1
+dna damage inducer | DNA synthesis inhibitor,0,1,0.0,0.6993006993006993,1
+"dopamine receptor agonist | dopamine receptor agonist, serotonin receptor antagonist | serotonin receptor antagonist",1,0,0.8130081300813008,0.0,1
+dopamine receptor modulator | serotonin receptor antagonist,1,0,0.8130081300813008,0.0,1
+dual specificity protein kinase inhibitor,1,0,0.8130081300813008,0.0,1
+erbB1) Inhibitors,0,1,0.0,0.6993006993006993,1
+estrogen receptor agonist | glucocorticoid receptor antagonist | progesterone receptor agonist | progesterone receptor antagonist,0,1,0.0,0.6993006993006993,1
+"estrogen receptor agonist, fxr antagonist, progesterone receptor agonist",1,0,0.8130081300813008,0.0,1
+estrogen receptor antagonist,1,0,0.8130081300813008,0.0,1
+fgfr inhibitor,0,1,0.0,0.6993006993006993,1
+flavanone glycoside,0,1,0.0,0.6993006993006993,1
+focal adhesion kinase inhibitor,1,0,0.8130081300813008,0.0,1
+glutamate inhibitor,1,0,0.8130081300813008,0.0,1
+guanylyl cyclase inhibitor | nitric oxide production inhibitor,1,0,0.8130081300813008,0.0,1
+hedgehog pathway inhibitor,1,0,0.8130081300813008,0.0,1
+histone lysine methyltransferase inhibitor,1,0,0.8130081300813008,0.0,1
+Protein tyrosine kinase inhibitor,1,0,0.8130081300813008,0.0,1
+"PDGFR inhibitor, RET tyrosine kinase inhibitor, RAD51 inhibitor, FLT3 inhibitor, KIT inhibitor",1,0,0.8130081300813008,0.0,1
+Proteasome inhibitor,0,1,0.0,0.6993006993006993,1
+Estrogen Receptor (ER) Agonists,1,0,0.8130081300813008,0.0,1
+DNA inhibitor,1,0,0.8130081300813008,0.0,1
+DNA inhibitor | topoisomerase inhibitor,0,1,0.0,0.6993006993006993,1
+DNA replication inhibitor | STAT inhibitor,0,1,0.0,0.6993006993006993,1
+DNA synthesis inhibitor,0,1,0.0,0.6993006993006993,1
+DOT1L inhibitor,1,0,0.8130081300813008,0.0,1
+Dardarin) Inhibitors,1,0,0.8130081300813008,0.0,1
+Dihydrofolate reductase inhibitor,0,1,0.0,0.6993006993006993,1
+Dopamine receptor antagonist,0,1,0.0,0.6993006993006993,1
+Dual PRMT5 and PRMT7 inhibitor,1,0,0.8130081300813008,0.0,1
+EGFR inhibitor | tyrosine kinase inhibitor,1,0,0.8130081300813008,0.0,1
+"EGFR inhibitor, Tyrosine kinase inhibitor",1,0,0.8130081300813008,0.0,1
+ERK inhibitor,0,1,0.0,0.6993006993006993,1
+Estrogen receptor agonist,0,1,0.0,0.6993006993006993,1
+Potassium channel blocker,1,0,0.8130081300813008,0.0,1
+Estrogen receptor antagonist,1,0,0.8130081300813008,0.0,1
+"Estrogen receptor antagonist, -",0,1,0.0,0.6993006993006993,1
+FAAH inhibitor | FAAH reuptake inhibitor,1,0,0.8130081300813008,0.0,1
+"FAAH inhibitor, FAAH reuptake inhibitor",1,0,0.8130081300813008,0.0,1
+FGFR inhibitor | VEGFR inhibitor,1,0,0.8130081300813008,0.0,1
+"FGFR inhibitor, VEGFR inhibitor",1,0,0.8130081300813008,0.0,1
+FGFR1 gene inhibitor,1,0,0.8130081300813008,0.0,1
+FKBP12 gene modulator,0,1,0.0,0.6993006993006993,1
+FLT3 inhibitor | JAK inhibitor,1,0,0.8130081300813008,0.0,1
+FLT3 inhibitor | KIT inhibitor | PDGFR tyrosine kinase receptor inhibitor | RAD51 inhibitor | RET tyrosine kinase inhibitor,1,0,0.8130081300813008,0.0,1
+FLT3/AXL inhibitor,1,0,0.8130081300813008,0.0,1
+"FOXM1 inhibitor | foxm1 inhibitor, protein synthesis inhibitor | protein synthesis inhibitor",0,1,0.0,0.6993006993006993,1
+DNA directed DNA polymerase inhibitor | DNA synthesis inhibitor,1,0,0.8130081300813008,0.0,1
+DNA dependent protein kinase inhibitor | mTOR inhibitor | phosphodiesterase inhibitor | PI3K inhibitor | PLK inhibitor,0,1,0.0,0.6993006993006993,1
+DNA alkylating agent | DNA synthesis inhibitor,0,1,0.0,0.6993006993006993,1
+DNA Polymerase Inhibitors,0,1,0.0,0.6993006993006993,1
+ALK tyrosine kinase receptor inhibitor | insulin growth factor receptor inhibitor,1,0,0.8130081300813008,0.0,1
+ALK tyrosine kinase receptor inhibitor | proto-oncogene tyrosine protein kinase inhibitor,1,0,0.8130081300813008,0.0,1
+AP-1 Inhibitors,1,0,0.8130081300813008,0.0,1
+ATR kinase inhibitor,1,0,0.8130081300813008,0.0,1
+"Abl kinase inhibitor, Aurora kinase inhibitor, JAK inhibitor, FLT3 inhibitor",0,1,0.0,0.6993006993006993,1
+"Adenosine deaminase inhibitor, Ribonucleoside reductase inhibitor",0,1,0.0,0.6993006993006993,1
+Adenylyl cyclase activator,0,1,0.0,0.6993006993006993,1
+Adrenergic receptor antagonist,1,0,0.8130081300813008,0.0,1
+Angiogenesis Inhibitors,0,1,0.0,0.6993006993006993,1
+Antimetabolites,0,1,0.0,0.6993006993006993,1
+Anxiolytics,1,0,0.8130081300813008,0.0,1
+Aurora kinase inhibitor | Bcr-Abl kinase inhibitor | FLT3 inhibitor | JAK inhibitor,0,1,0.0,0.6993006993006993,1
+Aurora kinase inhibitor | growth factor receptor inhibitor,0,1,0.0,0.6993006993006993,1
+BCL-XL downregulator,1,0,0.8130081300813008,0.0,1
+Bcr-Abl kinase inhibitor | TIE tyrosine kinase inhibitor | VEGFR inhibitor,1,0,0.8130081300813008,0.0,1
+Benzodiazepine receptor agonist,1,0,0.8130081300813008,0.0,1
+Bruton's tyrosine kinase (BTK) inhibitor,1,0,0.8130081300813008,0.0,1
+C-Met inhibitor,1,0,0.8130081300813008,0.0,1
+"CAMP stimulant, Adenosine receptor agonist",1,0,0.8130081300813008,0.0,1
+CDK inhibitor | growth factor receptor inhibitor,0,1,0.0,0.6993006993006993,1
+CHK inhibitor,0,1,0.0,0.6993006993006993,1
+CHK1 Expression Inhibitors,0,1,0.0,0.6993006993006993,1
+Calcineurin inhibitor,0,1,0.0,0.6993006993006993,1
+Catecholamine depleting sympatholytic,0,1,0.0,0.6993006993006993,1
+Chloride Channel Blockers,1,0,0.8130081300813008,0.0,1
+"FOXM1 inhibitor, Protein synthesis inhibitor",0,1,0.0,0.6993006993006993,1
+"FXR antagonist, Estrogen receptor agonist, Cholesterol inhibitor, Pregnane X receptor agonist, Progesterone receptor agonist, IKK inhibitor",1,0,0.8130081300813008,0.0,1
+"Farnesyltransferase inhibitor, NFKB pathway inhibitor",0,1,0.0,0.6993006993006993,1
+Leucine-Rich Repeat Kinase 2 (LRRK2,1,0,0.8130081300813008,0.0,1
+MDM inhibitor,1,0,0.8130081300813008,0.0,1
+"MEK inhibitor, MAP kinase inhibitor",1,0,0.8130081300813008,0.0,1
+"MEK inhibitor, Protein kinase inhibitor, MAP kinase inhibitor",0,1,0.0,0.6993006993006993,1
+MTH1 inhibitor,0,1,0.0,0.6993006993006993,1
+Microtubule inhibitor,1,0,0.8130081300813008,0.0,1
+"Microtubule inhibitor, Tubulin inhibitor",0,1,0.0,0.6993006993006993,1
+Mutant Raf kinase B Inhibitors,1,0,0.8130081300813008,0.0,1
+NAMPT inhibitor,1,0,0.8130081300813008,0.0,1
+NFkB pathway inhibitor | proteasome inhibitor,0,1,0.0,0.6993006993006993,1
+Na+/K+-ATPase Inhibitors,1,0,0.8130081300813008,0.0,1
+Norepinephrine Transporter (NET) Inhibitors,1,0,0.8130081300813008,0.0,1
+OPRL1 gene inhibitor,1,0,0.8130081300813008,0.0,1
+OPRM1 gene inhibitor,1,0,0.8130081300813008,0.0,1
+Opioid receptor antagonist,1,0,0.8130081300813008,0.0,1
+P21 activated kinase inhibitor,0,1,0.0,0.6993006993006993,1
+P38 MAPK inhibitor,1,0,0.8130081300813008,0.0,1
+ALK tyrosine kinase receptor inhibitor,0,1,0.0,0.6993006993006993,1
+"PDGFR inhibitor, VEGFR inhibitor",1,0,0.8130081300813008,0.0,1
+PDGFR tyrosine kinase receptor inhibitor | VEGFR inhibitor,1,0,0.8130081300813008,0.0,1
+PKC activator,0,1,0.0,0.6993006993006993,1
+PRC2/EED,1,0,0.8130081300813008,0.0,1
+Phosphatidylinositol 3-Kinase alpha (PI3Kalpha) Inhibitors,0,1,0.0,0.6993006993006993,1
+Phosphatidylinositol 3-Kinase delta (PI3Kdelta) Inhibitors,1,0,0.8130081300813008,0.0,1
+"Phosphodiesterase inhibitor, MTOR inhibitor, DNA dependent protein kinase inhibitor, PLK inhibitor",0,1,0.0,0.6993006993006993,1
+Phospholipase inhibitor,1,0,0.8130081300813008,0.0,1
+MAP kinase inhibitor,1,0,0.8130081300813008,0.0,1
+Leucine rich repeat kinase inhibitor,0,1,0.0,0.6993006993006993,1
+Focal adhesion kinase inhibitor,1,0,0.8130081300813008,0.0,1
+"LIM kinase activator, Coflilin signaling pathway activator, Rho associated kinase activator",0,1,0.0,0.6993006993006993,1
+GK0582 inhibitor,1,0,0.8130081300813008,0.0,1
+GSK-3 inhibitor,1,0,0.8130081300813008,0.0,1
+"GSK-3 inhibitor, CDK inhibitor, CFTR channel agonist",1,0,0.8130081300813008,0.0,1
+"Glucocorticoid receptor agonist, Corticosteroid agonist",0,1,0.0,0.6993006993006993,1
+"Glucocorticoid receptor agonist, Cytochrome P450 inhibitor, Corticosteroid agonist",0,1,0.0,0.6993006993006993,1
+"Glucocorticoid receptor antagonist, Progesterone receptor antagonist, Progesterone receptor agonist, Estrogen receptor agonist",0,1,0.0,0.6993006993006993,1
+Glycogen synthase kinase inhibitor,1,0,0.8130081300813008,0.0,1
+"Growth factor receptor inhibitor, Aurora kinase inhibitor",0,1,0.0,0.6993006993006993,1
+"Growth factor receptor inhibitor, CDK inhibitor",0,1,0.0,0.6993006993006993,1
+"Growth factor receptor inhibitor, JAK inhibitor, FLT3 inhibitor",0,1,0.0,0.6993006993006993,1
+HCN channel blocker | potassium channel blocker | sodium channel blocker,1,0,0.8130081300813008,0.0,1
+HDACs,0,1,0.0,0.6993006993006993,1
+HER2 (erbB2) Inhibitors,0,1,0.0,0.6993006993006993,1
+HIF modulator,0,1,0.0,0.6993006993006993,1
+HMGCR inhibitor,0,1,0.0,0.6993006993006993,1
+Heat Shock Protein 90 (hsp90) Inhibitors,0,1,0.0,0.6993006993006993,1
+Histone Deacetylase 1 (HDAC1) Inhibitors,0,1,0.0,0.6993006993006993,1
+Histone Deacetylase 2 (HDAC2) Inhibitors,0,1,0.0,0.6993006993006993,1
+Immunosuppressant,0,1,0.0,0.6993006993006993,1
+Inosine 5'-Monophosphate Dehydrogenase (IMPDH) Inhibitors,0,1,0.0,0.6993006993006993,1
+Interleukin synthesis inhibitor,1,0,0.8130081300813008,0.0,1
+Irreversible EGFR (HER1,0,1,0.0,0.6993006993006993,1
+JAK inhibitor,0,1,0.0,0.6993006993006993,1
+"JAK inhibitor, FLT3 inhibitor",1,0,0.8130081300813008,0.0,1
+JNK inhibitor,1,0,0.8130081300813008,0.0,1
+xanthine oxidase inhibitor,1,0,0.8130081300813008,0.0,1

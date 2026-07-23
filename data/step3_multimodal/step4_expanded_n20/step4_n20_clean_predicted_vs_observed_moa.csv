@@ -1,0 +1,23 @@
+moa,predicted_low_count,predicted_high_count,predicted_log2_odds_ratio,predicted_adjusted_p_value,significant_in_predicted_analysis,predicted_direction,observed_low_count,observed_high_count,observed_log2_odds_ratio,observed_adjusted_p_value,significant_in_observed_analysis,observed_direction,tested_in_predicted_analysis,tested_in_observed_analysis,same_effect_direction,model_recovered_observed_moa_pattern
+Topoisomerase inhibitor,1.0,17.0,3.601577833833011,0.001996610649156313,True,More common in Model-ranked most predictable,1.0,18.0,3.589585249959592,0.0020667389426915588,True,More common in Highest observed predictability,True,True,True,True
+mTOR inhibitor,0.0,8.0,4.054422579486332,0.026522173788456477,True,More common in Model-ranked most predictable,0.0,12.0,4.5533044320671,0.0037591519423526313,True,More common in Highest observed predictability,True,True,True,True
+HDAC inhibitor,4.0,1.0,-1.7375402585995716,0.27350983874850643,False,More common in Model-ranked least predictable,1.0,11.0,2.8253888448878657,0.03189324833718297,True,More common in Highest observed predictability,True,True,False,False
+Tubulin polymerization inhibitor,1.0,6.0,2.04963940405719,0.20013622582638282,False,More common in Model-ranked most predictable,0.0,7.0,3.7625006862733437,0.05676766895328847,False,More common in Highest observed predictability,True,True,True,False
+Protein synthesis inhibitor,1.0,5.0,1.7979446257561478,0.27753398768077153,False,More common in Model-ranked most predictable,1.0,8.0,2.3569892381778823,0.11371487223361841,False,More common in Highest observed predictability,True,True,True,False
+Proteasome inhibitor,,,,,False,,0.0,5.0,3.2940566841727867,0.14856618373539845,False,More common in Highest observed predictability,False,True,,False
+Tyrosine kinase inhibitor,4.0,1.0,-1.7375402585995716,0.27350983874850643,False,More common in Model-ranked least predictable,5.0,1.0,-2.140543978069986,0.19717498458700478,False,More common in Lowest observed predictability,True,True,True,False
+PI3K inhibitor,0.0,5.0,3.3940908649699795,0.11019438234730813,False,More common in Model-ranked most predictable,2.0,8.0,1.6081982086148863,0.19725045645308442,False,More common in Highest observed predictability,True,True,True,False
+Glucocorticoid receptor agonist,0.0,12.0,4.6550399282674,0.003814793854311422,True,More common in Model-ranked most predictable,1.0,6.0,1.9488273480104847,0.1983247812787773,False,More common in Highest observed predictability,True,True,True,False
+ATPase inhibitor,0.0,8.0,4.054422579486332,0.026522173788456477,True,More common in Model-ranked most predictable,1.0,5.0,1.6973648908695234,0.3100277552768688,False,More common in Highest observed predictability,True,True,True,False
+FLT3 inhibitor,,,,,False,,4.0,2.0,-1.0917883414060838,0.5342226173392506,False,More common in Lowest observed predictability,False,True,,False
+HSP inhibitor,,,,,False,,3.0,6.0,0.7026863239014278,0.5970032546355752,False,More common in Highest observed predictability,False,True,,False
+EGFR inhibitor,,,,,False,,3.0,2.0,-0.7171957337721624,0.7160914115692627,False,More common in Lowest observed predictability,False,True,,False
+CDK inhibitor,3.0,3.0,-0.12029423371771177,1.0,False,More common in Model-ranked least predictable,3.0,4.0,0.15133810378548226,1.0,False,More common in Highest observed predictability,True,True,False,False
+AKT inhibitor,2.0,3.0,0.37649245561707767,1.0,False,More common in Model-ranked most predictable,,,,,False,,True,False,,False
+Adrenergic receptor agonist,5.0,0.0,-3.6338560067901424,0.054769733934319234,False,More common in Model-ranked least predictable,,,,,False,,True,False,,False
+Aurora kinase inhibitor,6.0,0.0,-3.8864988067773405,0.03430023741341205,True,More common in Model-ranked least predictable,,,,,False,,True,False,,False
+Bacterial 30S ribosomal subunit inhibitor,0.0,5.0,3.3940908649699795,0.11019438234730813,False,More common in Model-ranked most predictable,,,,,False,,True,False,,False
+DNA synthesis inhibitor,2.0,3.0,0.37649245561707767,1.0,False,More common in Model-ranked most predictable,,,,,False,,True,False,,False
+Glycogen synthase kinase inhibitor,5.0,0.0,-3.6338560067901424,0.054769733934319234,False,More common in Model-ranked least predictable,,,,,False,,True,False,,False
+MAP kinase inhibitor,2.0,3.0,0.37649245561707767,1.0,False,More common in Model-ranked most predictable,,,,,False,,True,False,,False
+Retinoid receptor agonist,7.0,0.0,-4.104678976826874,0.026522173788456477,True,More common in Model-ranked least predictable,,,,,False,,True,False,,False

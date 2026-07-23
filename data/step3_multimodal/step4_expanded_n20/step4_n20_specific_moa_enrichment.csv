@@ -1,0 +1,11 @@
+moa,least_predictable_count,least_predictable_total,most_predictable_count,most_predictable_total,total_compounds_with_moa,corrected_odds_ratio,log2_odds_ratio,p_value,direction,adjusted_p_value,significant_fdr_0_05
+Glucocorticoid receptor agonist,0,129,12,140,12,25.19455252918288,4.6550399282674,0.0004238659838123802,More common in most predictable,0.00212353569577719,True
+Topoisomerase inhibitor,1,129,15,140,16,10.580345285524569,3.4033148049088253,0.000424707139155438,More common in most predictable,0.00212353569577719,True
+ATPase inhibitor,0,129,7,140,7,14.55056179775281,3.8630029516075184,0.014955217356856957,More common in most predictable,0.04057017328468092,True
+Retinoid receptor agonist,5,129,0,140,5,0.08055645422193465,-3.6338560067901424,0.02434210397080855,More common in least predictable,0.04057017328468092,True
+Aurora kinase inhibitor,5,129,0,140,5,0.08055645422193465,-3.6338560067901424,0.02434210397080855,More common in least predictable,0.04057017328468092,True
+Adrenergic receptor agonist,5,129,0,140,5,0.08055645422193465,-3.6338560067901424,0.02434210397080855,More common in least predictable,0.04057017328468092,True
+mTOR inhibitor,0,129,6,140,6,12.516728624535316,3.645785643271022,0.03029096792564097,More common in most predictable,0.04327281132234424,True
+HDAC inhibitor,4,129,1,140,5,0.2998805256869773,-1.7375402585995716,0.19753488354058799,More common in least predictable,0.24691860442573496,False
+Tubulin polymerization inhibitor,1,129,4,140,5,2.8241758241758244,1.4978299089951819,0.3724294664813765,More common in most predictable,0.41381051831264054,False
+AKT inhibitor,2,129,3,140,5,1.298181818181818,0.37649245561707767,1.0,More common in most predictable,1.0,False
