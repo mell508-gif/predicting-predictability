@@ -1,0 +1,24 @@
+compound_id,moa,observed_predictability,predicted_predictability
+592,HDAC inhibitor,1.0,0.827145
+2431,ATPase inhibitor,0.98882693,0.87249756
+4527,Topoisomerase inhibitor,0.9881312,0.9088901
+4528,Topoisomerase inhibitor,0.9619089,0.89575016
+4646,Protein synthesis inhibitor,0.965197,0.8885366
+3482,HDAC inhibitor,0.97721076,0.8149605
+1671,mTOR inhibitor,0.95493567,0.8456129
+2545,ATPase inhibitor,0.9470727,0.88539255
+4657,Topoisomerase inhibitor,0.9413311,0.91555727
+736,ATPase inhibitor,0.9335373,0.8728024
+743,HDAC inhibitor,0.935299,0.84639347
+1471,HDAC inhibitor,0.9791202,0.8278991
+2430,ATPase inhibitor,0.9521718,0.8619731
+4611,Protein synthesis inhibitor,0.90699303,0.8369358
+3610,HDAC inhibitor,0.9024168,0.83108634
+722,Glucocorticoid receptor agonist,0.9019079,0.8659023
+3096,HDAC inhibitor,0.91556025,0.8254409
+739,HDAC inhibitor,0.9024819,0.839995
+1473,HDAC inhibitor,0.9198928,0.8369566
+2495,ATPase inhibitor,0.913874,0.87188804
+946,HDAC inhibitor,0.9183546,0.8149554
+2632,Topoisomerase inhibitor,0.63472193,0.799349
+2686,HDAC inhibitor,0.683815,0.78358513
