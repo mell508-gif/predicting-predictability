@@ -1,0 +1,6 @@
+moa,clean_moa,n_compounds,observed_mean,predicted_mean
+ATPase inhibitor,ATPase inhibitor,5,0.947096546,0.8729107299999999
+Topoisomerase inhibitor; topoisomerase inhibitor,Topoisomerase inhibitor,7,0.9412542185714284,0.8850417542857143
+MTOR inhibitor; mTOR inhibitor,MTOR inhibitor,5,0.927392156,0.8601880979999998
+HDAC inhibitor,HDAC inhibitor,10,0.913415131,0.8248417439999999
+HSP inhibitor,HSP inhibitor,8,0.8229505287500001,0.84591016
