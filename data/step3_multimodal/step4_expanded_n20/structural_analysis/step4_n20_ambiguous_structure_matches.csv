@@ -1,0 +1,36 @@
+compound_embedding_row_index,compound_name,n_profiles,actual_predictability,predicted_predictability,normalized_compound_name,clean_smiles,registry_frequency,n_unique_structures,has_valid_structure,structure_name_is_ambiguous
+4646,emetine,158,0.965197,0.8885366,emetine,CC[C@H]1CN2CCc3cc(OC)c(OC)cc3C2C[C@@H]1CC1NCCc2cc(OC)c(OC)cc21,1,2,True,True
+1112,NVP-AUY922,217,0.952999,0.8412918,nvp auy922,CCNC(=O)C1=C(c2ccc(CN3CCOCC3)cc2)C(=C2C=C(C(C)C)C(O)=CC2=O)ON1,1,2,True,True
+8551,verteporfin,151,0.9477924,0.86976004,verteporfin,C=Cc1c(C)c2cc3nc(cc4[nH]c(cc5nc(cc1[nH]2)C(C)=C5CCC(=O)O)c(CCC(=O)OC)c4C)[C@@]1(C)C3=CC=C(C(=O)OC)C1C(=O)OC,1,2,True,True
+791,Erythromycin,151,0.91146654,0.8667738,erythromycin,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O,1,2,True,True
+2136,Hesperidin,144,0.9092332,0.85246503,hesperidin,COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1O,1,2,True,True
+724,Tofacitinib,247,0.9060779,0.81976604,tofacitinib,CC1CCN(C(=O)CC#N)CC1N(C)c1ncnc2[nH]ccc12,1,2,True,True
+70,thiostrepton,40,0.9049246,0.8237578,thiostrepton,C=C(NC(=O)C(=C)NC(=O)c1csc(C2=NC3c4csc(n4)C4NC(=O)c5csc(n5)C(C(C)(O)C(C)O)NC(=O)C5CSC(=N5)C(=CC)NC(=O)C(C(C)O)NC(=O)c5csc(n5)C3(CC2)NC(=O)C(C)NC(=O)C(=C)NC(=O)C(C)NC(=O)C(C(C)CC)NC2C=Cc3c(C(C)O)cc(nc3C2O)C(=O)OC4C)n1)C(N)=O,1,2,True,True
+5328,Demeclocycline,150,0.90251946,0.8476006,demeclocycline,CN(C)C1C(=O)C(C(N)=O)=C(O)C2(O)C(=O)C3=C(O)c4c(O)ccc(Cl)c4C(O)C3CC12,1,3,True,True
+1831,Rifaximin,136,0.8894597,0.87371004,rifaximin,COC1C=COC2(C)Oc3c(C)c(O)c4c(O)c(c5c(nc6cc(C)ccn65)c4c3C2=O)NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C,1,3,True,True
+5281,Artesunate,180,0.8873689,0.85152435,artesunate,CC1CCC2C(C)C(OC(=O)CCC(=O)O)OC3OC4(C)CCC1C32OO4,1,4,True,True
+4066,BI-78D3,151,0.8854663,0.8108862,bi 78d3,O=[N+]([O-])c1cnc(Sc2nnc(O)n2-c2ccc3c(c2)OCCO3)s1,1,2,True,True
+322,Finasteride,150,0.8853915,0.848673,finasteride,CC(C)(C)NC(=O)C1CCC2C3CCC4NC(=O)C=CC4(C)C3CCC12C,1,3,True,True
+242,Docetaxel,256,0.87595475,0.9138187,docetaxel,CC(=O)OC12COC1CC(O)C1(C)C(=O)C(O)C3=C(C)C(OC(=O)C(O)C(NC(=O)OC(C)(C)C)c4ccccc4)CC(O)(C(OC(=O)c4ccccc4)C21)C3(C)C,1,5,True,True
+7751,A-443654,174,0.8693819,0.80605495,a 443654,Cc1[nH]nc2ccc(-c3cncc(OC[C@@H](N)Cc4c[nH]c5ccccc45)c3)cc12,1,2,True,True
+734,Digitoxin,260,0.8677765,0.88979006,digitoxin,CC1OC(OC2C(O)CC(OC3C(O)CC(OC4CCC5(C)C(CCC6C5CCC5(C)C(C7=CC(=O)OC7)CCC65O)C4)OC3C)OC2C)CC(O)C1O,1,2,True,True
+4069,Trifluridine,201,0.86627907,0.8156989,trifluridine,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1C(F)(F)F,1,2,True,True
+3057,TAK-733; Tak-733,228,0.86363864,0.8394561,tak 733 tak 733,Cn1c(=O)c(F)c(Nc2ccc(I)cc2F)c2c(=O)n(CC(O)CO)cnc21,1,2,True,True
+321,Saquinavir,151,0.8618594,0.83607185,saquinavir,CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(O)C(Cc1ccccc1)NC(=O)C(CC(N)=O)NC(=O)c1ccc2ccccc2n1,1,3,True,True
+4450,atorvastatin,64,0.84920794,0.8324458,atorvastatin,CC(C)c1c(C(=O)Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O,1,2,True,True
+4302,cyclosporin-a,248,0.8455639,0.8544164,cyclosporin a,C/C=C/C[C@@H](C)[C@@H](O)C1C(=O)NC(CC)C(=O)N(C)CC(=O)N(C)C(CC(C)C)C(=O)NC(C(C)C)C(=O)N(C)C(CC(C)C)C(=O)NC(C)C(=O)N[C@H](C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(CC(C)C)C(=O)N(C)C(C(C)C)C(=O)N1C,1,2,True,True
+4802,curcumin,68,0.82830185,0.8326802,curcumin,COc1ccc(/C=C/C(=O)CC(=O)C=Cc2cccc(O)c2OC)cc1O,1,2,True,True
+1461,SB-590885,51,0.82769156,0.8252103,sb 590885,CN(C)CCOc1ccc(-c2nc(-c3ccncc3)c(-c3ccc4c(c3)CCC4=NO)[nH]2)cc1,1,2,True,True
+2274,OSI-027,52,0.8182811,0.8269125,osi 027,COc1cccc2c1=NC(=c1nc(C3CCC(C(=O)O)CC3)n3c1=C(N)N=CN3)C=2,1,2,True,True
+1834,Artemether,139,0.8171311,0.8618067,artemether,COC1OC2OC3(C)CCC4C(C)CCC(C1C)C24OO3,1,2,True,True
+609,Captopril,146,0.8096722,0.79922837,captopril,CC(CS)C(=O)N1CCCC1C(=O)O,1,2,True,True
+174,Megestrol,153,0.8064782,0.8391038,megestrol,CC(=O)C1(O)CCC2C3C=C(C)C4=CC(=O)CCC4(C)C3CCC21C,1,2,True,True
+4155,Arbutin,137,0.79028815,0.8246474,arbutin,OCC1OC(Oc2ccc(O)cc2)C(O)C(O)C1O,1,2,True,True
+3522,Pemetrexed,155,0.78764975,0.8431379,pemetrexed,Nc1nc2[nH]cc(CCc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)c2c(=O)[nH]1,1,2,True,True
+5116,cisplatin,155,0.7859879,0.76214325,cisplatin,[Cl][Pt+2][Cl],1,2,True,True
+4465,linsitinib,53,0.7805518,0.8290839,linsitinib,CC1(C)CC(c2nc(-c3ccc4ccc(-c5ccccc5)nc4c3)c3c(N)nccn23)C1,1,2,True,True
+692,Triamcinolone,190,0.77153456,0.8604304,triamcinolone,CC(=O)OCC(=O)[C@@]1(O)[C@H](OC(C)=O)CC2C3CCC4=CC(=O)C=C[C@]4(C)[C@@]3(F)[C@@H](O)C[C@@]21C,1,5,True,True
+1113,Bimatoprost,147,0.7648465,0.82502544,bimatoprost,CCNC(=O)CCCC=CCC1C(O)CC(O)C1C=CC(O)CCc1ccccc1,1,2,True,True
+694,Drospirenone,147,0.75218123,0.8665415,drospirenone,CC12CCC(=O)C=C1C1CC1C1C2CCC2(C)C1C1CC1C21CCC(=O)O1,1,2,True,True
+5485,Idoxuridine,146,0.69503653,0.8596261,idoxuridine,O=c1[nH]c(=O)n(C2CC(O)C(CO)O2)cc1I,1,2,True,True
+629,Aprepitant,147,0.65434486,0.83337516,aprepitant,CC(OC1OCCN(Cc2n[nH]c(=O)[nH]2)C1c1ccc(F)cc1)c1cc(C(F)(F)F)cc(C(F)(F)F)c1,1,3,True,True
