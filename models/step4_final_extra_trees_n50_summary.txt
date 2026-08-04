@@ -1,0 +1,31 @@
+Step 4 final compound predictability model
+
+Model:
+ExtraTreesRegressor
+
+Input representation:
+Final Step 1 128D compound autoencoder embeddings
+
+Target:
+source_normalized_inverted_score
+
+Minimum profiles required:
+50
+
+Number of training compounds:
+478
+
+Number of input features:
+128
+
+Model parameters:
+n_estimators = 400
+max_depth = None
+min_samples_leaf = 3
+random_state = 42
+
+Selection rationale:
+Including compounds with fewer than
+approx 50 profiles reduced performance on held-out high-confidence
+compounds. The >=50 condition kept approx the same performance
+as the >=100 condition while allowing more compounds into training.

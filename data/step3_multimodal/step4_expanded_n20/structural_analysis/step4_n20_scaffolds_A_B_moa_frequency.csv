@@ -1,0 +1,35 @@
+scaffold_id,final_moa,n_compounds,compounds,scaffold_n_compounds,percent_of_scaffold
+Scaffold A,Adrenergic receptor agonist,3,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol; Isoproterenol; isoprenaline; Noradrenaline hydrochloride; Norepinephrine (hydrochloride); Phenylephrine (hydrochloride); Phenylephrine Hydrochloride",32,9.375
+Scaffold A,Adrenergic receptor antagonist,3,Bisoprolol (hemifumarate); Esmolol (hydrochloride); Esmolol Hydrochloride; Suloctidil (USAN/INN); suloctidil,32,9.375
+Scaffold A,Tyrosine kinase inhibitor,3,"2-Propenethioamide, 3-(3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl)-2-cyano-, (E)-; AG-879; BRD-K88741031; Methyl 2,5-dihydroxycinnamate; erbstatin-analog; methyl (E)-3-(2,5-dihydroxyphenyl)acrylate; Tyrphostin 9; tyrphostin-A9",32,9.375
+Scaffold A,HDAC inhibitor,2,4-(4-Chloro-2-methylphenoxy)-N-hydroxybutanamide; 4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide; droxinostat; BRD-K68202742; Trichostatin A,32,6.25
+Scaffold A,NFkB pathway inhibitor,2,(2E)-3-(4-methylbenzenesulfonyl)prop-2-enenitrile; BAY-11-7082; Caffeic Acid; caffeic-acid,32,6.25
+Scaffold A,Proteasome inhibitor,2,Ixazomib; MG-132,32,6.25
+Scaffold A,Protein tyrosine kinase inhibitor,2,"3-(3,5-Ditert-butyl-4-hydroxyphenyl)-2-isocyano-2-propenenitrile; malonoben; Tyrphostin 9; tyrphostin-A9",32,6.25
+Scaffold A,Selective serotonin reuptake inhibitor (SSRI),2,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine; Fluvoxamine; Fluvoxamine (maleate); Fluvoxamine Maleate,32,6.25
+Scaffold A,5-HT Reuptake Inhibitors,1,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine; Fluvoxamine,32,3.125
+Scaffold A,AMPK activator,1,Phenformin; phenformin,32,3.125
+Scaffold A,BCL-XL downregulator,1,"2-((3-(2,3-Dichlorophenoxy)propyl)amino)ethanol; BRD-K61734568",32,3.125
+Scaffold A,Beta-Adrenoceptor Agonists,1,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol; Isoproterenol; isoprenaline",32,3.125
+Scaffold A,EGFR inhibitor,1,"BRD-K88741031; Methyl 2,5-dihydroxycinnamate; erbstatin-analog; methyl (E)-3-(2,5-dihydroxyphenyl)acrylate",32,3.125
+Scaffold A,HIV integrase inhibitor,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold A,HSP inhibitor,1,2-Phenylethynesulfonamide; pifithrin-mu,32,3.125
+Scaffold A,Histamine receptor agonist,1,Lidocaine (hydrochloride); Lidocaine Hydrochloride,32,3.125
+Scaffold A,Immune response stimulator,1,Thymopentin,32,3.125
+Scaffold A,Immunosuppressant,1,Fingolimod (hydrochloride); Fingolimod Hydrochloride,32,3.125
+Scaffold A,Leukotriene synthesis inhibitor,1,Bestatin; Ubenimex,32,3.125
+Scaffold A,Lipoxygenase inhibitor,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold A,Nitric oxide production inhibitor,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold A,Other antibiotic,1,Ethylmercury thiosalicylate; thiomersal,32,3.125
+Scaffold A,PARP inhibitor,1,Iniparib; iniparib,32,3.125
+Scaffold A,PPAR receptor modulator,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold A,Renin inhibitor,1,Aliskiren,32,3.125
+Scaffold A,Sodium channel blocker,1,Procainamide (hydrochloride); Procainamide Hydrochloride,32,3.125
+Scaffold A,Sphingosine 1-phosphate receptor agonist,1,Fingolimod (hydrochloride); Fingolimod Hydrochloride,32,3.125
+Scaffold A,TNF production inhibitor,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold A,Tumor necrosis factor production inhibitor,1,Caffeic Acid; caffeic-acid,32,3.125
+Scaffold B,Glucocorticoid receptor agonist,13,"(6S,8S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-6,10,13-trimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; methylprednisolone; (6S,9R,11S,13S,17R)-17-acetyl-9-fluoro-11,17-dihydroxy-6,10,13-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one; BRD-A13133631; (8S,9S,10R,11S,13S,14R,16R,17S)-11-hydroxy-10,13,16,17-tetramethyl-17-propanoyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; rimexolone; (8S,9S,10R,11S,13S,14R,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; prednisolone; 6,9-difluoro-11-hydroxy-17-(3-hydroxy-2-oxopropyl)-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-17-carbothioic acid S-(fluoromethyl) ester; fluticasone; Beclomethasone Dipropionate; beclomethasone-dipropionate; Clobetasol Propionate; Clobetasol propionate; Clobetasol Propionate; clobetasol; Dexamethasone Acetate; dexamethasone; Fluticasone Propionate; fluticasone-propionate; Methylprednisolone Succinate; Methylprednisolone succinate; Pharmakon1600-01500231; dexamethasone-acetate; Triamcinolone",14,92.85714285714286
+Scaffold B,Anti-inflammatory agent,1,Betamethasone Dipropionate; Betamethasone dipropionate,14,7.142857142857143
+Scaffold B,Corticosteroid agonist,1,Pharmakon1600-01500231; dexamethasone-acetate,14,7.142857142857143
+Scaffold B,Cytochrome P450 inhibitor,1,Pharmakon1600-01500231; dexamethasone-acetate,14,7.142857142857143
+Scaffold B,Immunosuppressant,1,Beclomethasone Dipropionate; beclomethasone-dipropionate,14,7.142857142857143

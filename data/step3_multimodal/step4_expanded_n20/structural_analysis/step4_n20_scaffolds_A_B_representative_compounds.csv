@@ -1,0 +1,13 @@
+scaffold_id,murcko_scaffold,compound_embedding_row_index,compound_name,n_profiles,actual_predictability,predicted_predictability,moa_count,moa_annotations,absolute_error
+Scaffold A,c1ccccc1,444,MG-132,2842,0.95635915,0.8199617,1,Proteasome inhibitor,0.13639745000000003
+Scaffold A,c1ccccc1,592,BRD-K68202742; Trichostatin A,1346,1.0,0.827145,1,HDAC inhibitor,0.17285499999999998
+Scaffold A,c1ccccc1,429,Ixazomib,343,0.93570065,0.81232816,1,Proteasome inhibitor,0.12337249000000006
+Scaffold A,c1ccccc1,5535,Gallic acid (hydrate); Gallic acid monohydrate,291,0.7970027,0.76850575,0,No MoA annotation,0.028496949999999965
+Scaffold A,c1ccccc1,1838,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine; Fluvoxamine,149,0.88307464,0.80665696,2,5-HT Reuptake Inhibitors; Selective serotonin reuptake inhibitor (SSRI),0.07641768000000004
+Scaffold A,c1ccccc1,1846,Aliskiren,148,0.8260492,0.8336468,1,Renin inhibitor,0.007597599999999982
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,251,Dexamethasone Acetate; dexamethasone,334,0.8323172,0.9052108,1,Glucocorticoid receptor agonist,0.0728936
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,692,Triamcinolone,190,0.77153456,0.8604304,1,Glucocorticoid receptor agonist,0.08889584000000006
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,754,Clobetasol Propionate; Clobetasol propionate,144,0.8622893,0.8598217,1,Glucocorticoid receptor agonist,0.0024676000000000142
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,755,Betamethasone Dipropionate; Betamethasone dipropionate,141,0.7509124,0.8758499,1,Anti-inflammatory agent,0.12493749999999992
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,721,Methylprednisolone Succinate; Methylprednisolone succinate,137,0.8157657,0.85174733,1,Glucocorticoid receptor agonist,0.03598162999999999
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,760,Clobetasol Propionate; clobetasol,62,0.93696475,0.8318402,1,Glucocorticoid receptor agonist,0.10512454999999998

@@ -1,0 +1,3 @@
+scaffold_id,n_compounds,total_profiles,median_profiles_per_compound,mean_profiles_per_compound,minimum_profiles,maximum_profiles,observed_mean,predicted_mean,absolute_error,n_distinct_moas
+Scaffold A,32,7150,136.5,223.4375,20,2842,0.791077304375,0.792064706875,0.0009874024999999564,29
+Scaffold B,14,1294,54.0,92.42857142857143,21,334,0.8458407757142857,0.8552041807142857,0.009363404999999991,5

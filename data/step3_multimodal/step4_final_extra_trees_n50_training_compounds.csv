@@ -1,0 +1,479 @@
+compound_embedding_row_index,compound_name,n_profiles,source_normalized_inverted_score
+5185,Doxorubicin (hydrochloride); Doxorubicin Hydrochloride; Epirubicin (hydrochloride); Epirubicin Hydrochloride,280,0.9692649107618267
+5134,Idarubicin (hydrochloride); Idarubicin Hydrochloride,142,0.9608134329099812
+5150,Doxycycline (monohydrate); Invertin,139,0.946269495261269
+5137,Docetaxel (Trihydrate); Docetaxel Trihydrate,136,0.942327472366939
+3111,Temuterkib,143,0.9405752917132096
+611,Silodosin,135,0.9425131923326951
+2020,Erdafitinib,138,0.9354767553363432
+5198,Mitoxantrone (dihydrochloride); Mitoxantrone Hydrochloride,144,0.923217710888536
+5181,Simotinib,135,0.9169304581592718
+3445,Bimiralisib,145,0.9161269285845496
+5152,Topotecan (hydrochloride); Topotecan Hydrochloride,142,0.9112503848810296
+5536,SBI-0640756; Sbi-756,140,0.9060146045879388
+1089,Pemigatinib,139,0.9033110813137532
+5512,Entecavir (monohydrate); Entecavir Hydrate,132,0.8993145816048604
+5531,Cloxacillin (sodium); Cloxacillin Sodium,139,0.8963602812423961
+5197,Pyridoxine (hydrochloride); Pyridoxine Hydrochloride,287,0.901493918337294
+1770,"1-O-[(2S,3S,6R)-4-methoxy-16,18-dioxa-10-azapentacyclo[11.7.0.02,6.06,10.015,19]icosa-1(20),4,13,15(19)-tetraen-3-yl] 4-O-methyl (2R)-2-hydroxy-2-(3-hydroxy-3-methylbutyl)butanedioate; Harringtonine",147,0.930591251352621
+5140,Perindopril (erbumine); Perindopril Erbumine,133,0.889467063087583
+3093,9-ING-41; Elraglusib,142,0.8872302634943912
+2136,Hesperidin,144,0.9092332271314832
+1831,Rifaximin,136,0.8894597371541184
+5147,Estrone sulfate (potassium); Potassium estrone sulfate,142,0.8832304631753156
+5239,Fusidic Acid; Fusidic acid,145,0.8936952581964153
+5154,Azithromycin (hydrate); Azithromycin Dihydrate,142,0.8825583080635155
+5207,Bentamapimod,141,0.8818629318554079
+643,Glycyrrhizic acid; Glycyrrhizin,140,0.8828217890777601
+5158,Procainamide (hydrochloride); Procainamide Hydrochloride,131,0.8798986957227806
+5212,Lenalidomide (hemihydrate); Lenalidomide hemihydrate,143,0.8786466469485734
+5164,Daraxonrasib; RMC-6236,143,0.8781250663300756
+5328,Demeclocycline,150,0.902519456782622
+483,Ipatasertib,149,0.8772243219716018
+5259,Thymopentin,135,0.8763238191519717
+5132,Almonertinib (hydrochloride); HS-10296 hydrochloride,145,0.8748595572116311
+791,Erythromycin,151,0.9114665186268862
+5280,Artenimol; Dihydroartemisinin,143,0.8749276270252538
+5524,Gamma-Oryzanol; γ-Oryzanol,138,0.8721241055491689
+5217,Pitavastatin (Calcium); Pitavastatin Calcium,142,0.871844599627841
+5539,Talc,140,0.8715634761967431
+5515,"2-((4-Acetylphenyl)hydrazinylidene)-2-(3,3-dimethyl-4H-isoquinolin-1-yl)acetamide; IQ 1",140,0.8714707921639188
+2355,Pentagastrin,144,0.8693181198384582
+2709,Tucatinib,142,0.867588483196702
+5190,MK-8353; Mk-8353,135,0.8671153614732312
+5143,Belumosudil (mesylate),278,0.8658970421076515
+4050,Hydroxyfasudil; hydroxyfasudil,145,0.8838425948123959
+430,Ixazomib citrate,143,0.864660557100391
+1061,Lucanthone,140,0.8625444099533379
+754,Clobetasol Propionate; Clobetasol propionate,144,0.8622893266642799
+1545,Tadalafil,137,0.8723771929967483
+5195,"(1S)-1,5-Anhydro-1-(3-((5-(4-fluorophenyl)-2-thienyl)methyl)-4-methylphenyl)-D-glucitol hemihydrate; Canagliflozin (hemihydrate)",142,0.8604889803869075
+2240,"Naproxen, (-)-; naproxen",151,0.9037546451537396
+5142,Imiquimod (maleate); Imiquimod maleate,136,0.859776231115457
+5206,"CP21R7; Iron oxide, spent",139,0.8591813924695583
+428,Bestatin; Ubenimex,142,0.892636188436926
+1666,Capmatinib,141,0.8583415488795563
+2349,Belzutifan,140,0.8561060277662222
+1784,Eplerenone; eplerenone,138,0.8857479515599257
+5186,Bosentan (hydrate); Bosentan Monohydrate,147,0.8941879523946934
+5204,Cytarabine (hydrochloride); Cytarabine Hydrochloride,135,0.8553371799094496
+155,Tirabrutinib,139,0.8552358992296706
+2574,APTO-253; Apto-253,140,0.8543701352214346
+1888,Relugolix,138,0.8533591437353367
+5214,"(S)-N-(1-cyclopropyl-2,2,2-trifluoroethyl)-4-(6-(4-fluorophenyl)pyrazolo[1,5-a]pyrimidin-3-yl)thiophene-2-carboxamide; ULK-101",141,0.8530954015017289
+5131,Almonertinib (mesylate); Almonertinib mesylate,139,0.8530385560597905
+5192,"5-((6-([1,1'-biphenyl]-4-yl)-5-chloro-1H-benzo[d]imidazol-2-yl)oxy)-2-methylbenzoic acid; MK-3903",143,0.8529261221907791
+2711,"(R)-9-(4-(1-aminopropan-2-yl)phenyl)-8-hydroxy-6-methylthieno[2,3-c]quinolin-4(5H)-one; OTS514",143,0.8505331526052811
+5130,Osimertinib (mesylate); Osimertinib Mesylate,140,0.849670531245994
+5210,Niclosamide (olamine); Niclosamide ethanolamine salt,139,0.8470959968229252
+241,Medroxyprogesterone Acetate; Medroxyprogesterone acetate,146,0.8497382229197386
+5518,Ouabain (Octahydrate); Ouabain Octahydrate,144,0.8443279073402601
+5160,Dorzolamide (hydrochloride); Dorzolamide Hydrochloride,138,0.843338092342432
+2504,"(2R)-2-methyl-6-nitro-2-[[4-[4-[4-(trifluoromethoxy)phenoxy]piperidin-1-yl]phenoxy]methyl]-3H-imidazo[2,1-b][1,3]oxazole; Delamanid",142,0.8430781884346507
+1590,AZD2858; Azd2858,140,0.8430959637116375
+5194,LY-2584702 (tosylate salt),144,0.8413993445790554
+1829,Sinomenine,143,0.8405394514579436
+5199,Clonidine (hydrochloride); Clonidine Hydrochloride,142,0.8392674028593193
+581,Ritonavir; ritonavir,146,0.8620850141348416
+5163,Indacaterol (maleate); Indacaterol maleate,144,0.8647692649517947
+5144,Benproperine (phosphate); Benproperine Phosphate,134,0.8360582796107388
+5135,Goserelin (acetate); Goserelin Acetate,142,0.8358115957539415
+5183,Omeprazole (sodium),288,0.8663069635543637
+4066,BI-78D3,151,0.8854662633116789
+585,AZD1390; Azd-1390,141,0.8340521426953442
+5128,Bisoprolol (hemifumarate),139,0.8326779370513093
+5165,"(E)-3-(3-chlorophenyl)-N-(2-((1,1-dioxidotetrahydro-2H-thiopyran-4-yl)(methyl)amino)-2-oxoethyl)acrylamide; ML264",143,0.8315996268678529
+321,Saquinavir,151,0.8618593750362511
+5157,Lidocaine (hydrochloride); Lidocaine Hydrochloride,144,0.8302608540003444
+4096,Daidzin,139,0.829783808724514
+5528,"Benzo(g)-1,3-benzodioxolo(5,6-a)quinolizinium, 5,6-dihydro-9,10-dimethoxy-, chloride, monohydrate; Berberine (chloride hydrate)",143,0.8295599693734903
+5530,S-Adenosyl-L-methionine (disulfate tosylate),144,0.8292304861724615
+3760,Larotrectinib,144,0.8264183048412858
+4076,"5-Fluorouracil; 5-fluoro-1H-pyrimidine-2,4-dione",140,0.8237664684336884
+1838,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine; Fluvoxamine,149,0.8830746239288929
+5146,"2-Pyridinamine, 3-((1R)-1-(2,6-dichloro-3-fluorophenyl)ethoxy)-5-(1-(4-piperidinyl)-1H-pyrazol-4-yl)-, hydrochloride (1:1); Crizotinib (hydrochloride)",143,0.8234210930354176
+5526,2-chloro-10-(4-methoxybenzoyl)-10H-phenothiazine; Tubulin inhibitor 6,138,0.8206123267716365
+4,Quinestrol,144,0.8194200984351298
+5532,"2-((3,4-Bis((4-fluorobenzyl)oxy)benzyl)amino)ethanol hydrochloride; XRK3F2",142,0.8181305187528762
+5533,L-Thyroxine (sodium salt pentahydrate); Levothyroxine sodium pentahydrate,142,0.8179826096760778
+5216,Larotrectinib Sulfate; Larotrectinib sulfate,138,0.8174871348866299
+5139,Ralimetinib Mesylate; Ralimetinib dimesylate,142,0.817480076304851
+1834,Artemether,139,0.8171311224957775
+5151,Pravastatin (sodium); Pravastatin Sodium,140,0.8157990282465267
+721,Methylprednisolone Succinate; Methylprednisolone succinate,137,0.8157656710755613
+635,Voriconazole,140,0.8284960736263347
+2900,Radotinib,141,0.8143096599157319
+5527,(+)-Isocorydine; Isocorydine,146,0.8262110069199559
+847,Orlistat,149,0.8676744024138334
+322,Finasteride,150,0.8853915010800768
+5148,Tofacitinib (citrate); Tofacitinib Citrate,141,0.8118347578203711
+5173,Pralsetinib,144,0.8115751293265666
+2736,AZD-7648; Azd-7648,140,0.8112554796639062
+767,Posaconazole,137,0.8095602259225821
+732,Elimusertib; Elimusertib hydrochloride,144,0.8077422719169107
+5129,Adagrasib,142,0.8133906328213171
+3078,c-Kit-IN-1,143,0.80726992283353
+5155,Fingolimod (hydrochloride); Fingolimod Hydrochloride,138,0.8072510346374547
+3294,BAY1125976; Bay-1125976,143,0.8066060391370689
+3558,Adenine,143,0.8048832132329979
+5523,Methyl Aminolevulinate Hydrochloride; Methyl aminolevulinate (hydrochloride),138,0.8046736049062932
+2701,Tomivosertib,139,0.8044332399129366
+5287,Daptomycin,138,0.8037075096107177
+5522,Benztropine (mesylate); Benztropine mesylate,137,0.8034647751085349
+1846,Aliskiren,148,0.8260492241623176
+243,Abiraterone Acetate; Abiraterone acetate,143,0.8099363690327248
+5153,Vinblastine (sulfate); Vinblastine Sulfate,143,0.8012331577605583
+3315,Capivasertib,141,0.8009638356480819
+97,Futibatinib,143,0.8006235634626502
+5202,L-Eflornithine (monohydrochloride),140,0.8005848636213682
+5187,Lapatinib Ditosylate; Lapatinib ditosylate,138,0.800453374681981
+5521,"2-Naphthacenecarboxamide, 4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,6,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, hydrochloride (1:1), (4S,4aS,5aS,6S,12aS)-; Tetracycline (hydrochloride)",136,0.8002238491359345
+5174,Fluvoxamine (maleate); Fluvoxamine Maleate,145,0.7990947272150073
+5193,5-((6-chloro-5-(1-methylindol-5-yl)-1H-benzimidazol-2-yl)oxy)-2-methylbenzoic acid; EX229,145,0.798795849669341
+5535,Gallic acid (hydrate); Gallic acid monohydrate,291,0.7970026744369013
+5411,Ligustrazine; Tetramethylpyrazine,138,0.7970364070138776
+5136,Pasireotide (acetate); Pasireotide acetate,146,0.819779451088368
+4178,Vilanterol,144,0.7963123822110122
+4777,bergenin,145,0.8116019942614053
+1338,Pimitespib,140,0.7934009366714431
+5175,Fostamatinib (disodium hexahydrate),135,0.7923058942611132
+609,Captopril,146,0.8096721858907836
+5159,NG-25; NG25,144,0.7918528765015186
+5149,Rutin (trihydrate); Rutin trihydrate,138,0.791715568486213
+5172,Atazanavir (sulfate); Atazanavir Sulfate,142,0.7916499981561553
+5538,"DT-061; N-((1R,2R,3S)-2-Hydroxy-3-(10H-phenoxazin-10-yl)cyclohexyl)-4-(trifluoromethoxy)benzenesulfonamide",141,0.7914973321985972
+5401,Methylthiouracil,134,0.7906955490373396
+5191,Rimonabant (Hydrochloride); Rimonabant Hydrochloride,279,0.7938668825501582
+4155,Arbutin,137,0.7902881800911995
+1571,3-(4-Methylpiperazine-1-carbonyl)-7-oxabicyclo(2.2.1)heptane-2-carboxylic acid; LB-100,130,0.788935269218133
+3188,ETC-206; Tinodasertib,135,0.7837976709810395
+2243,Cepharanthine,154,0.8447960674591338
+5180,Cabozantinib (S-malate); Cabozantinib S-malate,142,0.7815704779639238
+5184,Elagolix Sodium; Elagolix sodium,143,0.781556734534882
+3280,Lonafarnib,164,0.867923807675444
+174,Megestrol,153,0.8064782003977693
+696,"(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid; Retinoic Acid",144,0.776965446657
+616,Darolutamide,141,0.7747855766100635
+1750,Dimethyl Fumarate; dimethyl (E)-but-2-enedioate,135,0.7751710763976877
+5182,(R)-Verapamil (hydrochloride); Dexverapamil Hydrochloride,143,0.7774906293211467
+5188,Nafamostat (mesylate); Nafamostat Mesylate,146,0.7962603132336579
+5208,HI-TOPK-032; HI-Topk-032,141,0.7672671930326451
+5520,"(2S)-N-(2,6-dimethylphenyl)-1-propyl-2-piperidinecarboxamide hydrochloride monohydrate; Ropivacaine (hydrochloride monohydrate)",144,0.7663139044383933
+4072,"5-[(E)-2-bromoethenyl]-1-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione; Brivudine",153,0.8253178964424851
+5203,Cysteamine (hydrochloride); Cysteamine Hydrochloride,142,0.76200003167608
+5525,"16H-1,24:6,9-Dietheno-11,15-metheno-2H-pyrido(2',3':17,18)(1,11)dioxacycloeicosino(2,3,4-ij)isoquinolin-12-ol, 3,4,4a,5,16a,17,18,19-octahydro-21,22,26-trimethoxy-4,17-dimethyl-, hydrochloride (1:2), (4aS,16aR)-; Berbamine (dihydrochloride)",139,0.7573773287388941
+2591,Sonidegib,168,0.8928492230025518
+5209,Pentamidine (isethionate); Pentamidine Isethionate,145,0.7558431250742621
+5213,Balsalazide (sodium hydrate); CID 92044433,141,0.7556114136129406
+5133,Tirabrutinib (hydrochloride); Tirabrutinib hydrochloride,140,0.754923147074847
+5162,Irinotecan (hydrochloride); Irinotecan Hydrochloride,374,0.9118544327938256
+3779,Baicalin,145,0.775203317944656
+755,Betamethasone Dipropionate; Betamethasone dipropionate,141,0.7509124267939256
+198,(R)-2-((R)-2-Acetamido-3-(4-hydroxyphenyl)propanamido)-N-((R)-1-amino-1-oxo-3-phenylpropan-2-yl)-5-guanidinopentanamide; DTP3,140,0.7493618220064271
+3774,"(2E)-2-[[4-(3,4-dichlorophenyl)-1,3-thiazol-2-yl]hydrazinylidene]-3-(2-nitrophenyl)propanoic acid; 4EGI-1",141,0.7519171907232296
+1113,Bimatoprost,147,0.7648465247562416
+5220,"2,6-Difluoro-4-(4-(4-morpholinophenyl)pyridin-3-yl)phenol; LJI308",159,0.8360259076896124
+5281,Artesunate,180,0.887368893006398
+5167,Lumateperone (tosylate); Lumateperone Tosylate,138,0.7436861852649672
+5517,Diammonium Glycyrrhizinate,144,0.7436214072302518
+5176,Palmatine (chloride); Palmatine Chloride,142,0.7406396603545313
+3793,5-[(3R)-dithiolan-3-yl]pentanoic acid; Lipoic acid,139,0.7405730077155315
+1555,Glasdegib,137,0.7524924941037484
+1537,Piroxicam,150,0.7922345138925923
+5514,Acetomenaphthone; Vitamin K4,141,0.7376840632731543
+5177,Ivabradine (hydrochloride); Ivabradine Hydrochloride,138,0.7373684538187741
+5168,Edoxaban (tosylate monohydrate); Edoxaban tosylate monohydrate,137,0.7331191057591466
+5127,Citalopram (hydrobromide); Citalopram Hydrobromide,142,0.7316587064698289
+5156,"2-Piperidinecarboxamide, 1-butyl-N-(2,6-dimethylphenyl)-, hydrochloride (1:1), (2S)-; Levobupivacaine (hydrochloride)",136,0.7287560138170655
+2947,Alpelisib,167,0.8515786767932582
+5215,ERK5-IN-2; Erk5-IN-2,143,0.7239833782258824
+694,Drospirenone,147,0.7521812171399541
+4684,methotrexate,183,0.8630908992862327
+1262,TAK-901; Tak-901,154,0.8913528046145792
+625,Cinacalcet,145,0.7370723287809908
+5171,Esmolol (hydrochloride); Esmolol Hydrochloride,139,0.7209867717791052
+5537,Fumaric Acid; Fumaric acid,139,0.7118143433384649
+2057,E6 berbamine; berbamine,153,0.7632989228959164
+3734,Asciminib,140,0.7108837812059695
+5516,Bestatin (hydrochloride); Ubenimex hydrochloride,141,0.7103374923274053
+5513,Chlorhexidine (diacetate); Chlorhexidine Acetate,144,0.7098439620542941
+1019,sildenafil,145,0.9015753169665534
+5519,Oleic Acid; Oleic acid,138,0.7036039187011207
+1117,"1-[2-[[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methylsulfanyl]ethyl]-3-ethylurea; Adenosine, 5'-S-[2-[[(ethylamino)carbonyl]amino]ethyl]-5'-thio-",156,0.7506948324265562
+786,Vincristine Sulfate; vincristine,197,0.894434605317796
+5406,Lopinavir,156,0.7777632755543732
+5205,Riluzole hydrochloride,144,0.6966944372632076
+5200,Pexidartinib (hydrochloride); Pexidartinib Hydrochloride,136,0.6963506315822158
+8551,verteporfin,151,0.9477924397043374
+2914,Meloxicam,152,0.7768836790812463
+5169,Phenylephrine (hydrochloride); Phenylephrine Hydrochloride,140,0.6930803685712084
+5219,"5,5-Diphenyl Hydantoin Sodium; Phenytoin (sodium)",140,0.7337531291696819
+1417,Ribociclib,140,0.739993145368812
+1774,Encorafenib; methyl N-[(2S)-1-[[4-[3-[5-chloro-2-fluoro-3-(methanesulfonamido)phenyl]-1-propan-2-ylpyrazol-4-yl]pyrimidin-2-yl]amino]propan-2-yl]carbamate,136,0.6825441204884208
+5485,Idoxuridine,146,0.6950365571413286
+5529,Darinaparsin,145,0.6817480986554485
+24143,Olanzapine,147,0.6973687220421717
+161,"(8S,11R,13S,14R,17S)-11-[4-(dimethylamino)phenyl]-17-hydroxy-13-methyl-17-prop-1-ynyl-1,2,6,7,8,11,12,14,15,16-decahydrocyclopenta[a]phenanthren-3-one; mifepristone",188,0.8757760384021864
+3450,Tucidinostat,159,0.9288760976883396
+5211,"5-(4-Chlorophenyl)-[3,3'-bipyridine]-6,6'-diamine; PF-06260933",149,0.7098185679270942
+3522,Pemetrexed,155,0.7876497686809392
+2733,Sulfatinib; Surufatinib,131,0.6653186126450907
+5189,Flumatinib (mesylate); Flumatinib Mesylate,139,0.6589661890464624
+4069,Trifluridine,201,0.866279060850349
+5218,Sodium Salicylate,145,0.6548504817183609
+1597,Entrectinib,138,0.6545364165069413
+3057,TAK-733; Tak-733,228,0.8636386599693552
+5141,Imiquimod (hydrochloride); Imiquimod hydrochloride,153,0.7396658697613996
+3904,Cobimetinib,231,0.9322075364630388
+1996,N-[4-(9-acridinylmethyl)-3-methoxyphenyl]methanesulfonamide; amsacrine,233,0.9100605967132264
+412,Acyclic retinoid; Peretinoin,142,0.6419530075592457
+5466,"Oxaliplatin; cis-oxalato-trans-l-1,2-diaminocyclohexaneplatinum(II)",148,0.7163491685527494
+5201,Noradrenaline hydrochloride; Norepinephrine (hydrochloride),144,0.6393843979720855
+771,Ivermectin; Ivermectin B1a,175,0.8544614526763018
+5166,Loperamide (hydrochloride); Loperamide Hydrochloride,176,0.8073831887953028
+2091,AZD-8055; Azd8055,346,0.955689815717982
+5511,Lactate (calcium),140,0.6209699472258055
+5138,Sivelestat (sodium tetrahydrate); Sivelestat Sodium,140,0.619920302502548
+804,Budesonide; budesonide,177,0.7791731257771117
+2960,Raltitrexed,187,0.8867600208174877
+629,Aprepitant,147,0.6543448425379295
+1055,"N-[2-(diethylamino)ethyl]-5-[(Z)-(5-fluoro-2-oxo-1H-indol-3-ylidene)methyl]-2,4-dimethyl-1H-pyrrole-3-carboxamide; Sunitinib",207,0.883454883825221
+592,BRD-K68202742; Trichostatin A,1346,1.0
+1764,Homoharringtonine; Omacetaxine Mepesuccinate,363,0.9673914598895887
+429,Ixazomib,343,0.9357006494637874
+692,Triamcinolone,190,0.7715345520968447
+5179,BI-3406,143,0.5914496745210536
+5196,Fedratinib (hydrochloride hydrate); Fedratinib Hydrochloride,157,0.8293292838402175
+1229,Dapagliflozin,144,0.666366220549563
+4302,cyclosporin-a,248,0.8455638657203595
+2769,Canagliflozin,146,0.8854527686591251
+257,"Auranofin; Gold(1+);3,4,5-triacetyloxy-6-(acetyloxymethyl)oxane-2-thiolate;triethylphosphane",205,0.7991968137716317
+734,Digitoxin,260,0.8677765217566387
+5170,Rucaparib (phosphate); Rucaparib Phosphate,194,0.919889104233618
+1364,Dinaciclib,377,0.938252225254567
+1420,(E)-N-[4-(3-chloro-4-fluoroanilino)-7-[(3S)-oxolan-3-yl]oxyquinazolin-6-yl]-4-(dimethylamino)but-2-enamide; Afatinib,352,0.9044579155808994
+1916,"[(1S,2R,4S)-4-[(2R)-2-[(1R,9S,12S,15R,16E,18R,19R,21R,23S,24E,26E,28E,30S,32R,35R)-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-2,3,10,14,20-pentaoxo-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraen-12-yl]propyl]-2-methoxycyclohexyl] 3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate; temsirolimus",232,0.8723074748004331
+1823,Mithramycin; Plicamycin,138,0.7757968224880114
+3484,Gemcitabine,360,0.9355424724762328
+6642,XL-888; XL888,181,0.9929397776513676
+3661,"4-(2,6-dichlorobenzoylamino)-1H-pyrazole-3-carboxylic acid piperidin-4-ylamide; AT7519",323,0.8961087032517681
+3578,(E)-N-hydroxy-3-[3-(phenylsulfamoyl)phenyl]prop-2-enamide; Belinostat,400,0.927808609462776
+1832,"1,18-Dihydroxy-12-[1-[4-(2-hydroxyethoxy)-3-methoxycyclohexyl]propan-2-yl]-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; Everolimus; everolimus",334,0.9086687524281016
+2431,"3-[(1R,3R,5S,8R,9S,10R,11R,13R,14S,17R)-1,5,11,14-tetrahydroxy-10-(hydroxymethyl)-13-methyl-3-[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxy-2,3,4,6,7,8,9,11,12,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]-2H-furan-5-one; ouabain",79,0.9888269389727592
+2278,"(7R,9S)-9-acetyl-7-[[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyl-2-oxanyl]oxy]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; daunorubicin",325,0.9936753681671956
+1827,Geldanamycin; geldanamycin,938,0.9876737020591848
+3968,"(5Z)-5-[(4-pyridin-4-ylquinolin-6-yl)methylidene]-1,3-thiazolidine-2,4-dione; Gsk-1059615",491,0.9153796701789212
+4527,topotecan,151,0.9881312346751584
+132,"Tanespimycin; [(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate",645,0.9956927939258136
+2275,Epirubicin; epirubicin,194,0.9837162505923074
+3589,"(Z)-3-[3-[3,5-bis(trifluoromethyl)phenyl]-1,2,4-triazol-1-yl]-N'-pyrazin-2-ylprop-2-enehydrazide; Selinexor",162,0.8488970666541983
+1880,Wortmannin from Penicillium funiculosum; wortmannin,682,0.9781579069411
+295,Idarubicin; idarubicin,134,0.9757720736121944
+4117,2-(4-morpholinyl)-8-phenyl-4H-1-benzopyran-4-one; LY-294002,192,0.9769391684207188
+789,Volasertib,299,0.9200675286068608
+1919,(E)-6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-1H-2-benzofuran-5-yl)-4-methylhex-4-enoic acid; Mycophenolic Acid,140,0.9747944898482642
+5028,PD-0325901,536,0.966163881738302
+3990,Narciclasine; narciclasine,69,0.9656329558754694
+4018,Mitoxantrone; mitoxantrone,1040,0.9699286310577588
+724,Tofacitinib,247,0.9060779364414148
+706,Withaferin A; withaferin-a,482,0.9645006361940354
+5161,Neratinib (maleate); Neratinib Maleate,386,0.8672275153259938
+4528,camptothecin,292,0.9619088985330456
+4646,emetine,158,0.9651970493102644
+5534,Folic Acid; Folic acid,172,0.9191208514023208
+3065,Dactolisib; NVP-BEZ235,371,0.9572973800067192
+444,MG-132,2842,0.9563591319335716
+3482,Entinostat; entinostat,410,0.977210735658462
+3637,Pitavastatin Calcium; pitavastatin,65,0.9560450877209852
+3737,Niclosamide; niclosamide,107,0.9565416257395402
+1671,AZD-2014; Vistusertib,50,0.9549356631645508
+2953,PF-03758309; PF-3758309,179,0.9545460173928284
+5360,"[(6R,7S,8R)-11-Amino-7-methoxy-12-methyl-10,13-dioxo-2,5-diazatetracyclo[7.4.0.02,7.04,6]trideca-1(9),11-dien-8-yl]methyl carbamate; mitomycin-c",139,0.9544734519524716
+4070,2'-Deoxy-alpha-D-ribofuranosyl-5-fluorouracil; floxuridine,197,0.9533737808115224
+1112,NVP-AUY922,217,0.9529989845659332
+3692,Ro-4987655,67,0.9519396082454084
+1956,Lrrk2-IN-1; XMD-1150,120,0.9486555862195034
+3007,BRD-K54606188; JQ1 compound,279,0.9483127185063904
+267,"[(1S,2S,3S,4S,7S,9S,10S,12R,15S)-4,12-diacetyloxy-15-[(2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoyl]oxy-1,9-dihydroxy-10,14,17,17-tetramethyl-11-oxo-6-oxatetracyclo[11.3.1.03,10.04,7]heptadec-13-en-2-yl] benzoate; paclitaxel",345,0.9022159005873492
+559,Ganetespib; ganetespib,75,0.9470695223525076
+424,PHA-793887; Pha-793887,300,0.9468644890358022
+3756,"1-(4-(4-(3-Oxa-8-azabicyclo(3.2.1)octan-8-yl)-6-morpholino-1,3,5-triazin-2-yl)phenyl)-3-(pyridin-4-yl)urea; PKI-179",57,0.9464168633167084
+24172,Mln4924,250,0.9463625690349882
+2171,"(4-Amino-2-(1-methanesulfonylpiperidin-4-ylamino)pyrimidin-5-yl)(2,3-difluoro-6-methoxyphenyl)methanone; R-547",173,0.9432033048926032
+4657,SN-38,123,0.9413311033882736
+1278,Ascomycin; sirolimus,676,0.9443876559653588
+3488,"4-amino-1-[(2R,3S,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one; Cytarabine; cytarabine",235,0.9028313446502464
+427,Bortezomib,3036,0.9438681382157874
+4915,lestaurtinib,104,0.9366465788807232
+242,Docetaxel,256,0.8759547648051416
+760,Clobetasol Propionate; clobetasol,62,0.936964726076148
+1643,"1-(4-(1-(1,4-Dioxaspiro(4.5)decan-8-yl)-4-(8-oxa-3-azabicyclo(3.2.1)octan-3-yl)pyrazolo(3,4-d)pyrimidin-6-yl)phenyl)-3-methylurea; WYE-125132",93,0.9362291689674308
+3459,"9-(6-Aminopyridin-3-yl)-1-(3-(trifluoromethyl)phenyl)benzo(h)(1,6)naphthyridin-2(1H)-one; torin-2",98,0.9357499656084424
+5,Pralatrexate; pralatrexate,89,0.9354466145908806
+6372,MLN-9708; Mln9708,86,0.934837399200004
+998,CYT-997; Lexibulin,85,0.934473538218865
+736,Thapsigargin; thapsigargin,84,0.933537300649909
+4757,alvespimycin,111,0.9787443935123648
+747,"1-(4-(4-propionylpiperazin-1-yl)-3-(trifluoromethyl)phenyl)-9-(quinolin-3-yl)benzo(h)(1,6)naphthyridin-2(1H)-one; torin-1",165,0.9315128067172488
+1443,BRD-K89997465; Chlorpromazine,55,0.9319946068789338
+631,(S)-Crizotinib; Crizotinib; crizotinib,460,0.9537750937930022
+743,"(3S,6S,9S,12R)-3-[(2S)-butan-2-yl]-6-[(1-methoxyindol-3-yl)methyl]-9-(6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone; Apicidin",92,0.9352989936573622
+527,Triptolide (PG490); triptolide,127,0.9325779055333792
+457,Delanzomib; delanzomib,92,0.9233134340611
+1471,Abexinostat; PCI-24781,117,0.9791201853585024
+5349,"bruceantin; methyl (1R,2S,3R,6R,8S,13S,14R,15R,16S,17S)-3-[(E)-3,4-dimethylpent-2-enoyl]oxy-15,16-dihydroxy-9,13-dimethyl-4,10,11-trioxo-5,18-dioxapentacyclo[12.5.0.01,6.02,17.08,13]nonadecane-17-carboxylate",82,0.9364466015090166
+3502,Cladribine; cladribine,53,0.9205964727394622
+575,TW-37,136,0.9203560332045652
+1703,Genz-644282; genz-644282,78,0.91984713438195
+4246,"N-([1,1'-Biphenyl]-4-ylmethyl)-6-phenyl-3-(pyridin-2-yl)-1,2,4-triazin-5-amine; VU-0418946-1",55,0.9191047138964168
+4764,YM-155,219,0.9239790339380716
+2090,KU-0063794; Ku-0063794,77,0.9185589017271972
+2385,5-(6-((4-Methyl-1-piperazinyl)methyl)-1H-benzimidazol-1-yl)-3-((1R)-1-(2-(trifluoromethyl)phenyl)ethoxy)-2-thiophenecarboxamide; GSK-461364,227,0.9181223272339254
+930,"(R)-2,4,6-Trimethyl-deca-2,4-dienoic acid {(1S,5S,6R)-5-hydroxy-5-[(1E,3E,5E)-6-(2-hydroxy-5-oxo-cyclopent-1-enylcarbamoyl)-hexa-1,3,5-trienyl]-2-oxo-7-oxa-bicyclo[4.1.0]hept-3-en-3-yl}-amide; manumycin-a",110,0.917181360407685
+1905,Cabazitaxel (Jevtana); cabazitaxel,53,0.9158393238940884
+260,"4,15-Diacetoxyscirpen-3-ol; anguidine",58,0.9149945606879136
+6445,"(9E,11E)-16-chloro-17,19-dihydroxy-4-methyl-3,7-dioxatricyclo[13.4.0.06,8]nonadeca-1(15),9,11,16,18-pentaene-2,13-dione; radicicol",188,0.9146248941653802
+1294,Dolastatin 10; dolastatin-10,112,0.912652239960552
+737,Ingenol Mebutate; ingenol-mebutate,67,0.9124028421898644
+3547,5-Azacytidine; Azacitidine; Azacytidine,300,0.8802451941957478
+2547,"(8R,9R,13S,14S,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol; estradiol",122,0.9070566258447572
+5354,"N-[(2S)-3-methoxy-1-[[(2S)-3-methoxy-1-[[(2S)-1-(2-methyloxiran-2-yl)-1-oxo-3-phenylpropan-2-yl]amino]-1-oxopropan-2-yl]amino]-1-oxopropan-2-yl]-2-methyl-1,3-thiazole-5-carboxamide; oprozomib",77,0.911622225075182
+2093,BGT-226; BGT-226 free base,73,0.9104511335929012
+8882,BRD-A28105619,52,0.9086771854665224
+5274,"4-(6,6-dimethyl-4-oxo-3-(trifluoromethyl)-4,5,6,7-tetrahydro-1H-indazol-1-yl)-2-((1r,4r)-4-hydroxycyclohexylamino)benzamide; SNX-2112",123,0.9083013946423032
+2483,Brefeldin A; brefeldin-a,82,0.908241255978848
+5371,BRD-K61195623; Combretastatin A4,88,0.9073775571844368
+1322,Vinblastine; vinblastine,88,0.9055919262464004
+762,Fluticasone Propionate; fluticasone-propionate,53,0.9052989775488436
+768,"[(1S,3R,7S,8R,8aS)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate; simvastatin",67,0.9016893788062872
+4611,cycloheximide,71,0.9069930604536788
+942,Parbendazole; parbendazole,125,0.9026362844453126
+1678,"N,1,4,4-Tetramethyl-8-((4-(4-methylpiperazin-1-yl)phenyl)amino)-4,5-dihydro-1H-pyrazolo(4,3-h)quinazoline-3-carboxamide; PHA-848125",90,0.9021352822673436
+1914,"(1R,9S,12S,15R,16Z,18R,19R,21R,23S,24E,26E,28E,30S,32S,35R)-12-[(2R)-1-[(1S,3R,4R)-4-dimethylphosphoryloxy-3-methoxycyclohexyl]propan-2-yl]-1,18-dihydroxy-19,30-dimethoxy-15,17,21,23,29,35-hexamethyl-11,36-dioxa-4-azatricyclo[30.3.1.04,9]hexatriaconta-16,24,26,28-tetraene-2,3,10,14,20-pentone; deforolimus",68,0.9020350770563356
+4440,GDC-0068,62,0.8993342237009948
+2277,"(7R,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; doxorubicin",386,0.9721763892698888
+1312,Birinapant; birinapant,88,0.8982473219523498
+109,N-[3-[[2-[[4-(dimethylamino)cyclohexyl]amino]-9-propan-2-yl-6-purinyl]amino]phenyl]-2-propenamide; WZ-3105,78,0.897733583767022
+6744,Chelidonine; chelidonine,50,0.8973186116983027
+1724,"(9S,10R,11R,13R)-2,3,10,11,12,13-hexahydro-10-methoxy-9-methyl-11-(methylamino)-9,13-epoxy-1H,9H-diindolo[1,2,3-gh:3',2',1'-lm]pyrrolo[3,4-j][1,7]benzodiazonin-1-one; staurosporine",68,0.9009691531094972
+7187,"2,4-difluoro-N-[2-methoxy-4-[4-(4-pyridazinyl)-6-quinolinyl]-3-pyridinyl]benzenesulfonamide; GSK-2126458",109,0.8923436044538158
+2654,AZD-8330; Azd-8330,83,0.8922059342741988
+3096,JNJ-26481585; Quisinostat,165,0.9155602687474532
+1921,Mycophenolate Mofetil; mycophenolate-mofetil,81,0.8899850391935004
+367,"BMS-387032; N-(5-(((5-(1,1-Dimethylethyl)-2-oxazolyl)methyl)thio)-2-thiazolyl)-4-piperidinecarboxamide; N-[5-[(5-tert-butyl-1,3-oxazol-2-yl)methylsulfanyl]-1,3-thiazol-2-yl]piperidine-4-carboxamide",137,0.889846432787355
+103,Canertinib; canertinib,114,0.889232933553618
+1828,"2-[5-[(3,5-dimethyl-1H-pyrrol-2-yl)methylidene]-4-methoxy-2-pyrrolylidene]indole; obatoclax",114,0.9557633948674448
+6877,Piperlongumine; piperlongumine,50,0.9155020304006968
+3995,6-Bromoindirubin-3'-oxime; BRD-K04923131,108,0.8863268242541283
+1982,"N-[3,4-difluoro-2-(2-fluoro-4-iodoanilino)-6-methoxyphenyl]-1-[(2S)-2,3-dihydroxypropyl]cyclopropane-1-sulfonamide; Refametinib; refametinib",50,0.8827254803892288
+2206,ABT-751; N-(2-((4-hydroxyphenyl)amino)-3-pyridinyl)-4-methoxybenzenesulfonamide,75,0.8855395536290356
+2752,"4-Piperidinone, 3,5-bis[(4-methylphenyl)methylene]-, hydrochloride; NSC-632839",54,0.8849351270943545
+6314,Rottlerin; rottlerin,57,0.8849757311140151
+2934,Taselisib; taselisib,137,0.8844002094605458
+2133,"4-(4,5-bis(4-chlorophenyl)-2-(2-isopropoxy-4-methoxyphenyl)-4,5-dihydro-1H-imidazole-1-carbonyl)piperazin-2-one; nutlin-3",63,0.8842117066071322
+3006,"(6S)-4-(4-Chlorophenyl)-N-(4-hydroxyphenyl)-2,3,9-trimethyl-6H-thieno(3,2-f)(1,2,4)triazolo(4,3-a)(1,4)diazepine-6-acetamide; OTX-015",82,0.8821667412335137
+6224,"9-(1-Methyl-4-pyrazolyl)-1-[1-(1-oxoprop-2-enyl)-2,3-dihydroindol-6-yl]-2-benzo[h][1,6]naphthyridinone; QL-XII-47",103,0.8767779612253712
+2970,4-(2-Methyl-1-(1-methylethyl)-1H-imidazol-5-yl)-N-(4-(methylsulfonyl)phenyl)-2-pyrimidinamine; AZD-5438,201,0.8766339259567045
+1601,NMS-1286937; Onvansertib,83,0.8758155287729522
+3530,"9-Chloro-2-(2-furanyl)(1,2,4)triazolo(1,5-c)quinazolin-5-amine; CGS-15943",78,0.8747146106710731
+2708,Ceritinib; ceritinib,50,0.8747897467726503
+1796,"BRD-K22848513; methyl (4aS,6aR,6bS,8aR,12aR,14aS,14bR)-11-cyano-2,2,6a,6b,9,9,12a-heptamethyl-10,14-dioxo-1,3,4,5,6,7,8,8a,14a,14b-decahydropicene-4a-carboxylate",68,0.8736292353931276
+1630,Triciribine; triciribine,73,0.8732112583993226
+3150,"1,3-Benzothiazol-2-yl(2-((2-(3-pyridinyl)ethyl)amino)-4-pyrimidinyl)acetonitrile; AS-601245",76,0.8730961025473323
+1923,"(6-Chloro-9-(4-methoxy-3,5-dimethylpyridin-2-ylmethyl)-9H-purin-2-yl)amine; BIIB-021",113,0.8721667939096492
+2757,SB-743921; Sb-743921,119,0.8704059873065493
+3145,"(2E,3Z)-2,3-bis[amino-(2-aminophenyl)sulfanylmethylidene]butanedinitrile; U-0126",67,0.8703806747394529
+5318,Lasalocid A; lasalocid,80,0.8700419944857876
+2703,Tozasertib; tozasertib,187,0.914712121267606
+7751,A-443654,174,0.8693819102114989
+170,Epothilone-B; epothilone-b,69,0.8687346151472519
+3976,SB 218078; SB-218078,59,0.8623148001345382
+5321,KW-2478; KW-2478 free base,84,0.8607081898112798
+2194,HMN-214; N-((4-Methoxyphenyl)sulfonyl)-N-(2-((1E)-2-(1-oxido-4-pyridinyl)ethenyl)phenyl)acetamide,103,0.8589049631856505
+82,"(1S,2S,4R,7E,11S)-4,8-dimethyl-12-methylidene-3,14-dioxatricyclo[9.3.0.02,4]tetradec-7-en-13-one; Parthenolide",88,0.8718717153653051
+562,AT-13387; Onalespib,63,0.8546800688595293
+3678,AS-703026; Pimasertib,84,0.8545404596290691
+3565,(E)-N-hydroxy-3-[4-[[2-hydroxyethyl-[2-(1H-indol-3-yl)ethyl]amino]methyl]phenyl]prop-2-enamide; Dacinostat,168,0.898245982894015
+3973,Tivantinib; tivantinib,97,0.8525907539176941
+1518,PF-562271,77,0.852129591291646
+992,Albendazole; albendazole,74,0.852087294706163
+6225,"N-[2-methyl-5-[2-oxo-9-(1H-pyrazol-4-yl)-1-benzo[h][1,6]naphthyridinyl]phenyl]-2-propenamide; QL-X-138",56,0.8510694527763307
+2069,"1-[2-chloro-4-(6,7-dimethoxyquinolin-4-yl)oxyphenyl]-3-(5-methyl-1,2-oxazol-3-yl)urea; Tivozanib; tivozanib",65,0.8477370672449744
+5452,5-Fluoro-2'-deoxycytidine; fdcyd,50,0.8507118108131617
+2956,SB-2343; Vs-5584,57,0.8488958336708055
+2821,PIK-75; Pik-75,72,0.8475438966394352
+1045,"(+-)-Quinacrine; 4-N-(6-chloro-2-methoxyacridin-9-yl)-1-N,1-N-diethylpentane-1,4-diamine; mepacrine",52,0.8486051085319641
+1999,Tamatinib; fostamatinib,113,0.8439763102914785
+1458,TAS-103; TAS-103 free base,68,0.8438814954620089
+2000,Alisertib; alisertib,156,0.8969329062220951
+2633,"4-[2-[[4-(2,4-dichlorophenyl)-5-(5-methyl-1H-imidazol-2-yl)pyrimidin-2-yl]amino]ethylamino]benzonitrile; CHIR-99021",75,0.8419145563964376
+739,Romidepsin; romidepsin,131,0.9024819002026976
+4450,atorvastatin,64,0.8492079351803854
+7031,BMCL181297 Compound 5F; BRD-K05402890,55,0.8404480464673536
+1473,Resminostat; resminostat,97,0.9198927635812147
+7896,JNK inhibitor IX; JNK-IN-5A,50,0.8380699214913438
+2495,Digoxin; digoxin,207,0.9138739750877528
+1602,Dovitinib; dovitinib,82,0.833576066311531
+6752,"HG-5-113-01; N-methyl-6-[[4-(2-propan-2-ylsulfonylanilino)-1H-pyrrolo[2,3-b]pyridin-6-yl]amino]-3-pyridinecarboxamide",51,0.8333227287289415
+1461,SB-590885,51,0.8276915467275712
+3179,"3-(4-Morpholinyl)-5-[2-[4-[3-(3-pyridinyl)-1,2,4-triazol-1-yl]anilino]-4-pyrimidinyl]benzonitrile; JNK-9L",77,0.8246377379399279
+2601,Apitolisib; GDC-0980,60,0.8242191208111149
+148,Sdccgsbi-0050471.P002; forskolin,68,0.8502553035117038
+459,(2S)-4-methyl-N-[(2S)-1-[[(2S)-4-methyl-1-[(2R)-2-methyloxiran-2-yl]-1-oxopentan-2-yl]amino]-1-oxo-3-phenylpropan-2-yl]-2-[[(2S)-2-[(2-morpholin-4-ylacetyl)amino]-4-phenylbutanoyl]amino]pentanamide; Carfilzomib; carfilzomib,85,0.8817551277054548
+2274,OSI-027,52,0.8182810995020533
+1079,2-[3-[[7-[3-[ethyl(2-hydroxyethyl)amino]propoxy]quinazolin-4-yl]amino]-1H-pyrazol-5-yl]-N-(3-fluorophenyl)acetamide; Defosbarasertib; barasertib-HQPA,52,0.8172413245670587
+1892,Danusertib; danusertib,71,0.9348334210273544
+3444,Buparlisib; buparlisib,63,0.8829221451590679
+2836,"4(2'-Aminoethyl)amino-1,8-dimethylimidazo(1,2-a)quinoxaline; BMS-345541",99,0.8075440987987226
+2071,GW-843682X; GW843682X,100,0.8044954613663207
+946,Pracinostat; SB-939,180,0.9183545571886134
+5630,"(2R,4aS,6aR,6aS,14aS,14bR)-10-hydroxy-2,4a,6a,6a,9,14a-hexamethyl-11-oxo-1,3,4,5,6,13,14,14b-octahydropicene-2-carboxylic acid; Celastrol",75,0.8199461770105484
+3120,"2-(Difluoromethyl)-1-(4,6-di-4-morpholinyl-1,3,5-triazin-2-yl)-1H-benzimidazole; ZSTK-474",73,0.800960064284267
+2006,"2-[2-methoxy-5-[[(E)-2-(2,4,6-trimethoxyphenyl)ethenyl]sulfonylmethyl]anilino]acetic acid; Rigosertib",92,0.8782223069197109
+1383,GSK-1070916; Gsk-1070916,91,0.88743636353072
+3546,5-Aza-2'-deoxycytidine; Decitabine,287,0.887506597693353
+3553,5-iodotubercidin; 7-Iodo-7-deaza-D-guanosine,51,0.7948833617876453
+756,Beclomethasone Dipropionate; beclomethasone-dipropionate,55,0.7877762349573618
+4465,linsitinib,53,0.7805517818963523
+2072,CP-466722; CP466722,63,0.780147500895902
+1226,Pelitinib; pelitinib,77,0.8768707830151398
+111,AVL-292; Spebrutinib,61,0.7740072808646861
+3072,RAF-265; Raf265,74,0.7734467642539797
+1310,(2R)-2-[[6-(benzylamino)-9-propan-2-ylpurin-2-yl]amino]butan-1-ol; Roscovitine; roscovitine,97,0.8878217295850764
+2858,Apilimod; STA-5326,78,0.7587233540819387
+73,"calcitriol; trans-(1R,3S,5Z)-5-[(2E)-2-[(1S,3aS,7aR)-1-[(2R)-6-hydroxy-6-methylheptan-2-yl]-7a-methyl-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexane-1,3-diol",100,0.8736339547603882
+3867,MLN-8054; Mln8054,62,0.8749542837907751
+99,Ibrutinib; ibrutinib,149,0.8575665277152715
+2781,Linifanib; linifanib,113,0.8590664753704016
+652,Tamibarotene; tamibarotene,50,0.7266716560212533
+1252,Cerdulatinib; PRT-062070,51,0.8586402710220338
+3159,Ruxolitinib; ruxolitinib,110,0.8668112279178818
+2800,Pazopanib; pazopanib,63,0.8043621895361183
+251,Dexamethasone Acetate; dexamethasone,334,0.8323171617930059
+2035,4-(4-(N-benzoylamino)anilino)-6-methoxy-7-(3-(1-morpholino)propoxy)quinazoline; ZM-447439,66,0.8612989267910313
+1425,2-(dimethylamino)-N-(6-oxo-5H-phenanthridin-2-yl)acetamide; PJ-34,59,0.8557848341037644
+3708,AT-9283; At-9283,60,0.8171195225644092
+4802,curcumin,68,0.828301826599838
+1419,"5-([1,1'-Biphenyl]-4-ylmethyl)-N,N-dimethyl-1H-tetrazole-1-carboxamide; LY-2183240",50,0.670902231211931
+1472,AG-14361,74,0.8076973575324965
+3667,BX-795; N-(3-((5-Iodo-4-((3-((2-thienylcarbonyl)amino)propyl)amino)-2-pyrimidinyl)amino)phenyl)-1-pyrrolidinecarboxamide,57,0.6652266317711014
+7015,BRD-A36275421; ML162,54,0.6613297082516324
+2439,"(2S)-1-[4-[(5-cyclopropyl-1H-pyrazol-3-yl)amino]pyrrolo[2,1-f][1,2,4]triazin-2-yl]-N-(6-fluoropyridin-3-yl)-2-methylpyrrolidine-2-carboxamide; Bms-754807",57,0.82878312645372
+2702,ENMD-2076; Enmd-2076,55,0.828411369061183
+639,4-Hydroxytamoxifen; tamoxifen,115,0.8842556991474531
+3901,KW-2449; [4-[2-(1H-indazol-3-yl)ethenyl]phenyl]-(1-piperazinyl)methanone,52,0.8136100492035772
+2533,"(1S,9R,11S,14S,15S)-15-methyl-9-[9-(4,4,5,5,5-pentafluoropentanesulfinyl)nonyl]tetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadeca-2(7),3,5-triene-5,14-diol; fulvestrant",282,0.9220223976857952
+101,AZD-9291; Osimertinib,65,0.9134467086242072
+2028,Etoposide; etoposide,103,0.9113440687222436
+4724,sorafenib,189,0.8734737385178453
+1813,nintedanib,50,0.7662545418842329
+202,"(Z)-N-[2-(3-acetamido-4,5-dihydroxy-6-methyloxan-2-yl)oxy-6-[2-[5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]-2-hydroxyethyl]-4,5-dihydroxyoxan-3-yl]-5-methylhex-2-enamide; tunicamycin",55,0.8695373292233727
+1040,Disulfiram; disulfiram,59,0.790725918436916
+2353,Sulforaphane; sulforaphane,81,0.8142040301884271
+3503,Fludarabine; fludarabine,73,0.8442753440827195
+2502,"(2Z,4S,4aR,5S,5aR,6R,12aS)-2-[amino(hydroxy)methylene]-4-(dimethylamino)-5,10,11,12a-tetrahydroxy-6-methyl-4a,5,5a,6-tetrahydro-4H-tetracene-1,3,12-trione;ethanol;hydrate;hydrochloride; doxycycline",104,0.8612154877758121
+1403,"3-(diaminomethylidene)-1,1-dimethylguanidine; Metformin",84,0.8386552907260717
+3298,Nicotinamide; nicotinamide,93,0.8154926230975454
+5116,cisplatin,155,0.7859878844075918
+3113,Talazoparib; talazoparib,82,0.7461773613319349
+24002,Palmitic acid,57,0.7826446792434119

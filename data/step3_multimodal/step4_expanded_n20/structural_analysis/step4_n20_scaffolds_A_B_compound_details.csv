@@ -1,0 +1,47 @@
+scaffold_id,murcko_scaffold,compound_embedding_row_index,compound_name,n_profiles,actual_predictability,predicted_predictability,moa_count,moa_annotations,absolute_error
+Scaffold A,c1ccccc1,444,MG-132,2842,0.95635915,0.8199617,1,Proteasome inhibitor,0.13639745000000003
+Scaffold A,c1ccccc1,592,BRD-K68202742; Trichostatin A,1346,1.0,0.827145,1,HDAC inhibitor,0.17285499999999998
+Scaffold A,c1ccccc1,429,Ixazomib,343,0.93570065,0.81232816,1,Proteasome inhibitor,0.12337249000000006
+Scaffold A,c1ccccc1,5535,Gallic acid (hydrate); Gallic acid monohydrate,291,0.7970027,0.76850575,0,No MoA annotation,0.028496949999999965
+Scaffold A,c1ccccc1,1838,2-[(E)-[5-methoxy-1-[4-(trifluoromethyl)phenyl]pentylidene]amino]oxyethanamine; Fluvoxamine,149,0.88307464,0.80665696,2,5-HT Reuptake Inhibitors; Selective serotonin reuptake inhibitor (SSRI),0.07641768000000004
+Scaffold A,c1ccccc1,1846,Aliskiren,148,0.8260492,0.8336468,1,Renin inhibitor,0.007597599999999982
+Scaffold A,c1ccccc1,5174,Fluvoxamine (maleate); Fluvoxamine Maleate,145,0.79909474,0.84305334,1,Selective serotonin reuptake inhibitor (SSRI),0.04395859999999996
+Scaffold A,c1ccccc1,5218,Sodium Salicylate,145,0.6548505,0.7730544,0,No MoA annotation,0.11820390000000003
+Scaffold A,c1ccccc1,5157,Lidocaine (hydrochloride); Lidocaine Hydrochloride,144,0.8302609,0.78395736,1,Histamine receptor agonist,0.04630353999999992
+Scaffold A,c1ccccc1,5201,Noradrenaline hydrochloride; Norepinephrine (hydrochloride),144,0.6393844,0.7750036,1,Adrenergic receptor agonist,0.13561920000000005
+Scaffold A,c1ccccc1,428,Bestatin; Ubenimex,142,0.8926362,0.7538629,1,Leukotriene synthesis inhibitor,0.1387733
+Scaffold A,c1ccccc1,5516,Bestatin (hydrochloride); Ubenimex hydrochloride,141,0.7103375,0.8580983,0,No MoA annotation,0.14776080000000003
+Scaffold A,c1ccccc1,5169,Phenylephrine (hydrochloride); Phenylephrine Hydrochloride,140,0.69308037,0.7746539,1,Adrenergic receptor agonist,0.08157353
+Scaffold A,c1ccccc1,5128,Bisoprolol (hemifumarate),139,0.83267796,0.80654395,1,Adrenergic receptor antagonist,0.02613401000000004
+Scaffold A,c1ccccc1,5171,Esmolol (hydrochloride); Esmolol Hydrochloride,139,0.7209868,0.7718973,1,Adrenergic receptor antagonist,0.05091049999999997
+Scaffold A,c1ccccc1,5155,Fingolimod (hydrochloride); Fingolimod Hydrochloride,138,0.80725104,0.78712165,2,Immunosuppressant; Sphingosine 1-phosphate receptor agonist,0.020129390000000025
+Scaffold A,c1ccccc1,5259,Thymopentin,135,0.8763238,0.8254592,1,Immune response stimulator,0.05086460000000004
+Scaffold A,c1ccccc1,5158,Procainamide (hydrochloride); Procainamide Hydrochloride,131,0.87989867,0.79075444,1,Sodium channel blocker,0.08914423000000005
+Scaffold A,c1ccccc1,3292,Iniparib; iniparib,38,0.789381,0.7839793,1,PARP inhibitor,0.005401699999999954
+Scaffold A,c1ccccc1,3368,2-Phenylethynesulfonamide; pifithrin-mu,32,0.6787166,0.7906376,1,HSP inhibitor,0.11192100000000005
+Scaffold A,c1ccccc1,2686,4-(4-Chloro-2-methylphenoxy)-N-hydroxybutanamide; 4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide; droxinostat,27,0.683815,0.78358513,1,HDAC inhibitor,0.09977013000000001
+Scaffold A,c1ccccc1,4231,"3-(3,5-Ditert-butyl-4-hydroxyphenyl)-2-isocyano-2-propenenitrile; malonoben",26,0.84522885,0.80158293,1,Protein tyrosine kinase inhibitor,0.043645920000000005
+Scaffold A,c1ccccc1,5256,Tyrphostin 9; tyrphostin-A9,26,0.7254088,0.78257465,2,Protein tyrosine kinase inhibitor; Tyrosine kinase inhibitor,0.057165850000000074
+Scaffold A,c1ccccc1,2808,(2E)-3-(4-methylbenzenesulfonyl)prop-2-enenitrile; BAY-11-7082,25,0.7351815,0.7746872,1,NFkB pathway inhibitor,0.03950569999999998
+Scaffold A,c1ccccc1,3782,Caffeic Acid; caffeic-acid,25,0.85903496,0.7618855,7,HIV integrase inhibitor; Lipoxygenase inhibitor; NFkB pathway inhibitor; Nitric oxide production inhibitor; PPAR receptor modulator; TNF production inhibitor; Tumor necrosis factor production inhibitor,0.09714946000000002
+Scaffold A,c1ccccc1,5293,Suloctidil (USAN/INN); suloctidil,24,0.6836525,0.79563105,1,Adrenergic receptor antagonist,0.11197855000000001
+Scaffold A,c1ccccc1,4161,"2-((3-(2,3-Dichlorophenoxy)propyl)amino)ethanol; BRD-K61734568",23,0.7039946,0.76738346,1,BCL-XL downregulator,0.06338885999999999
+Scaffold A,c1ccccc1,354,"2-Propenethioamide, 3-(3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl)-2-cyano-, (E)-; AG-879",22,0.7114427,0.79232585,1,Tyrosine kinase inhibitor,0.08088315000000001
+Scaffold A,c1ccccc1,494,"4-[1-hydroxy-2-(propan-2-ylamino)ethyl]benzene-1,2-diol; Isoproterenol; isoprenaline",20,0.83028996,0.7474802,2,Adrenergic receptor agonist; Beta-Adrenoceptor Agonists,0.08280975999999995
+Scaffold A,c1ccccc1,1762,"BRD-K88741031; Methyl 2,5-dihydroxycinnamate; erbstatin-analog; methyl (E)-3-(2,5-dihydroxyphenyl)acrylate",20,0.74674225,0.7952843,2,EGFR inhibitor; Tyrosine kinase inhibitor,0.04854205
+Scaffold A,c1ccccc1,2551,Ethylmercury thiosalicylate; thiomersal,20,0.812118,0.7718809,1,Other antibiotic,0.040237100000000026
+Scaffold A,c1ccccc1,3220,Phenformin; phenformin,20,0.7744978,0.78544784,1,AMPK activator,0.010950039999999994
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,251,Dexamethasone Acetate; dexamethasone,334,0.8323172,0.9052108,1,Glucocorticoid receptor agonist,0.0728936
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,692,Triamcinolone,190,0.77153456,0.8604304,1,Glucocorticoid receptor agonist,0.08889584000000006
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,754,Clobetasol Propionate; Clobetasol propionate,144,0.8622893,0.8598217,1,Glucocorticoid receptor agonist,0.0024676000000000142
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,755,Betamethasone Dipropionate; Betamethasone dipropionate,141,0.7509124,0.8758499,1,Anti-inflammatory agent,0.12493749999999992
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,721,Methylprednisolone Succinate; Methylprednisolone succinate,137,0.8157657,0.85174733,1,Glucocorticoid receptor agonist,0.03598162999999999
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,760,Clobetasol Propionate; clobetasol,62,0.93696475,0.8318402,1,Glucocorticoid receptor agonist,0.10512454999999998
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,756,Beclomethasone Dipropionate; beclomethasone-dipropionate,55,0.78777623,0.8434893,2,Glucocorticoid receptor agonist; Immunosuppressant,0.05571307000000003
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,762,Fluticasone Propionate; fluticasone-propionate,53,0.90529895,0.8840521,1,Glucocorticoid receptor agonist,0.02124685000000004
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,764,"(8S,9S,10R,11S,13S,14R,16R,17S)-11-hydroxy-10,13,16,17-tetramethyl-17-propanoyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; rimexolone",39,0.82233113,0.8413459,1,Glucocorticoid receptor agonist,0.01901476999999996
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,2491,"(6S,8S,10R,11S,13S,14S,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-6,10,13-trimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; methylprednisolone",37,0.91151184,0.8195351,1,Glucocorticoid receptor agonist,0.09197674
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,284,"(6S,9R,11S,13S,17R)-17-acetyl-9-fluoro-11,17-dihydroxy-6,10,13-trimethyl-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthren-3-one; BRD-A13133631",32,0.8192922,0.8598019,1,Glucocorticoid receptor agonist,0.04050969999999998
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,2508,"(8S,9S,10R,11S,13S,14R,17R)-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one; prednisolone",28,0.8004257,0.8516432,1,Glucocorticoid receptor agonist,0.05121750000000003
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,722,"6,9-difluoro-11-hydroxy-17-(3-hydroxy-2-oxopropyl)-10,13,16-trimethyl-3-oxo-6,7,8,11,12,14,15,16-octahydrocyclopenta[a]phenanthrene-17-carbothioic acid S-(fluoromethyl) ester; fluticasone",21,0.9019079,0.8659023,1,Glucocorticoid receptor agonist,0.03600559999999997
+Scaffold B,O=C1C=CC2C(=C1)CCC1C3CCCC3CCC21,250,Pharmakon1600-01500231; dexamethasone-acetate,21,0.923443,0.8221884,3,Corticosteroid agonist; Cytochrome P450 inhibitor; Glucocorticoid receptor agonist,0.10125459999999997
