@@ -1,0 +1,2 @@
+scaffold_id,n_compounds,total_profiles,median_profiles_per_compound,minimum_profiles,maximum_profiles,observed_mean,predicted_mean,prediction_error,absolute_error
+Scaffold C,7,1502,194.0,41,386,0.9673130142857144,0.94834002,-0.018972994285714417,0.018972994285714417

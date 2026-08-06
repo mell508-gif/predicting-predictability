@@ -1,0 +1,8 @@
+scaffold_id,murcko_scaffold,compound_embedding_row_index,compound_name,n_profiles,actual_predictability,predicted_predictability,moa_count,moa_annotations,absolute_error
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,2277,"(7R,9S)-7-[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; doxorubicin",386,0.9721764,0.962845,2,Dna polymerase inhibitor; Topoisomerase inhibitor,0.0093314000000001
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,2278,"(7R,9S)-9-acetyl-7-[[(2R,4S,5S,6S)-4-amino-5-hydroxy-6-methyl-2-oxanyl]oxy]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7H-tetracene-5,12-dione; daunorubicin",325,0.99367535,0.95455563,2,RNA synthesis inhibitor; Topoisomerase inhibitor,0.03911971999999997
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,5185,Doxorubicin (hydrochloride); Doxorubicin Hydrochloride; Epirubicin (hydrochloride); Epirubicin Hydrochloride,280,0.9692649,0.95378715,2,Dna polymerase inhibitor; Topoisomerase inhibitor,0.015477749999999957
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,2275,Epirubicin; epirubicin,194,0.98371625,0.96144885,1,Topoisomerase inhibitor,0.022267399999999937
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,5134,Idarubicin (hydrochloride); Idarubicin Hydrochloride,142,0.9608134,0.95823395,1,Topoisomerase inhibitor,0.0025794500000000387
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,295,Idarubicin; idarubicin,134,0.9757721,0.9563592,1,Topoisomerase inhibitor,0.019412900000000066
+Scaffold C,O=C1c2ccccc2C(=O)c2cc3c(cc21)CCCC3OC1CCCCO1,812,Valrubicin; valrubicin,41,0.9157727,0.89115036,2,DNA inhibitor; Topoisomerase inhibitor,0.024622339999999965
