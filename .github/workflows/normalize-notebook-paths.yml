@@ -1,0 +1,110 @@
+name: Normalize notebook paths
+
+on:
+  push:
+    branches:
+      - organize-notebooks-for-lab
+
+permissions:
+  contents: write
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: organize-notebooks-for-lab
+
+      - name: Normalize notebook paths
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+
+          notebook_paths = [
+              Path("notebooks/final/01_july_wraps.ipynb"),
+              Path("notebooks/final/02_more_regression.ipynb"),
+              Path("notebooks/final/03_step4_expanded_regression_moa.ipynb"),
+              Path("notebooks/final/04_predictability_direction_audit.ipynb"),
+          ]
+
+          source = [
+              "from pathlib import Path\n",
+              "import os\n",
+              "\n",
+              "cwd = Path.cwd().resolve()\n",
+              "PROJECT_ROOT = next(\n",
+              "    path for path in [cwd, *cwd.parents]\n",
+              "    if (path / \"data\").exists() and (path / \"figures\").exists()\n",
+              ")\n",
+              "os.chdir(PROJECT_ROOT / \"data\")\n",
+          ]
+
+          cell = {
+              "cell_type": "code",
+              "execution_count": None,
+              "id": "project-root-setup",
+              "metadata": {},
+              "outputs": [],
+              "source": source,
+          }
+
+          cell_text = json.dumps(cell, ensure_ascii=False, indent=1)
+          cell_text = "\n".join("  " + line for line in cell_text.splitlines())
+
+          for path in notebook_paths:
+              text = path.read_text(encoding="utf-8")
+              if 'os.chdir(PROJECT_ROOT / "data")' not in text:
+                  match = re.search(r'("cells"\s*:\s*\[\s*\n)', text)
+                  if match is None:
+                      raise RuntimeError(f"Could not locate cells array in {path}")
+                  text = text[:match.end()] + cell_text + ",\n" + text[match.end():]
+                  json.loads(text)
+                  path.write_text(text, encoding="utf-8")
+
+          for path in notebook_paths:
+              parsed = json.loads(path.read_text(encoding="utf-8"))
+              first_source = "".join(parsed["cells"][0].get("source", []))
+              if 'os.chdir(PROJECT_ROOT / "data")' not in first_source:
+                  raise RuntimeError(f"Path setup was not inserted first in {path}")
+
+          duplicate_paths = [
+              Path("data/july_wraps.ipynb"),
+              Path("data/more_regression.ipynb"),
+              Path("data/step4_expanded_regression_moa.ipynb"),
+              Path("data/predictability_direction_audit.ipynb"),
+          ]
+
+          for path in duplicate_paths:
+              path.unlink(missing_ok=True)
+
+          readme = """# Notebooks
+
+## Final analysis
+
+The notebooks in `final/` are the lab-facing analysis sequence for the completed project:
+
+1. `final/01_july_wraps.ipynb` — compound registry, embeddings, signature modeling, and the multimodal predictability pipeline (Steps 1–3).
+2. `final/02_more_regression.ipynb` — Step 4 regression development, validation, and applicability analyses.
+3. `final/03_step4_expanded_regression_moa.ipynb` — finalized expanded regression, mechanism-of-action, profile-depth, and scaffold analyses.
+4. `final/04_predictability_direction_audit.ipynb` — final QC audit confirming predictability-score direction and downstream consistency.
+
+## Archive
+
+Earlier exploratory and superseded notebook versions are retained in `archive/` for provenance.
+"""
+          Path("notebooks/README.md").write_text(readme, encoding="utf-8")
+          Path(".github/workflows/normalize-notebook-paths.yml").unlink()
+          PY
+
+      - name: Commit changes
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Normalize notebook paths and remove duplicates"
+          git push origin HEAD:organize-notebooks-for-lab
