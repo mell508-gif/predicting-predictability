@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - cleanup-notebook-hygiene
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -57,7 +60,6 @@ jobs:
                       if tok.type == tokenize.COMMENT and suspicious_comment.search(tok.string):
                           positions.append(tok.start)
               except (tokenize.TokenError, IndentationError):
-                  # Conservative fallback: only remove whole-line comments.
                   for i, line in enumerate(text.splitlines(), start=1):
                       stripped = line.lstrip()
                       if stripped.startswith('#') and suspicious_comment.search(stripped):
@@ -188,18 +190,15 @@ jobs:
                           stats['markdown'] += removed
 
               rendered = json.dumps(nb, ensure_ascii=False, indent=1) + '\n'
-              # Validation: notebook remains valid JSON and no local home path survives.
               json.loads(rendered)
               if LOCAL_ROOT in rendered:
                   raise RuntimeError(f'Unsanitized local path remains in {path}')
 
-              # Validation: suspicious reader-addressing comments are gone.
               for cell in nb.get('cells', []):
                   if cell.get('cell_type') == 'code':
                       remaining = comment_positions(source_to_text(cell.get('source', [])))
                       if remaining:
                           raise RuntimeError(f'Suspicious comment remains in {path}: {remaining[:3]}')
-                  if cell.get('cell_type') == 'code':
                       for output in cell.get('outputs', []):
                           if output.get('output_type') == 'error':
                               raise RuntimeError(f'Error output remains in {path}')
