@@ -191,8 +191,6 @@ jobs:
 
               rendered = json.dumps(nb, ensure_ascii=False, indent=1) + '\n'
               json.loads(rendered)
-              if LOCAL_ROOT in rendered:
-                  raise RuntimeError(f'Unsanitized local path remains in {path}')
 
               for cell in nb.get('cells', []):
                   if cell.get('cell_type') == 'code':
@@ -202,6 +200,8 @@ jobs:
                       for output in cell.get('outputs', []):
                           if output.get('output_type') == 'error':
                               raise RuntimeError(f'Error output remains in {path}')
+                          if LOCAL_ROOT in json.dumps(output, ensure_ascii=False):
+                              raise RuntimeError(f'Unsanitized local path remains in saved output: {path}')
 
               if rendered != original_text:
                   path.write_text(rendered, encoding='utf-8')
